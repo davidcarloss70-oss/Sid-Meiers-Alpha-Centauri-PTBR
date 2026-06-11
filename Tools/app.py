@@ -121,7 +121,10 @@ class App(ctk.CTk):
             if not os.path.exists(patch_zip):
                 patch_zip = os.path.join(os.path.dirname(sys.executable), "Alpha_Centauri_PTBR_Patch.zip")
 
-        game_d = self.game_dir.get()
+        game_d = self.game_dir.get().strip()
+        if not game_d or not os.path.isdir(game_d):
+            messagebox.showerror("Erro", "Por favor, selecione a pasta correta do jogo.")
+            return
         if not os.path.exists(patch_zip):
             messagebox.showerror("Erro", f"Patch zip não encontrado:\n{patch_zip}")
             return
@@ -144,7 +147,10 @@ class App(ctk.CTk):
             messagebox.showerror("Erro", f"Backup original não encontrado na pasta do programa:\n{backup_zip}")
             return
             
-        game_d = self.game_dir.get()
+        game_d = self.game_dir.get().strip()
+        if not game_d or not os.path.isdir(game_d):
+            messagebox.showerror("Erro", "Por favor, selecione a pasta correta do jogo.")
+            return
             
         if messagebox.askyesno("Confirmar", "Isso irá sobrescrever os arquivos traduzidos e retornar o jogo ao inglês original. Continuar?"):
             try:
@@ -364,7 +370,10 @@ class App(ctk.CTk):
         
         script1 = os.path.join(BASE_DIR, "translate_game.py")
         script2 = os.path.join(BASE_DIR, "translate_phase2.py")
-        game_d = self.game_dir.get()
+        game_d = self.game_dir.get().strip()
+        if not game_d or not os.path.isdir(game_d):
+            messagebox.showerror("Erro", "Por favor, selecione a pasta correta do jogo.")
+            return
         
         if not os.path.exists(script1) or not os.path.exists(script2):
             messagebox.showerror("Erro", "Scripts de tradução não encontrados na pasta Tools.")
@@ -441,3 +450,5 @@ class App(ctk.CTk):
 if __name__ == "__main__":
     app = App()
     app.mainloop()
+
+
