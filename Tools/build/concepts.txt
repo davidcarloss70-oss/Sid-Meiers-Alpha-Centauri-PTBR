@@ -1,0 +1,897 @@
+;
+; Sid Meier's ALPHA CENTAURI
+;
+; BASIC CONCEPTS HELP
+;
+; Copyright (c) 1997, 1998 by Firaxis Games, Inc.
+;
+; ALPHA CENTAURI explains various game concepts with this file
+; Feel free, at your own risk, to experiment with editing
+; this file. We recommend you make a backup copy of the original.
+;
+
+#TITLES
+Chuva
+Rochoso
+Altitude
+Pacto de Irmandade
+Tratado de Amizade
+Trégua de Sangue
+Vingança
+Integridade
+Atrocidades
+Motins de drones
+Idade de Ouro
+Moral
+Monólitos
+Artefatos
+Fungo/Xenofungo
+Combate Psíquico
+Pontos de referência
+Patrulha
+Explorar (Governador)
+Descubra (Governador)
+Construir (Governador)
+Conquistar (Governador)
+Danos e reparos
+Protótipos
+Custo Unitário (Básico)
+Ineficiência (Básica)
+Ecologia (Básico)
+Conselho Planetário
+Governador Planetário
+Comércio (Básico)
+Vitória e Derrota
+Território/Fronteiras
+Poder
+Desengatar
+Zona de Controle
+Bombardeamento
+Drones
+Talentos
+Psíquico
+Marcos, vulcões, etc.
+Propostas do Conselho
+Nutrientes
+Minerais
+Energia
+Economia
+Laboratórios
+Reservas de Energia
+
+#ADVTITLES
+Custo unitário (avançado)
+Ineficiência (Avançado)
+Ecologia (Avançado)
+Comércio (Avançado)
+Pontuação
+Vitória (Diplomática)
+Vitória (Conquista)
+Vitória (Transcendência)
+Vitória (Econômica)
+Vitória (cenário)
+Aposentadoria
+Fórmula de poder
+Drones (Avançado)
+Burocracia
+
+#CONCEPT0
+O nível {Chuva} de uma região determina a quantidade de $LINK<Nutrientes=41> que
+pode ser produzido. Uma região pode ser árida, moderada ou chuvosa, produzindo 0, 1 ou 2
+nutrientes respectivamente. Um $LINK<fazenda=90000> aumenta a produção de nutrientes em 1.
+^
+Além das regiões costeiras e tropicais, as encostas ocidentais (contra o vento) das cadeias montanhosas
+tendem a ser bastante chuvosos, uma vez que o ar quente e úmido esfria à medida que sobe e se espalha
+sua umidade como chuva. Você pode tirar vantagem desse fenômeno aumentando
+colinas a leste de suas bases importantes. Por outro lado, as áreas a leste ou a favor do vento
+cadeias de montanhas tendem a ser bastante áridas.
+^
+Quadrados oceânicos produzem 1 nutriente, a menos que você cultive um $LINK<fazenda de algas=90020>,
+nesse caso eles produzem 3.
+^
+Quadrados especiais {Recurso Nutricional} produzem dois nutrientes extras e
+$LINK<Selva das Monções=39> quadrados produzem um único nutriente extra.
+
+#CONCEPT1
+O {Rochoso} de uma área determina o potencial de produção de $LINK<Mineral=42> daquela região.
+As regiões podem ser planas, onduladas ou rochosas. As regiões {Plano} não produzem minerais, a menos que
+um $LINK<meu=90002> é construído lá e, nesse caso, eles podem produzir um. {Rolando} regiões
+produzir um único mineral, que pode ser aumentado para dois com uma mina. {Rochoso} não melhorado
+as regiões também produzem 1, mas podem produzir 4 com uma mina e uma estrada.
+^
+As áreas rochosas inibem o movimento, custando o dobro do número normal de movimentos para entrar. Eles
+também fornecem um benefício defensivo modesto em combate.
+^
+Os quadrados oceânicos produzem minerais apenas se você construir um $LINK<plataforma de mineração=90022>, no qual
+caso eles produzam 2.
+^
+Quadrados especiais {Recurso Mineral} produzem dois minerais adicionais por turno e
+pode ser aumentado para três extras com uma mina. $LINK<Cratera=39> quadrados também produzem um extra
+mineral.
+
+#CONCEPT2
+O {Altitude} de uma região afeta a quantidade de $LINK<Energia=43> que pode ser coletada
+lá. Para coletar essa energia, você deve construir um $LINK<Coletor Solar=90003>. Áreas abaixo
+1000m acima do nível do mar produzem 1 unidade de energia. De 1000m a 2000m, áreas
+produzir 2 energia; Áreas de 2.000 a 3.000 m produzem 3 energia e áreas com mais de 3.000 m
+acima do nível do mar produzem 4 energia.
+^
+Quadrados oceânicos não produzem energia a menos que você construa um $LINK<arnês de maré=90023>, no qual
+caso eles produzam 3.
+^
+Quadrados especiais {Recurso Energético} produzem duas unidades adicionais de energia por turno. Quadrados
+em $LINK<Planos de urânio=39> e $LINK<Superfícies geotérmicas=39> produzem uma unidade adicional.
+
+
+#CONCEPT3
+Um {Pacto de Irmandade} (ou {Pacto de Irmandade}) é a forma mais próxima de diplomacia
+relacionamento que você pode formar com outra facção. Os Irmãos do Pacto podem entrar uns nos outros
+território livremente, podem acumular-se com as unidades uns dos outros e podem entrar nos territórios uns dos outros.
+bases (e receber reparos lá).
+^
+Espera-se que os Irmãos do Pacto defendam uns aos outros do ataque inimigo. Eles recebem
+{dobro} $LINK<comércio=29> entre suas bases e muitas vezes estão dispostos a compartilhar tecnologias
+pesquisar.
+^
+Um Pacto pode ser encerrado a qualquer momento (o menu do botão direito no menu {Commlink}
+é uma maneira de fazer isso), mas no momento do encerramento todas as suas unidades
+automaticamente enviado para casa a partir do território do seu Irmão Formador Pacto, e vice-versa
+vice-versa.
+
+#CONCEPT4
+Um {Tratado de Amizade} tem como objetivo garantir uma amizade permanente e duradoura
+entre duas facções. Depois de assinar um Tratado, você receberá $LINK<comércio=29>
+benefícios com seus novos amigos. Você não pode, sem repercussões diplomáticas,
+entre no território de uma facção com a qual você tenha um Tratado.
+^
+Um Tratado de Amizade só termina se uma facção atacar outra ou
+recusa um pedido válido de retirada.
+
+#CONCEPT5
+{Trégua de Sangue} marca o fim da vingança entre duas facções. É uma promessa de não
+atacar uns aos outros por um período limitado de tempo. Após cerca de 15-20 anos, um Blood
+A trégua expirará e as duas facções continuarão como Neutras, a menos que voltem a
+atacar um ao outro.
+^
+Tecnicamente, Blood Truce não impede você de entrar em outra facção
+território, mas outros líderes de facções podem não ver as coisas dessa maneira.
+
+#CONCEPT6
+{Vingança} é um estado de guerra entre duas facções. Se você pronunciou Vendetta
+em uma facção (ou outra facção pronunciou isso contra você), espere ser
+atacado.
+
+#CONCEPT7
+{Integridade} mede o valor atual de sua palavra de honra como líder de facção.
+Se você cumprir suas promessas e não trair seus amigos, sua integridade permanecerá
+alto. Atacar facções que você prometeu $LINK<Trégua de Sangue=5> ou assinou
+$LINK<Tratados=4> com testamento
+reduza rapidamente seu índice de integridade e outros líderes de facção não serão mais
+ansioso para fazer tais acordos com você.
+^
+Observe que não há desonra em atacar um inimigo jurado com o qual você não tenha
+prometeu Trégua de Sangue; somente quebrar um acordo pode diminuir sua integridade.
+
+#CONCEPT8
+{Atrocidades} compreendem um conjunto de atos particularmente hediondos proibidos pela
+Carta da ONU da missão da unidade. Atrocidades simples incluem o uso de gás nervoso ou
+guerra genética, grampeamento nervoso de civis e ataques contra civis
+populações (por exemplo, obliteração intencional de uma base). Uso de quase-nuclear
+dispositivos como Destruidores de Planetas são considerados uma grande atrocidade.
+^
+Se você cometer uma Atrocidade Simples, as outras facções provavelmente irão impor
+sanções comerciais por dez ou mais anos, privando-o de todo comércio com seu
+Parceiros do Tratado e do Pacto. A facção contra a qual você cometeu a atrocidade
+provavelmente permanecerá seu inimigo jurado para sempre.
+^
+Se você cometer uma atrocidade grave, será expulso do
+$LINK<Conselho Planetário=27> e
+todas as facções se pronunciarão $LINK<Vingança=6> contra você.
+
+#CONCEPT9
+{Motins de drones} ocorre quando o número de $LINK<Drones=36> em uma base excede o número de
+$LINK<Talentos=37>. Durante os motins, os cidadãos continuarão a alimentar-se, mas sem produção
+ocorrerá e nenhuma energia excedente será produzida. Para acabar com os Drone Riots, você
+terá que restaurar o equilíbrio de Drones e Talentos.
+^
+Os motins de drones podem ser evitados (ou encerrados) por um dos vários métodos: (a) construção
+{instalações relacionadas com a psicologia} como $LINK<Área de Recreação=100006> reduzirá o número de
+Drones na base (b), se sua classificação de engenharia social $LINK<POLÍCIA=130005> for alta o suficiente, você
+pode colocar unidades militares em sua base para servir como â€œpolÃ­ciaâ€ e impor a ordem
+(c) A conversão de alguns trabalhadores para {Médicos} aumentará o número de Talentos, equilibrando
+fora os drones.
+(d) se sua base produz energia suficiente, aumentar sua alocação de energia para {Psíquico} irá
+aumentar o número de
+Talentos em sua base (um talento para cada dois pontos de Psiquiatria produzidos), assim
+restaurando o equilíbrio.
+
+#CONCEPT10
+Um {Idade de Ouro} ocorre quando uma base não tem $LINK<Drones=36>, e
+o número de $LINK<Talentos=37> pelo menos
+é igual ao número de Trabalhadores Regulares e Especialistas.
+^
+Uma Idade de Ouro aumenta significativamente a taxa de {crescimento} e a produção de {energia} de uma base--
+equivalente a +1 $LINK<ECONOMIA=130000> e +2 $LINK<CRESCIMENTO=130006> nas redes sociais
+mesa de engenharia.
+
+#CONCEPT11
+{Moral} reflete o treinamento e a experiência de suas unidades militares. Níveis de moral
+variam de muito verde a verde, de disciplinado a endurecido, veterano, comando e
+Elite. Uma unidade recebe {+12,5% de bônus de combate} para cada nível de moral. O moral joga
+um papel particularmente importante no combate psi, e no combate entre Equipes de Sonda,
+já que nenhum valor de arma e armadura é considerado nesses casos.
+^
+Novas unidades normalmente começam com moral {Verde}, embora possa ser maior ou menor
+dependendo da sua configuração de engenharia social $LINK<MORAL=130004>. O moral de uma nova unidade também pode
+ser aumentado se uma base tiver um $LINK<Centro de Comando=100027> ou outro {instalação} relacionado.
+^
+Unidades alienígenas como Vermes Mentais possuem {ciclos de vida} que corresponde ao moral
+níveis. As unidades alienígenas não são afetadas pelos Centros de Comando e instalações militares,
+mas os níveis do seu ciclo de vida podem ser melhorados através da construção de $LINK<Laboratórios de Biologia=100009> e outros
+instalações semelhantes. A capacidade {transporte} de um $LINK<Ilha das Profundezas=30009> é determinada
+pelo seu nível de ciclo de vida: uma unidade para cada nível.
+^
+Uma unidade vitoriosa em combate receberá frequentemente uma melhoria de moral (quanto menor for o seu
+nível de moral, maior será a probabilidade de uma atualização).
+^
+{Elite} unidades recebem um bônus especial – um movimento adicional a cada turno.
+
+#CONCEPT12
+{Monólitos} são dispositivos alienígenas misteriosos e inexplicáveis descobertos no planeta.
+Um monólito aumentará o $LINK<moral=11> (ou ciclo de vida) de uma unidade em um nível, mas um indivíduo
+unidade pode receber apenas uma atualização monolítica (dica: considere salvar sua atualização para
+aquelas promoções difíceis de conseguir de Commando para Elite).
+^
+Um monólito também reparará completamente qualquer unidade danificada; isso pode ser feito qualquer
+várias vezes, mesmo que uma unidade já tenha recebido um aumento de moral de um
+monólito.
+^
+Quadrados monólitos também podem ser aproveitados para obter recursos e produzirão
+$LINK<2 nutrientes=41>, $LINK<2 minerais=42> e $LINK<2 Energia=43> em cada turno.
+
+#CONCEPT13
+{Artefatos} são dispositivos alienígenas misteriosos e inexplicáveis, às vezes descobertos
+no Planeta. Se você conseguir encontrar um artefato e devolvê-lo para uma de suas bases, você
+terá várias opções: (a) você pode vinculá-lo a um $LINK<Nó de Rede=100008> se tiver
+um, e receba um avanço tecnológico gratuito; (b) você pode usá-lo para acelerar o
+produção de um $LINK<Projeto Secreto=110065> ou Protótipo de Unidade; (c) você pode salvá-lo para usar
+mais tarde.
+^
+Os artefatos podem ser capturados de outros jogadores. Um artefato solitário pode ser capturado por
+qualquer jogador sem penalidade diplomática.
+
+#CONCEPT14
+{Xenofungus} ou {Fungus} é uma forma de vida vegetal nativa de Alpha Centauri. Isto
+tem uma série de propriedades incomuns que você pode descobrir durante o jogo.
+Algumas das propriedades mais óbvias incluem:
+^
+(1) O fungo impede {movimento}. As unidades podem ter dificuldade em entrar nos quadrados do Fungo.
+Aumentar sua classificação de engenharia social em $LINK<PLANETA=130007> aliviará esse problema. Prédio
+a Cúpula de Xenoempatia melhora consideravelmente o movimento dos fungos.
+^
+(2) O fungo tem algum valor {defensiva} na defesa contra outras facções humanas.
+Contra o alienígena $LINK<Vermes Mentais=30008>, entretanto, Fungus tem valor negativo.
+^
+(3) Quadrados de fungo podem ser virados para {recursos}; o nível de recurso fornecido por um
+O quadrado do fungo é determinado pelo número de $LINK<Tecnologias Centauri=140006> que você tem
+descoberto.
+
+#CONCEPT15
+Algumas unidades (geralmente criaturas alienígenas como $LINK<Vermes Mentais=30008>) podem se envolver em
+{COMBATE PSI}. No Psi Combat, as forças das armas e armaduras são ignoradas e
+o atacante recebe uma vantagem de 3 para 2 em terra (1 para 1 em combate marítimo).
+O nível $LINK<MORAL=130004> torna-se muito importante no Psi Combat.
+
+#CONCEPT16
+{Pontos de referência} pode ser definido ao dar ordens de "ir para" a uma unidade. Uma maneira de dar uma unidade
+"ir para" pedidos é clicar nele para ativá-lo e, em seguida,
+mantenha pressionado {botão esquerdo do mouse e arraste} uma "seta de movimento"
+para onde você deseja que a unidade vá. Você pode definir pontos de referência pressionando {BARRA DE ESPAÇO}
+enquanto a seta está sobre um quadrado específico. A unidade se moverá para cada um de seus
+waypoints em seu caminho para seu destino final. Você também pode definir pontos de referência enquanto
+dando ordens de patrulha a uma unidade, de maneira semelhante.
+
+#CONCEPT17
+Uma unidade pode ser informada para {Patrulha} clicando na unidade para ativá-la e selecionando
+a opção Patrulha no menu Ação. Quando o cursor Patrol aparecer, mantenha pressionado o botão
+botão esquerdo do mouse e arraste uma "seta de patrulha" para a área que deseja que a unidade patrulhe.
+A unidade começará a patrulhar entre sua localização atual e o
+local que você especificou. Ele irá "acordar" e solicitar pedidos se encontrar
+uma unidade inimiga. Você pode definir {pontos de referência} em uma patrulha pressionando {BARRA DE ESPAÇO} enquanto
+você arrasta a seta de patrulha.
+
+#CONCEPT18
+Os botões Explorar, Descobrir, Construir e Conquistar na Base
+A tela de controle ativa o {Governador} para essa base. Quando o
+Governador é ativado, ele tomará decisões automaticamente
+com base em suas instruções gerais. Esta função é útil
+para iniciantes e para jogadores que não desejam microgerenciar
+suas bases.
+^
+O botão {EXPLORAR} diz ao Governador de uma base para se concentrar
+encontrar e ocupar novo território. Bases definidas para explorar
+normalmente se concentrará na construção de $LINK<Escoteiros=30002>, $LINK<Vagens de Colônia=30000>,
+$LINK<Transportes=60016> e $LINK<Unidades Navais=40003> ocasional para explorar oceanos.
+Este botão é especialmente útil no início do jogo, quando
+você precisa expandir rapidamente.
+
+#CONCEPT19
+Os botões Explorar, Descobrir, Construir e Conquistar na Base
+A tela de controle ativa o {Governador} para essa base. Quando o
+Governador é ativado, ele tomará decisões automaticamente
+com base em suas instruções gerais. Esta função é útil
+para iniciantes e para jogadores que não desejam microgerenciar
+suas bases.
+^
+O botão {DESCOBRIR} na tela de controle base enfatiza a descoberta científica e
+avanços tecnológicos. O Governador da Base se concentrará em
+construindo {Instalações científicas} (como $LINK<Nós de rede=100008>), $LINK<Segredo
+Projetos=110065>, $LINK<Equipes de Sonda=30006> e $LINK<Unidades Protótipo=23>. Este botão
+é especialmente eficaz com bases grandes e bem protegidas
+em seu interior.
+
+#CONCEPT20
+Os botões Explorar, Descobrir, Construir e Conquistar na Base
+A tela de controle ativa o {Governador} para essa base. Quando o
+Governador é ativado, ele tomará decisões automaticamente
+com base em suas instruções gerais. Esta função é útil
+para iniciantes e para jogadores que não desejam microgerenciar
+suas bases.
+^
+O botão {CONSTRUIR} na tela de controle básico exige infraestrutura e crescimento.
+O Governador Base tenderá a construir {Instalações} e $LINK<Formadores=30001>.
+Use este botão em
+a qualquer momento para que a sua base se concentre no crescimento pacífico.
+
+#CONCEPT21
+Os botões Explorar, Descobrir, Construir e Conquistar na Base
+A tela de controle ativa o {Governador} para essa base. Quando o
+Governador é ativado, ele tomará decisões automaticamente
+com base em suas instruções gerais. Esta função é útil
+para iniciantes e para jogadores que não desejam microgerenciar
+suas bases.
+^
+Use o botão {CONQUISTAR} na tela de controle da base para fortalecer seu exército.
+Neste modo
+sua base produzirá {unidades militares} de todas as variedades,
+e seus recursos associados, como $LINK<Centros de Comando=100027>.
+Use este botão sempre que precisar atacar ou defender.
+
+#CONCEPT22
+As unidades que entram em combate podem ser danificadas. O dano é indicado por
+uma barra colorida no lado esquerdo do ícone de status de uma unidade: Verde representa
+dano leve (ou nenhum); Amarelo e Vermelho mostram danos crescentes.
+^
+O dano pode ser reparado se uma unidade pular todo o seu turno (BARRA DE ESPAÇO) em
+uma base amigável. Uma unidade gravemente danificada pode ter que repetir este procedimento
+operação por várias voltas. NOTA: Os danos não serão reparados em nenhum
+turno em que a unidade é atacada ou bombardeada.
+^
+As unidades também podem realizar "reparos em campo" (ou seja, não na base), mas isso
+O processo é muito mais lento e só é eficaz se a unidade tiver sustentado
+mais de 10% de dano.
+
+#CONCEPT23
+Você pode usar a tela Design Workshop para criar novos tipos de unidades.
+Sempre que você cria uma unidade usando $LINK<arma=60005>, $LINK<armadura=70007>,
+ou $LINK<chassis=40006>
+tipo que você nunca usou antes, você deve {protótipo} o
+unidade.
+^
+Uma unidade protótipo requer um {+50% Minerais} extra para ser construída, embora
+ele recebe um upgrade de bônus $LINK<+1 Moral=11> em compensação desde
+armas experimentais são frequentemente fornecidas a tropas bem treinadas.
+^
+Depois de ter prototipado uma nova unidade, você poderá construí-la no
+futuro sem nenhum custo adicional.
+
+#CONCEPT24
+Ao projetar novas unidades, tenha em mente que unidades fortes em
+três áreas ($LINK<arma=60005>, $LINK<armadura=70007>, $LINK<chassis=40006>)
+será muito mais
+caro do que unidades fortes em apenas duas áreas (ou uma).
+^
+Por exemplo, uma unidade 4-3-2 normalmente custa 70 minerais para ser construída,
+enquanto uma unidade 4-1-2 custa apenas 30 e uma unidade 4-3-1 custa 40.
+Então você pode ter duas unidades pelo preço de uma, sem falar
+o bônus de ataque base de +25% que a unidade 4-3-1 $LINK<infantaria=40000> irá
+receber.
+
+#CONCEPT25
+À medida que sua colônia cresce e você reivindica mais território e constrói mais
+bases, este crescimento irá colocar uma pressão sobre a sua economia. Esta cepa
+aparece como {ineficiência}, o que pode fazer com que você perca alguns de seus
+$LINK<energia=43> produção a cada turno.
+^
+Quanto mais longe uma base estiver da sua base $LINK<Sede=100001>, mais
+ineficiência que experimentará.
+^
+A ineficiência pode ser mitigada em todas as suas bases, fazendo
+escolhas de engenharia social que aumentam seu valor $LINK<EFICIÊNCIA=130001>.
+$LINK<Democrático=120003> a política e $LINK<Verde=120009> a economia aumentam a eficiência.
+^
+A ineficiência pode ser mitigada numa base específica através da construção de uma
+$LINK<Creche Infantil=100002> ali.
+
+#CONCEPT26
+À medida que os humanos se expandem e constroem colónias no Planeta, inevitavelmente começam
+causar danos ecológicos. Danos ecológicos podem provocar o nativo
+formas de vida e causar outros efeitos inesperados.
+^
+Quanto mais $LINK<minas=90002>, $LINK<coletores solares=90003>, $LINK<estradas=90005>,
+e $LINK<fazendas=90000> (mas não $LINK<florestas=90004>,
+que realmente ajudam a ecologia) você constrói, maior será o potencial
+dano. $LINK<Furos,=90014> $LINK<espelhos,=90013> e $LINK<Condensadores=90012> causam danos ainda maiores. Você pode
+reduza ou elimine esse tipo de dano construindo $LINK<Fazenda de Árvores=100013>
+e $LINK<Floresta Híbrida=100014> instalações.
+^
+À medida que a sua produção industrial (minerais) aumenta, os danos ecológicos
+também acontecerá. Este efeito pode ser reduzido através da construção do
+$LINK<Preserva de Centauri=100031>, $LINK<Templo de Planeta=100032>,
+e $LINK<Nanoreplicador=100020>
+instalações.
+
+#CONCEPT27
+Depois de obter frequências de comunicação para todas as facções, você pode
+convocar o {Conselho Planetário} para votar em políticas planetárias, incluindo
+eleição de um $LINK<Governador Planetário=28>.
+^
+Nas eleições para Governador Planetário (e $LINK<Líder Supremo=10005>), cada facção
+emite votos iguais ao tamanho total de todas as suas bases. Este total pode
+ser modificado por poderes de facção e projetos secretos. Somente o líder de
+uma das duas facções com o maior total de votos pode concorrer
+eleição como Governador ou Líder Supremo.
+^
+Nas votações para definir políticas planetárias, cada facção recebe um voto.
+Nessas votações, o atual Governador Planetário tem poder de veto, o que
+só pode ser anulado pelo voto unânime de todas as facções restantes.
+
+#CONCEPT28
+O {Governador Planetário} detém veto executivo em todas as votações no Planetário
+Política. O Governador também recebe {+1 Energia} em $LINK<comércio=29> transações
+com outras facções amigas em cada base, desde o
+aumento do comércio criado por agências globais. A burocracia planetária
+fornece ao governador um infiltrado em todas as outras facções.
+
+#CONCEPT29
+{Comércio} é energia bônus gerada pela troca entre dois aliados
+facções. Sempre que você assinar um $LINK<Tratado=4> ou $LINK<Pacto=3> com outra facção,
+suas bases começarão automaticamente a acumular comércio (e isso
+o benefício também se estende à sua facção parceira).
+^
+O comércio é interrompido sempre que ocorre um $LINK<Vingança=6> entre dois
+facções, ou quando sanções são aplicadas contra uma facção que tenha
+cometeu um $LINK<atrocidade=8>. Pense no comércio como uma recompensa pela paz
+comportamento.
+^
+Entre duas facções, o comércio é mais benéfico para a facção
+que descobriu mais $LINK<Tecnologias econômicas=140045>. $LINK<CEOMorgan=150004>
+ganha bônus adicionais aqui como parte de seu poder de facção. Comércio
+também tende a beneficiar o atual $LINK<Governador Planetário=28>.
+^
+^Você pode aumentar suas taxas de comércio fazendo o seguinte:
+^* Assine mais tratados.
+^* Assine mais pactos (os pactos recebem comércio duplo).
+^* Aumente o tamanho e a economia de suas bases (â€œÃ© preciso energia para produzir energiaâ€).
+^* Descubra mais tecnologias relacionadas à economia
+^
+As tecnologias relacionadas à economia incluem $LINK<Economia Industrial=140045>, $LINK<Industrial
+Automação=140046>, $LINK<Economia Planetária=140061>, $LINK<Nanorobótica Industrial=140073>,
+$LINK<Econometria Senciente=140075> e $LINK<Economia Ambiental=140059>.
+
+#CONCEPT30
+Existem cinco maneiras principais de ganhar o jogo:
+^
+^$LINK<Vitória da Transcendência=10007>
+^$LINK<Conquista Vitória=10006>
+^$LINK<Vitória Diplomática=10005>
+^$LINK<Vitória Econômica=10008>
+^$LINK<Cenário Vitória=10009>
+^
+Para obter informações detalhadas sobre pontuação, consulte $LINK<Pontuação=10004>.
+^
+Para informações sobre aposentadoria e aposentadoria compulsória, consulte
+$LINK<Aposentadoria=10010>.
+
+#CONCEPT31
+Seu {território} consiste em todos os terrenos mais próximos de uma de suas bases terrestres
+no mesmo continente do que em qualquer outro continente. Suas águas territoriais
+consistem em todas as áreas marítimas mais próximas de uma de suas bases marítimas (no mesmo
+oceano) do que para qualquer outra pessoa. O território pode mover-se e mudar durante
+o curso do jogo à medida que as bases são construídas, conquistadas e destruídas.
+^
+Outros líderes de facção podem ficar ofendidos se você mover unidades para dentro deles.
+território, especialmente se você assinou um $LINK<Tratado de Amizade=4>.
+^
+O território nunca se estende por mais de 7 quadrados de uma base terrestre, ou
+3 de uma base marítima.
+
+#CONCEPT32
+Seu {poder} é uma medida de sua posição geral em comparação com
+outras facções. Varia de "Insuperável" (primeiro lugar), a
+"Frágil" (sétimo lugar).
+^
+Might é baseado em uma avaliação holística de sua facção e inclui
+população, tecnologia, projetos secretos e força militar.
+^
+Os gráficos {Domínio da Facção} na trilha de exibição de informações
+poder.
+
+#CONCEPT33
+Unidades rápidas, como Speeders e Hovertanks, às vezes podem
+{desengatar} quando surpreendido por unidades inimigas mais lentas. Uma unidade se desengata
+quando as seguintes condições forem atendidas:
+^
+^* A unidade sofre 50% de dano em relação ao que iniciou o combate.
+^* A unidade é mais rápida que seu atacante, levando em consideração o dano.
+^* A unidade está sozinha em sua praça.
+^* A unidade não atacou no último turno.
+^* Unidade é uma unidade de combate (unidades não combatentes nunca podem se desengajar).
+^*Nem o atacante nem o defensor são unidades aéreas.
+^* O atacante não possui a habilidade $LINK<Bloqueador de comunicação=80009>.
+^* Unidade não possui ordem HOLD e não está em $LINK<bunker=90007>
+ou $LINK<base aérea=90008>.
+^* Está disponível um quadrado de retirada válido, que não é um quadrado $LINK<Fungo=14> (a menos que
+$LINK<Mutagênico Pholus=110055>) e não está adjacente a uma unidade inimiga.
+
+#CONCEPT34
+Cada unidade exerce um {Zona de Controle} em todos os adjacentes
+quadrado (mas as unidades em quadrados marítimos não exercem zonas de controle em terra
+quadrados, nem vice-versa).
+^
+Unidades terrestres normalmente não podem se mover entre dois quadrados em uma área inimiga.
+zona de controle, com as seguintes exceções:
+^* As unidades podem entrar e sair livremente das bases.
+^* As unidades podem atacar livremente qualquer unidade adjacente.
+^* As unidades podem entrar livremente em quadrados que já contenham unidades aliadas.
+^* $LINK<Equipes de Sonda=30006> e unidades com $LINK<Capacidade de camuflagem=80002>
+pode ignorar esta regra.
+^
+As unidades Aéreas e Navais exercem zonas de controle, mas não são afetadas por
+eles.
+
+#CONCEPT35
+Unidades navais e unidades terrestres com a habilidade $LINK<Artilharia Pesada=80015> podem
+conduza {Bombardeamento} selecionando a opção Fogo de longo alcance em
+menu Ação.
+^
+O bombardeio tem a vantagem de danificar potencialmente todas as unidades inimigas
+em um determinado quadrado e a desvantagem de que as unidades terrestres nunca podem
+ser reduzido abaixo de 50% do dano por bombardeio.
+^
+Se o bombardeio for tentado contra um quadrado contendo um inimigo
+unidade naval ou de artilharia, o bombardeio é cancelado e uma
+{Duelo de Artilharia} é iniciado, com o ataque e a defesa
+unidades de artilharia (ou navais) que lutam contra a força de ataque contra ataque. Armadura
+os valores são ignorados para duelos de artilharia.
+
+#CONCEPT36
+{Drones} são cidadãos descontentes e com baixa escolaridade que
+aparecem como resultado da pressão populacional e de outras forças sociais.
+Os Drones funcionam como outros cidadãos, mas se uma base tiver mais Drones do que
+$LINK<Talentos=37>, poderá resultar em $LINK<Motim de drones=9>.
+
+#CONCEPT37
+{Talentos} são cidadãos prósperos e altamente educados, seu intelectual
+elite. Talentos são criados como resultado de condições sociais favoráveis
+e o desvio de energia para $LINK<Psíquico=38>. Desde que uma base tenha pelo menos
+tantos Talentos quanto $LINK<Drones=36>, nenhum $LINK<Motim de drones=9> ocorrerá.
+
+#CONCEPT38
+Energia desviada para {Psíquico} é usada para melhorar a qualidade de vida
+a experiência dos seus cidadãos. Cada duas unidades de energia desviadas para Psych
+criará um {Talento} adicional nessa base.
+
+#CONCEPT39
+Certos {Marcos} importantes na superfície do planeta conferem bônus especiais:
+^
+^{Cratera Guirlanda} confere $LINK<+1 mineral=42> em quadrados internos.
+^{Monte Planeta} confere $LINK<+1 mineral=42> e $LINK<+1 Energia=43> em cada quadrado ao redor da boca.
+^{Planos de urânio} confere $LINK<+1 Energia=43> em cada quadrado.
+^{Superfícies geotérmicas} confere $LINK<+1 Energia=43> em cada quadrado.
+^{Pholus Ridge} confere $LINK<+1 Energia=43> em cada quadrado.
+^{Selva das Monções} confere $LINK<+1 Nutriente=41> em cada quadrado.
+^{Mar de água doce} confere $LINK<+1 Nutriente=41> em cada quadrado.
+^
+Outros marcos não têm efeito além dos efeitos padrão de
+o terreno que representam.
+
+#CONCEPT40
+As seguintes propostas podem ser apresentadas ao Conselho Planetário, uma vez
+tecnologia apropriada é obtida:
+^
+^{Núcleo de fusão da unidade de resgate}: +500 energia para cada facção
+^{Pacto Comercial Global}: As taxas de comércio dobraram em todo o planeta.
+^{Revogação do Pacto Comercial}: As taxas de comércio voltam ao normal.
+^{Lançar sombra solar}: Resfriamento global; o nível do mar cai.
+^{Derreta as calotas polares}: Aquecimento global; o nível do mar sobe.
+^{Revogação da Carta da ONU}: Proibições de atrocidades suspensas.
+^
+O Conselho também elege o $LINK<Governador Planetário=28> por maioria
+voto da população, e por 3/4
+voto da população pode ungir um Líder Supremo, conferindo um
+$LINK<Vitória Diplomática=10005>.
+
+#CONCEPT41
+{Nutrientes} são produzidos em quadrados com $LINK<Chuva=0> suficiente, às vezes
+complementado pela adição de $LINK<Fazendas=90000> e melhorias semelhantes.
+^
+Cada cidadÃ£o de uma base deve â€œcomerâ€ dois nutrientes por turno para sobreviver.
+^
+Os nutrientes excedentes são armazenados. Quando houver excesso suficiente de nutrientes
+acumulado, uma base crescerá, produzindo um novo cidadão.
+
+#CONCEPT42
+{Minerais} são produzidos em quadrados com $LINK<Rochoso=1> suficiente, às vezes
+complementado pela adição de $LINK<Minas=90002> e melhorias semelhantes.
+^
+Depois que uma base excede seu nível $LINK<APOIAR=130002> gratuito, qualquer
+unidades (militares ou não combatentes) consomem um Mineral por turno de apoio.
+^
+Os minerais excedentes são aplicados na produção de $LINK<instalações=100029>,
+unidades e $LINK<projetos secretos=110065> que é uma base
+está criando. Quando minerais suficientes são
+acumulado, a instalação ou unidade é construída.
+
+#CONCEPT43
+{Energia} é produzido em quadrados com $LINK<Coletores Solares=90003>, particularmente
+aqueles em alta $LINK<Altitudes=2>.
+^
+Dependendo da Alocação de Energia que você fez no Social
+Tela de engenharia, toda a energia que você produz é dividida entre três
+prioridades: $LINK<Economia=44>, $LINK<Laboratórios=45> e $LINK<Psíquico=38>.
+Parte da energia uma base
+produz também pode ser perdido para $LINK<Ineficiência=25>.
+
+#CONCEPT44
+$LINK<Energia=43> alocado ao seu {Economia} é adicionado, como créditos de energia,
+para o seu $LINK<Reservas de Energia=46>, que funciona como seu tesouro para fins monetários
+transações.
+
+#CONCEPT45
+$LINK<Energia=43> alocado para {Laboratórios} é usado para conduzir pesquisas científicas.
+Quanto mais energia você alocar para o Labs, mais rápido você fará progressos tecnológicos.
+avanços.
+
+#CONCEPT46
+Seu {Reservas de Energia} representa energia armazenada. Sua função de reservas
+como seu tesouro para transações monetárias.
+^
+Suas reservas de energia aumentam dependendo da quantidade de $LINK<Energia=43>
+você aloca em $LINK<Economia=44> na tela Engenharia Social.
+
+#ADVCONCEPT0
+Ao projetar novas unidades, tenha em mente que unidades fortes em
+três áreas ($LINK<arma=60005>, $LINK<armadura=70007>, $LINK<chassis=40006>)
+será muito mais
+caro do que unidades fortes em apenas duas áreas (ou uma).
+A fórmula básica de custo, para a qual existem vários modificadores, é:
+^
+^Custo = Arma * (Armadura + Velocidade) * 10/(2 ^ (Reator + 1))
+^
+^* Valor da arma nunca inferior a 1/2 valor da armadura.
+^* Unidades nÃ£o-combatentes substituem â€œCusto de Equipamentoâ€ pelo valor da Arma.
+^* O custo é reduzido pela metade para unidades com Velocidade 1.
+^* O custo é reduzido pela metade para unidades marítimas e a armadura tem um desconto de 50%.
+^* Custo dividido em unidades aéreas de combate.
+^* Custo de armadura dobrado para unidades aéreas.
+^* Custo +25% para cada unidade de custo de $LINK<Habilidade Especial=80008>.
+^* Custa +10 minerais se Arma e Armadura forem maiores que 1.
+^* Custa +10 minerais se a arma, armadura e velocidade da unidade terrestre forem maiores que 1.
+^*Custo mínimo (Reator*2 - Reator/2)*10, a menos que todos os valores sejam 1.
+
+
+#ADVCONCEPT1
+A fórmula usada para calcular a energia perdida para {Ineficiência} por
+uma base é:
+^
+^Ineficiência = (Energia * Distância / (64 - ((4 - Eficiência) * 8))
+^
+^Energia | Amount of energy produced by base this turn.
+^Distância | Distance from $LINK<Headquarters=100001> base (16 if no HQ).
+^Eficiência | Social Engineering $LINK<EFFICIENCY=130001> (+2 if
+$LINK<Creche Infantil=100002>)
+^
+^* Se o denominador chegar a zero, TODA a energia será perdida por ineficiência.
+
+#ADVCONCEPT2
+A fórmula do dano ecológico é complexa:
+^(1) Para cada base total o número de $LINK<Minas=90002>, $LINK<Solar
+Coletores=90003>, $LINK<Fazendas=90000>,
+$LINK<Enriquecedores de solo=90001>, $LINK<Estradas=90005>, $LINK<Tubos magnéticos=90006>,
+$LINK<Condensadores,=90012> $LINK<espelhos,=90013>
+e $LINK<Furos=90014>. Unid
+nos quadrados que estão efetivamente a ser trabalhados contam a dobrar.
+^(2) Adicione +8 extras para cada Furo, +6 para cada Espelho e +4 para cada Condensador.
+^(3) Subtraia 1 para cada $LINK<Floresta=90004>.
+^(4) Dividir pela metade se a base tiver $LINK<Fazenda de Árvores=100013> e eliminar se também tiver
+$LINK<Floresta Híbrida=100014>.
+^(5) Divida este valor por 8 e reduza em até 16 mais # do valor anterior
+danos. Deixe esse número de lado.
+^(6) Pegue o número de minerais produzidos neste turno (mas não na Órbita)
+^(7) Se o resultado de 5 foi reduzido em menos de 16+#, reduza o resultado 6
+pelo valor restante.
+^(8) Divida os minerais por 1 mais # de $LINK<Preserva de Centauri=100031>,
+$LINK<Templo de Planeta=100032>,
+$LINK<Nanoreplicador=100020>.
+^(9) Some os valores de (5) e (8) e adicione +5 para cada $LINK<atrocidade=8> principal.
+^(10) Se Alpha Prime estiver no periélio (20 anos em cada 80), dobre
+seu valor.
+^
+^Ecologia% = (ValueFromStep10) * Dificuldade * Tecnologias * (3-PLANETA) * VIDA / 300
+^
+^Dificuldade = Normalmente 3, mas 5 nos dois níveis de dificuldade mais altos.
+^Tecnologias = Número de $LINK<tecnologias=140062> descobertos
+^PLANETA = valor de Engenharia Social $LINK<PLANETA=130007>
+^VIDA = Nível de vida nativo (1-3) do Início Personalizado
+
+#ADVCONCEPT3
+O comércio é calculado base por base entre facções com $LINK<Tratados=4> e
+$LINK<Pactos=3>, como segue:
+^
+^(1) Primeiro, todas as bases de cada facção são classificadas de cima para baixo por produção de energia.
+^(2) As bases são emparelhadas de cima para baixo. Se uma facção tiver bases extras, estas serão ignoradas.
+^(3) Para cada par de bases, somar a produção económica combinada e dividir por 8, arredondando por excesso.
+^(4) Dobrar este valor se um Pacto Comercial Global estiver em vigor.
+^(5) Agora, para cada base individual, a fórmula de comércio é a seguinte:
+^       (ValueFromStep4) * (CommerceTech+1) / (TotalCommerceTech+1)
+^(6) CommerceTech é o número total de tecnologias econômicas descobertas, mais
+facção e bônus sociais.
+^(7) TotalCommerceTech é o número total de tecnologias econômicas no jogo.
+^(8) Agora, usando o valor do passo 5, divida por 2 se não houver Pacto (por exemplo, apenas um Tratado)
+^(9) Adicione +1 se você for $LINK<Governador Planetário=28>.
+^(10) Reduzir para zero se sanções estiverem em vigor contra qualquer uma das facções.
+
+#ADVCONCEPT4
+Sua pontuação Alpha Centauri é calculada da seguinte forma:
+^
+^(1) 1 ponto para cada cidadão de cada base.
+^(2) Se você obteve uma vitória de $LINK<Diplomático=10005> ou $LINK<Econômico=10008>, marque:
+^        (a) 1 ponto para cada cidadão de uma base $LINK<Pact Brother's=3>.
+^        (b) 1/2 ponto para cada cidadão da base de qualquer outra facção.
+^(3) 1 ponto para cada cidadão de uma base rendida.
+^(4) 1 ponto para cada unidade de $LINK<comércio=29> que suas bases estão recebendo.
+^(5) 1 ponto para cada $LINK<tecnologia=140062> descoberto.
+^(6) 10 pontos para cada $LINK<Pensamento Transcendente=140088> avanço.
+^(7) 25 pontos para cada $LINK<Projeto Secreto=110065>.
+^(8) Um bônus de $LINK<Vitória=30> se você ganhou o jogo.
+
+#ADVCONCEPT5
+Você pode vencer o jogo diplomaticamente convencendo uma facção suficiente
+líderes se unam atrás de vocês como Líder Supremo do Planeta. Uma votação de 3/4
+do $LINK<Conselho Planetário=27> é necessário para garantir tal eleição.
+Apenas o líder de uma das duas facções com maior número de votos
+pode concorrer à eleição como $LINK<Governador=28> ou Líder Supremo.
+^
+Quando um Líder Supremo é eleito, o líder da facção pode optar por desafiar a vontade
+do Conselho e recusar submeter-se. Neste caso, o Líder Supremo
+deve, com a ajuda de facções leais, conquistar todas as facções desafiadoras
+para alcançar uma vitória na Conquista. Por causa do poder militar geralmente
+necessário para garantir a eleição como Líder Supremo, desafiando a vontade do
+O Conselho é geralmente bastante suicida. Outras facções irão, portanto,
+geralmente só segue esse caminho se você cometeu atrocidades contra
+ou os traiu grosseira e repetidamente.
+^
+Se você obtiver uma Vitória Diplomática, receberá 1.200 pontos menos
+2 para cada turno de jogo decorrido. Se a Vitória Cooperativa estiver habilitada e
+seu $LINK<Irmão ou Irmã do Pacto=3> é eleito Líder Supremo, você recebe
+metade deste total.
+
+#ADVCONCEPT6
+Você pode ganhar o jogo por conquista se eliminar todos os restantes
+facÃ§Ãµes. FacÃ§Ãµes que se rendem e â€œjuram um pacto para servi-loâ€
+contam como eliminados para este fim. Se a Vitória Cooperativa for
+ativado, você não precisa eliminar nenhuma facção com a qual assinou um
+$LINK<Pacto de Irmandade=3>, embora com exceção das facções de IA rendidas
+nÃ£o mais do que trÃªs facÃ§Ãµes podem â€œganhar juntasâ€ desta forma.
+^
+Por vencer por Conquista, você recebe 1.000 pontos menos 2 por
+cada turno de jogo decorreu. Se a Vitória Cooperativa estiver habilitada e muito mais
+mais de uma facção sobrevive ao jogo, os pontos são divididos entre elas
+com base na população relativa.
+
+#ADVCONCEPT7
+A forma mais elevada de vitória é a Ascensão à Transcendência, a próxima
+passo na evolução da humanidade. Para ascender, você deve completar
+o projeto secreto $LINK<Ascensão à Transcendência=110071>, que só pode ser iniciado
+depois que uma facção concluiu o projeto $LINK<Voz do Planeta=110070>.
+^
+Os jogadores que ascendem à transcendência recebem 2.000 pontos menos
+2 para cada turno de jogo decorrido. Se a vitória cooperativa estiver habilitada,
+todos os $LINK<Irmãos e Irmãs do Pacto=3> participam da vitória e pontos
+são divididos entre todas as facções vencedoras com base na população relativa.
+
+#ADVCONCEPT8
+Você pode obter uma vitória econômica ao dominar o mercado global de energia.
+Você deve ter descoberto $LINK<Economia Planetária=140061> para prosseguir com tal
+um plano.
+^
+Encurralar o Mercado Global de Energia exigirá uma soma de créditos de energia
+aproximadamente igual ao custo para "controlar a mente" de cada base restante
+Planeta. Quando estiver pronto para fazer tal tentativa, selecione "Canto
+Mercado Global de Energia" no menu HQ.
+^
+Quando uma facção tenta encurralar o Mercado Global de Energia, todos os outros
+facções receberão um período de tempo determinado para que possam
+capturar ou destruir o $LINK<Sede=100001> da facção encurralada e, assim,
+frustrar o plano.
+^
+Pela Vitória Econômica, você recebe 1.200 pontos menos 2 por
+cada turno de jogo decorreu. Se a Vitória Cooperativa estiver habilitada, $LINK<Pact Brothers
+e Irmãs=3> da facção vencedora recebem metade dos pontos de bônus.
+
+#ADVCONCEPT9
+Você ganha uma Vitória de Cenário se completar os objetivos com sucesso
+de um cenário. Sua pontuação dependerá das regras específicas do cenário.
+^
+Você não pode ganhar uma Vitória de Cenário se estiver jogando um jogo padrão.
+
+#ADVCONCEPT10
+Você pode se aposentar como líder de facção a qualquer momento selecionando "Aposentar-se"
+no menu do jogo. Isso encerra o jogo e calcula seu $LINK<Alpha Centauri
+Pontuação=10004>.
+^
+Você também deve se aposentar se atingir o ano de aposentadoria compulsória para
+seu jogo ou cenário. Nos jogos normais, a aposentadoria compulsória
+ano é M.Y. 2600 para os níveis Cidadão, Especialista e Talento, e
+M.Y. 2500 para os níveis Bibliotecário, Pensador e Transcendente.
+^
+Você será avisado 20 anos antes de atingir a aposentadoria compulsória.
+
+#ADVCONCEPT11
+A fórmula usada para calcular o poder de uma facção é a seguinte:
+^
+^4 pontos para cada ponto de população
+^4 pontos para cada $LINK<Pensamento Transcendente=140088>
+^?? pontos para cada $LINK<Tecnologia=140062> (soma dos valores Explorar, Descobrir, Construir, Conquistar)
+^10 pontos para cada $LINK<Projeto Secreto=110065>
+^
+^Para cada unidade não-combatente, adicione Custo/40 (tecnicamente MineralRows/4)
+^Para cada unidade psi, adicione Custo/20 (MineralRows/2)
+^Para cada Destruidor de Planetas, adicione Cost/10 (MineralRows)
+^Para unidades de combate, adicione Custo/10 na proporção entre a força da arma e o melhor
+^  arma de qualquer unidade atualmente no jogo.
+^
+^Portanto, uma unidade 2-1-2 sÃ³ vale metade do valor se as armas â€œ4â€ forem as melhores disponÃ­veis.
+
+#ADVCONCEPT12
+Vários fatores contribuem para o número de drones encontrados em uma base
+antes que a polícia, instalações, projetos psicológicos e secretos sejam levados em consideração
+conta:
+^
+(1) Nível de dificuldade: no nível de dificuldade mais baixo, cada cidadão
+depois dos seis primeiros é um drone. Para cada aumento no nível de dificuldade,
+um drone adicional é adicionado, para que, no mais alto nível, todos os cidadãos
+depois do primeiro é um drone.
+^
+(2) Burocracia: dependendo do seu $LINK<EFICIÊNCIA=130001> e da sua dificuldade
+nível, você receberá drones adicionais quando seu {número de bases}
+excede um determinado número. Consulte $LINK<BUROCRACIA=10013>.
+^
+(3) Cidadania Desleal: por aproximadamente 50 turnos após a captura
+uma base inimiga, você receberá drones extras enquanto assimila o
+cidadãos inimigos. A tarifa básica é de 5 drones menos um para cada 10
+turnos decorridos, mas o número nunca pode exceder:
+^^(TamanhoBase + Dificuldade - 2)/4
+^
+(4) Poder da Facção: Algumas facções recebem drones ou talentos adicionais.
+Por exemplo, o $LINK<Universidade=150003> recebe um drone extra para cada 4 cidadãos
+(arredondado para baixo), enquanto os $LINK<Soldados da paz=150007> recebem um $LINK<Talento=37> extra para cada
+4 cidadãos, arredondados.
+
+#ADVCONCEPT13
+{Burocracia} é a adição de Drones extras porque uma facção tem
+excedeu um certo número de bases. A fórmula da burocracia funciona
+do seguinte modo:
+^
+^^BaseLimit = (8 - Dificuldade) * (4 + Eficiência) * MapRoot / 2
+^
+^Onde:
+^Dificuldade = Nível de dificuldade do jogador (0 - 5)
+^Eficiência = classificação de Engenharia Social $LINK<Eficiência=130001>.
+^MapRoot = Quadrado. Raiz de # Quadrados do Mapa / Quadrado. Raiz de 3200.
+^
+Para cada base que uma facção constrói além deste número, um adicional
+O drone aparecerá em alguma base em algum lugar da colônia.
+
+# ; This line must remain at end of file

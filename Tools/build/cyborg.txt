@@ -1,0 +1,138 @@
+;
+; Sid Meier's ALPHA CENTAURI
+;
+; FACTION FILE: The Cybernetic Consciousness
+;
+; Copyright (c) 1999 by Firaxis Games, Inc.
+;
+; ALPHA CENTAURI reads the rules of the game from this file at
+; startup. Feel free, at your own risk, to experiment with editing
+; this file. We recommend you make a backup copy of the original.
+;
+
+#CYBORG
+The Cybernetic Consciousness, The Algorithm, Consciousness, F, 1, Aki Zeta-5, F, -1, 0, 1, 0, 1,
+  TECH, Physic, TECH, InfNet, IMPUNITY, Cybernetic, SOCIAL, ++RESEARCH, SOCIAL, ++EFFIC, SOCIAL, -GROWTH, TECHSTEAL, 0
+  Future Society, Cybernetic, GROWTH
+  Politics, Fundamentalist, nil
+  Cybernetic, Cybern.
+  Alpha Talent, Gamma Thinker, Alpha Legacy
+  Prime Function, analytical, soulless, rational, inflexible, 
+  Unsexed Android
+  impose rational thinking on this Planet
+  to impose rationality and order on the inhabitants of this chaotic Planet
+  destroying all that makes us self-aware
+  destroying all that makes us self-aware 
+  try to reduce us all to a collection of algorithms
+  grafting silicon onto her few remaining biological components
+  grafting silicon onto your few remaining biological components
+  destroying the sentience of unwilling subjects
+  so-called logic, M1
+  quest for rational perfection, M1
+  quest for rational perfection, M1
+  licensing fee, M1
+  developing rational codes for your people to follow
+  my Logic Corps
+  the Dictates of Logic 
+
+#BASES
+Alpha Prime
+Beta Crossing
+Gamma Flats
+Delta Marsh
+Epsilon Center
+Eta Crossroads
+Theta Banks
+Iota Station
+Kappa Hills
+Lambda Farms
+Mu Crescent
+Nu Square
+Xi Ellipse
+Omicron Quadrangle
+Pi Complex
+Rho Yards
+Sigma Complex
+Tau Collective
+Upsilon Depot
+Psi Consensus
+Chi Plains
+Phi Lumiere
+Omega Terminus
+#END
+
+#WATERBASES
+Alpha Basin
+Gamma Breakwater
+Beta Mudflats
+Delta Trench
+Epsilon Reef
+Eta Ridge
+Theta Barrier
+Iota Point
+#END
+
+#BLURB
+Aqueles que se juntam a nós precisam renunciar apenas a metade da sua humanidade - a ilógica,
+metade mal-humorada e desordenada, comumente considerada como 'cérebro direito'
+funcionando. Em troca, as capacidades do "cérebro esquerdo" são aumentadas para níveis nunca antes sonhados.
+potencial. A tendência dos Biológicos de se apegarem, em vez disso, às suas
+personalidades só podem ser atribuídas a tendências evolutivas arcaicas.
+ ^
+ ^-- Função principal Aki Zeta-5,
+ ^"Convergência"
+
+#DATALINKS1
+^LÍDER: {Aki Zeta-5 (Prime Function Shell)}
+^ANTECEDENTES: {Subroutine Specialist under Unity Science Officer}
+^AGENDA: {Rational Objectivity}
+^TÉCNICA: {Information Networks, Applied Physics}
+^
+
+#DATALINKS2
+^+2 PESQUISA: {Human research abilities enhanced by algorithmic control}
+^+2 EFICIÊNCIA: {Cybernetic biologicals extremely efficient}
+^-1 CRESCIMENTO: {Humans 'possessed by an algorithm' find reproduction awkward}
+^Impunidade à penalidade CIBERNÉTICA: {Cybernetic social choice is 'rational' and not dissented by citizens}
+^Pode roubar tecnologia ao capturar uma base
+^{Pode não fazer escolha fundamentalista em engenharia social}
+
+#FACTIONTRUCE
+#xs 440
+#caption $CAPTION7
+"Our strategic simulations predict an inevitable stalemate for this 
+conflict, $NAME1. We therefore attach a high value to Blood Truce at this time."
+
+"I need no simulation to tell me that, $NAME3. Blood Truce is the best choice."
+"That's funny...our simulations predict your inevitable defeat. We see no value in a Blood Truce."
+
+#FACTIONTREATY
+#xs 440
+#caption $CAPTION7
+"You have recently demonstrated enhanced left-brain activity, $TITLE0 $NAME1. 
+A Treaty of Friendship would exponentially increase our mutual capabilities."
+
+"Your conclusions are irrefutable. A Treaty is the only rational path for our people, $NAME3."
+"I prefer my right-brain impulses on this one, $NAME3. You can use what's left of yours."
+
+#ALIENFACTIONTRUCE
+#xs 440
+#caption $CAPTION7
+"Our strategic simulations predict an inevitable stalemate for this 
+conflict, $NAME1. We therefore attach a high value to Blood Truce at this time."
+
+"Wisdom: avoid stalemate. Progenitor: better things to do. Agreement."
+"Your simulations: faulty. Your defeat: inevitable. Answer: negative."
+
+#ALIENFACTIONTREATY
+#xs 440
+#caption $CAPTION7
+"$TITLE0 $NAME1, your devotion to research and your vast intellect make you
+a suitable partner. A Treaty of Friendship would exponentially increase
+our mutual capabilities."
+
+"Geometric power: preferable: arithmetic power. Treaty: excellent idea."
+"Logic flaw: Progenitor: no benefit: your commerce. Answer: negative."
+
+
+# ; This line must remain at end of file
