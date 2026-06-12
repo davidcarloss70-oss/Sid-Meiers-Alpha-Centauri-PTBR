@@ -16,7 +16,7 @@ else:
 BUILD_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'build')
 os.makedirs(BUILD_DIR, exist_ok=True)
 
-BACKUP_DIR = os.path.join(GAME_DIR, "backup_en")
+BACKUP_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "backup_test")
 CACHE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "translation_cache.json")
 
 # Factions to translate
@@ -29,16 +29,13 @@ FACTION_FILES = [
 SCRIPT_FILES = ["Script.txt", "xscript.txt", "Interlude.txt", "interludea.txt", "interludex.txt"]
 MENU_FILES = ["menu.txt"]
 
-# Carregar cache
-if os.path.exists(CACHE_FILE):
-    with open(CACHE_FILE, "r", encoding="utf-8") as f:
-        translation_cache = json.load(f)
-else:
-    translation_cache = {}
+import translate_game
+
+# Use o cache do translate_game
+translation_cache = translate_game.translation_cache
 
 def save_cache():
-    with open(CACHE_FILE, "w", encoding="utf-8") as f:
-        json.dump(translation_cache, f, ensure_ascii=False, indent=2)
+    translate_game.save_cache()
 
 def backup_file(filename):
     src = os.path.join(GAME_DIR, filename)
@@ -47,45 +44,7 @@ def backup_file(filename):
         shutil.copy2(src, dst)
 
 def translate_string(text):
-    text = text.strip()
-    if not text:
-        return text
-        
-    if text in translation_cache:
-        return translation_cache[text]
-        
-    # Translate only if there are letters
-    if not any(c.isalpha() for c in text):
-        return text
-
-    # Handle {} links by replacing them with placeholders
-    links = re.findall(r"\{\$[\w\s]+\}|\{[A-Z_]+\}", text)
-    temp_text = text
-    for i, link in enumerate(links):
-        temp_text = temp_text.replace(link, f"__LINK{i}__")
-
-    # Retry loop
-    max_retries = 3
-    for attempt in range(max_retries):
-        try:
-            translated = GoogleTranslator(source='en', target='pt').translate(temp_text)
-            
-            # Clean up smart quotes and dashes for cp1252
-            translated = translated.replace("“", '"').replace("”", '"').replace("—", "-").replace("‘", "'").replace("’", "'").replace("…", "...")
-            
-            # Restore links
-            for i, link in enumerate(links):
-                translated = translated.replace(f"__LINK{i}__", link)
-                
-            translation_cache[text] = translated
-            save_cache()
-            time.sleep(1) # delay to avoid rate limit
-            return translated
-        except Exception as e:
-            if attempt == max_retries - 1:
-                print(f"Error translating '{text}': {e}")
-                return text
-            time.sleep(2)
+    return translate_game.translate_string(text)
 
 def patch_ini():
     print("Patching Alpha Centauri.ini...")
@@ -176,6 +135,10 @@ def process_script(filename):
         translated = translate_string(stripped)
         lines[i] = translated + "\n"
         
+        if i % 100 == 0:
+            print(f"  Linha {i}/{len(lines)} processada...")
+            translate_game.save_cache()
+        
     with open(dst_path, "w", encoding="cp1252", errors="replace") as f:
         f.writelines(lines)
 
@@ -216,16 +179,15 @@ def process_faction(filename):
             else:
                 translated = translate_string(stripped)
                 lines[i] = translated + "\n"
+                
+        if i % 50 == 0:
+            print(f"  Linha {i}/{len(lines)} processada...")
+            translate_game.save_cache()
 
     with open(dst_path, "w", encoding="cp1252", errors="replace") as f:
         f.writelines(lines)
 
 def main():
-    global translation_cache
-    if os.path.exists(CACHE_FILE):
-        with open(CACHE_FILE, "r", encoding="utf-8") as f:
-            translation_cache = json.load(f)
-
     print("Patching Alpha Centauri.ini...")
     
     for f in MENU_FILES:
