@@ -79,14 +79,14 @@ Ocean Scar
 #END
 
 #BLURB
-Riscos de floração: consideráveis. Mas recompensas da divindade: quem pode medir?
+Riscos de acústica: consideráveis. Mas recompensas da divindade: quem pode medir?
 ^
 ^- Usurpador Judaa Marr
 ^"Coragem: questionar"
 
 
 #DATALINKS1
-^LÍDER: {Usurper Judaa Marr}
+^LÍDER: {Usurpador Judaa Marr}
 ^ANTECEDENTES: {<Unkown>}
 ^AGENDA: {Subvert Planet for galactic domination}
 ^TÉCNICA: {Progenitor Psych, Centauri Ecology, Field Modulation, Applied Physics, Biogenetics}
@@ -100,8 +100,8 @@ Riscos de floração: consideráveis. Mas recompensas da divindade: quem pode medir
 ^TANQUES DE RECICLAGEM gratuitos em todas as bases
 ^"Rede Energética" em cada base: {Increased infrastructure generates additional energy}
 ^Comece o jogo com um Ogro de Batalha Mk I e um Pod de Colônia extra
-^Todas as unidades de combate prototipadas têm raio de visão de 2 quadrados (sensibilidade de "ressonância")
-^Pode direcionar esforços de pesquisa (redescobrindo tecnologia e infraestrutura)
+^Todas as unidades de combate prototipadas possuem raio de visão de 2 quadrados (sensibilidade de "ressonância")
+^Podemos direcionar esforços de pesquisa (redescobrindo tecnologia e infraestrutura)
 ^Possuir uma varredura física da superfície do planeta
 
 #FACTIONTRUCE

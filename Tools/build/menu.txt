@@ -4,6 +4,7 @@
 
 #GAME
 &Jogo
+
 &Mudar para menus detalhados|F11
 &Mudar para menus simples|F11
 &Preferências...|Ctrl+P
@@ -20,18 +21,20 @@
 
 #NETWORK
 &Rede
-&Bater papo|Ctrl+C
+
+&Batedor de papo|Ctrl+C
 &Transmissão de Voz|Hold \ Key
 &Pausa|BKSP
 Personalize sua facção|+
-&Alterar controles de tempo|Shift+T
+&Alterar controles de andamento|Shift+T
 Zoom para mensagens básicas|*
 Use bônus de tempo|Ctrl+SPACE
 Fim da curva|Ctrl+ENTER
-Retomar turno|Ctrl+ENTER
+Retorno ao retorno|Ctrl+ENTER
 
 #HQ
 &QG
+
 &Engenharia Social...|E
 Definir prioridades de pesquisa...|Shift+R
 Alterar objetivo de pesquisa...|Shift+R
@@ -52,30 +55,32 @@ Revise os objetivos do cenário|=
 
 #MAP
 &Mapa
-&Mover unidades|V
+
+&Unidades movedoras|V
 &Ver mapa|V
 &Ampliar|Z
 Diminuir zoom|X
 Zoom padrão|Shift+Z
 Diminuir zoom padrão|Shift+X
-Zoom total|Ctrl+Z
+Total de zoom|Ctrl+Z
 Diminuir zoom total|Ctrl+X
-Alternar terreno achatado|Ctrl+Shift+X
-&Alternar grade do mapa|Ctrl+G
-&Alternar grade base|Ctrl+Shift+G
+Terreno alternativo achatado|Ctrl+Shift+X
+&Nota alternativa do mapa|Ctrl+G
+&Base de notas alternativas|Ctrl+Shift+G
 Mostrar rotas de encaminhamento automático|Ctrl+Shift+B
 &Mostrar ordens de patrulha|Shift+P
 &Levantamento de Terreno|T
 &Produção de Ocultar/Mostrar Nomes|Ctrl+N
 Nome Marco|Shift+N
 Apagar ponto de referência|Ctrl+Shift+N
-&Localize a base...|Ctrl+B
+&Localize uma base...|Ctrl+B
 Posição anterior do cursor|BACKSPACE
 Próxima posição do cursor|Shift+BACKSPACE
 &Tela central|C
 
 #ACTION
 &Ação
+
 &Construir Base...|B
 &Junte-se à Base|B
 &Base obliterada|B
@@ -83,14 +88,14 @@ Próxima posição do cursor|Shift+BACKSPACE
 &Lançamento aéreo|I
 &Detonar carga de mísseis|I
 &Portal Psi|Shift+I
-Recursos de comboio|O
+Recursos de trem|O
 &Destruir melhorias|D
 Dissolver Unidade|Shift+D
 Automatizar Unidade|Shift+A
 &Explorar automaticamente|/
 &Patrulha|P
 Designar execução de bombardeio|B
-Automatize a Defesa Aérea|Ctrl+Shift+A
+Automatize uma Defesa Aérea|Ctrl+Shift+A
 &Vá para Base...|G
 &Grupo vá para...|J
 &Montar grupo|Shift+J
@@ -98,18 +103,19 @@ Automatize a Defesa Aérea|Ctrl+Shift+A
 &Definir base inicial|Ctrl+H
 &Ativar (mover agora)|A
 &Espere (mover mais tarde)|W
-&Descarregar Transporte|Shift+U
+&Baixar Transporte|Shift+U
 Unidade de atualização|Ctrl+U
 Vire o controle da unidade|Ctrl+Shift+U
 Designar Defensor|Ctrl+D
 &Sentinela/Transporte de Bordo|L
 Coloque a unidade "em alerta"|Shift+L
-Segure 10 turnos|Shift+H
+Garanta 10 voltas|Shift+H
 &Mantenha esta posição|H
-Pular turno|Space
+Turno popular|Space
 
 #TERRAFORM
 &Terraforma
+
 Quinta+Solar+Estrada|Ctrl+Shift+S
 Fazenda+Mina+Estrada|Ctrl+Shift+M
 Construir estrada para|Ctrl+R
@@ -119,10 +125,11 @@ Tubos Automáticos|Ctrl+Shift+T
 Sensores Automáticos|Ctrl+Shift+O
 Remoção automática de fungos|Ctrl+Shift+F
 Melhorar automaticamente a base inicial|Ctrl+Shift+A
-Automatize totalmente o antigo|Shift+A
+Automatizar totalmente o antigo|Shift+A
 
 #SCENARIO
 &Cenário
+
 Ativar Editor de Cenário|Ctrl+K
 Visão Onisciente|Y
 Criar unidade...|Shift+F1
@@ -140,7 +147,7 @@ Ver repetição...|Shift+F7
 Ver filmes...|Shift+F8
 Redefinir tecnologia|Ctrl+F8
 Redefinir todas as facções|Ctrl+Shift+F8
-Editar Diplomacia de Facção|Shift+F9
+Editor Diplomacia de Facção|Shift+F9
 Editar personalidade da facção|Ctrl+F9
 Editar estratégia de facção|Ctrl+Shift+F9
 Editar regras personalizadas|Shift+F10
@@ -149,63 +156,99 @@ Editar parâmetros do cenário|Shift+F12
 Editar cenário de vitória|Ctrl+Shift+F12
 Desfazer|Alt+Backspace
 Refazer
+
 Cenário de carga|Ctrl+Shift+F7
 Salvar cenário|Ctrl+F7
 
 #EDITOR
 &Editar mapa
+
 Salvar mapa|Ctrl+F5
 Carregar mapa|Ctrl+Shift+F5
 Colocar elevações|1
 Coloque quadrados rochosos|2
-Coloque as nascentes do rio|3
-Coloque recursos especiais|4
-Colocar pods do Unity|5
+Colocar as nascentes do rio|3
+Colocar recursos especiais|4
+Colocando pods no Unity|5
 Colocar melhorias no terreno|6
 Cobrir/descobrir quadrados do mapa
+
 Coloque um marco natural
-Remover marco natural
+
+Removedor marco natural
+
 Coloque quadrados de referência menores
-Coloque no cursor|Ctrl+Left (+Shift paints)
-Remover no cursor|Ctrl+Right (+Shift paints)
+
+Não coloque o cursor|Ctrl+Left (+Shift paints)
+Removedor sem cursor|Ctrl+Right (+Shift paints)
 &Modo Somente Editor de Pintura|SCROLL LOCK
 Alterar tamanho do pincel|7
 Alternar mapa redondo/plano
+
 Definir parâmetros climáticos e mundiais|8
 (Lento) Gerar mapa aleatório|9
 (Rápido) Gerar mapa aleatório|0
 Gerar/Remover Fungo
+
 Randomizar Rockiness
+
 &Aleatorizar Beacons de Recursos
-&Alternar beacons de recursos aleatórios
+
+&Beacons alternativos de recursos aleatórios
+
 Limpar mapa (todo o oceano) e definir tamanho
+
 Aplicar bonés polares
+
 Limpar bases e unidades
+
 Melhorias em terreno limpo
-Alternar modo "Somente editor"|Ctrl+Shift+F10
+
+Modo alternativo "Somente editor"|Ctrl+Shift+F10
 
 #HELP
 &Ajuda
+
 Índice
+
 Conceitos Gerais
+
 Conceitos Avançados
+
 Tecnologias
+
 Instalações básicas
+
 Projetos Secretos
+
 Engenharia Social
+
 Facções
+
 Tipos de unidades básicas
+
 Tipos de chassi
+
 Tipos de armas
+
 Tipos de defesa
+
 Tipos de reatores
+
 Habilidades Especiais
+
 Tour pela interface
+
 Tour de Terraformação
+
 Tour de controle de base
+
 Tour de Engenharia Social
-Visita à oficina de design
-Detalhes do motim de drones
+
+Visita ao escritório de design
+
+Detalhes do motivo dos drones
+
 Sobre Alfa Centauri|Ctrl+Shift+F4
 Mostrar número da versão|Ctrl+F4
 

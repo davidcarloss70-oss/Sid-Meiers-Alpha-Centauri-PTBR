@@ -684,7 +684,7 @@ Preenchimentos de texto
 Carregar
 Salvar
 Editor de IA
-SEM TÍTULO
+SEM TITLE
 Autosave de Alfa Centauri
 ORÇAMENTO
 CUSTO TOTAL
@@ -1126,7 +1126,7 @@ ESCOLHA SUAS FACÇÕES
 As facções originais do SMAC
 As novas facções
 Misture facções antigas e novas
-MUDAR NOME
+MUDAR NAME
 CITAR
 JOGAR FACÇÃO ALEATÓRIA
 JOGUE FACÇÃO SELECIONADA

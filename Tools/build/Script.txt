@@ -280,7 +280,7 @@ Fêmea
 
 #NAME
 #xs 440
-#caption DIGITE SEU NOME
+#caption DIGITE SEU NAME
 #x -5
 #y -5
 #itemlist
@@ -414,7 +414,7 @@ sua facção $<M1:$FACTIONADJ0>, que acabou de criar PLANETFALL!
 #xs 400
 #x -5
 #y -5
-#caption $TÍTULO2 $NOME3
+#caption $TITLE2 $NAME3
 $NAME3, sua facção $<M1:$FACTIONADJ0> prosperou nos $NUM0 anos
 desde Planetfall. Seu projeto secreto, $PROJECTNAME4, é
 concluído e você está finalmente pronto para colocar seus planos em ação
@@ -693,7 +693,7 @@ As florestas não podem ser plantadas até descobrirmos $TECH0.
 #wave 5
 #caption Diretor de Operações
 Essa praça já tem estrada. As estradas podem não ser
-convertido para Magtubes até descobrirmos $ TECH0.
+converted to Magtubes until we discover $TECH0.
 
 #HASFARM
 #xs 320
@@ -701,14 +701,14 @@ convertido para Magtubes até descobrirmos $ TECH0.
 #caption Ecologista Planetário
 Aquela praça já tem uma fazenda. Fazendas
 não podem ser convertidos em Enriquecedores de Solo
-até descobrirmos $ TECH0.
+until we discover $TECH0.
 
 #NOTUNTILTECH
 #xs 320
 #wave 4
 #caption Ecologista Planetário
 A operação "$TERRAFORMTYPE6" não pode ser executada
-até descobrirmos $ TECH0.
+until we discover $TECH0.
 
 #ALREADYBUILT
 #xs 320
@@ -1293,7 +1293,7 @@ Use um slot de design vazio.
 #xs 440
 #caption Engenheiro Chefe
 Não podemos projetar unidades com duas habilidades especiais
-até termos pesquisado $ TECH0.
+until we have researched $TECH0.
 
 #UNITREACTOR
 #xs 440
@@ -1570,7 +1570,7 @@ Os $FACTION0 e $FACTION1 renunciaram ao $PACT2.
 #xs 320
 #caption Nível de dificuldade: $DIFF0
 ^^$TITLE1 $NAME2 da $FACTION3
-^^$DATA4
+^^$DATE4
 
 #LOADNONE
 #xs 440
@@ -1579,7 +1579,7 @@ Os $FACTION0 e $FACTION1 renunciaram ao $PACT2.
 ^^
 ^^FALHA AO ABRIR ARQUIVO
 ^^
-^^"$ARQUIVO0"
+^^"$FILE0"
 ^^
 
 #LOADNOT
@@ -1589,7 +1589,7 @@ Os $FACTION0 e $FACTION1 renunciaram ao $PACT2.
 ^^
 ^^ NÃƒO Ã‰ UM ARQUIVO SALVAR/MAPA VÃ?LIDO
 ^^
-^^"$ARQUIVO0"
+^^"$FILE0"
 ^^
 
 #LOADOLD
@@ -1599,7 +1599,7 @@ Os $FACTION0 e $FACTION1 renunciaram ao $PACT2.
 ^^
 ^^SAVE/MAP ARQUIVO ESTÁ OBSOLETO
 ^^
-^^"$ARQUIVO0"
+^^"$FILE0"
 ^^
 
 #LOADERROR
@@ -1609,7 +1609,7 @@ Os $FACTION0 e $FACTION1 renunciaram ao $PACT2.
 ^^
 ^^ERRO NA LEITURA DO ARQUIVO
 ^^
-^^"$ARQUIVO0"
+^^"$FILE0"
 ^^
 
 #SAVEERROR
@@ -1619,7 +1619,7 @@ Os $FACTION0 e $FACTION1 renunciaram ao $PACT2.
 ^^
 ^^FALHA AO ESCREVER O ARQUIVO
 ^^
-^^"$ARQUIVO0"
+^^"$FILE0"
 ^^
 
 #STEALTECH
@@ -2067,7 +2067,7 @@ projeto secreto, codinome "$PROJECT3".
 #caption Netflash!
 O projeto secreto $<M1:$FACTIONADJ0>, "$PROJECT1," foi cancelado. O
 $FACTION2 $<2:is:are> agora redirecionando os esforços de $<2:its:their> para um novo objetivo,
-"$PROJETO3."
+"$PROJECT3."
 
 #HALTPROJECT
 #xs 400
@@ -2242,7 +2242,7 @@ unidades aéreas em vôo.
 #caption Relatório de status: comunicações
 #button Profile
 ^Integridade: $INTEG0
-^Pode: $PODE1
+^Might: $MIGHT1
 
 #COMMNOBODY
 #xs 400
@@ -2505,7 +2505,7 @@ seu $TITLE2, que pretende impedir você de $IMPLEMENTING_YOUR_EVIL_AGENDA5."
 "Saudações, $TITLE0 $NAME1, e cuidado! Embora você esteja empenhado em
 $IMPLEMENTING_YOUR_EVIL_AGENDA6, você e seu $FOLLOWPEJORATIVE5
 seguidores não podem resistir à ira de $TITLE2 $NAME3 do
-$FACÇÃO4!"
+$FACTION4!"
 
 #INTROMAD2
 #xs 440
@@ -2532,7 +2532,7 @@ $NAME3, $TITLE2 da $FACTION4!"
 #xs 440
 #caption $CAPTION7
 "Custou-me muito dinheiro desenvolver o $LASERCRAWLERPROTOTYPE0.
-Você está disposto a ceder créditos de energia de US$ NUM0 para os planos?"
+Are you willing to part with $NUM0 energy credits for the plans?"
 
 "Deixa para lá."
 Pague $NUM0 em créditos de energia.
@@ -2611,7 +2611,7 @@ dados."
 "E observe enquanto seus lacaios $FOLLOWERPEJORATIVE3 torcem o
 frutos do meu trabalho em instrumentos de vil traição?
 Acho que você superestima minha credulidade, minha querida
-$TÍTULO0!"
+$TITLE0!"
 
 #REJTECHHATE2
 #xs 440
@@ -2885,7 +2885,7 @@ Consulte Datalinks.
 #caption $CAPTION7
 "Então eu, $TITLE0 $NAME1 da $FACTION2 saúdo você formalmente
 como $PACTBROTHERORSISTER3! Juntos, nós dois
-$SEUGOAL4 e $MYGOAL5. Que nossos planos e forças convirjam para a vitória!"
+$YOURGOAL4 and $MYGOAL5. May our plans and forces converge to victory!"
 
 #MAKETREATY0
 #xs 440
@@ -2907,7 +2907,7 @@ desta amizade. Iniciaremos o comércio e o comércio imediatamente!"
 #xs 440
 #caption $CAPTION7
 "Eu me comprometo, $NAME4 da $FACTION5, com a Trégua de Sangue com o
-$FACÇÃO2."
+$FACTION2."
 
 #TRUCEMEPAY
 #xs 440
@@ -2925,7 +2925,7 @@ meus pagamentos de empréstimo de crédito de energia de $NUM0."
 #AIDSTHEM
 #xs 440
 #caption Oficial de Comunicações
-A $FACTION0 $<0:intervenes:intervene> em nome da $FACTION1! $TÍTULO2 $NOME3
+The $FACTION0 $<0:intervenes:intervene> on behalf of the $FACTION1! $TITLE2 $NAME3
 pronuncia vingança contra você!
 
 #AIDSUS
@@ -3747,14 +3747,14 @@ invasão implacável, falarei um $PACTOFBROTHERHOODSISTERHOOD3 com você
 e fornecer {$NUM0 energy credits} para cobrir suas despesas."
 
 "Que pena. Você está sozinho."
-"Pronto. Vingança contra $ FACTION2!"
+"Done. Vendetta upon the $FACTION2!"
 
 #PLEATECH
 #xs 440
 #caption $CAPTION7
 "Estou sob ataque das forças do $<1:$CHARPEJ8> $TITLE0 $NAME1
 do $FACTION2, que está empenhado em $EVILAGENDA9. Se você se juntar a mim para resistir a isso
-invasão implacável, falarei um $ PACTOFBORS3 com você e
+ruthless invasion I shall speak a $PACTOFBORS3 with you and
 fornecerá créditos de energia de $NUM0 para cobrir suas despesas.
 Também compartilharei com vocês todas as minhas informações sobre {$TECH4.}"
 
@@ -3766,8 +3766,8 @@ Também compartilharei com vocês todas as minhas informações sobre {$TECH4.}"
 #caption $CAPTION7
 "Apelo a você como vítima do $<1:$CHARPEJ8> $TITLE0 $NAME1 de
 o $FACTION2, que jurou um falso $PACTOFBORS5 com você e está
-na verdade, apostado em $ EVILAGENDA9. Você poderia
-não jure um verdadeiro pacto comigo e ajude a resistir à agressão de $ HISHER6
+actually bent on $EVILAGENDA9. Will you
+not swear a true Pact with me and help resist $HISHER6 aggression
 antes que seja tarde demais e você se torne a próxima vítima de $HISHER6? Devo
 até mesmo forneça {$NUM0 credits} para cobrir suas despesas."
 
@@ -3779,8 +3779,8 @@ até mesmo forneça {$NUM0 credits} para cobrir suas despesas."
 #caption $CAPTION7
 "Apelo a você como vítima do $<1:$CHARPEJ8> $TITLE0 $NAME1 de
 o $FACTION2, que jurou um falso $PACTOFBORS5 com você e está
-na verdade, apostado em $ EVILAGENDA9. Você poderia
-não jure um verdadeiro pacto comigo e ajude a resistir à agressão de $ HISHER6
+actually bent on $EVILAGENDA9. Will you
+not swear a true Pact with me and help resist $HISHER6 aggression
 antes que seja tarde demais e você se torne a próxima vítima de $HISHER6? Devo
 até mesmo forneça {$NUM0 credits} para cobrir suas despesas e transmitir
 para você todos os meus dados em {$TECH4.}"
@@ -3840,7 +3840,7 @@ um ataque surpresa contra $FACTION6."
 #xs 440
 #caption $CAPTION7
 "Então, $TITLE0 $NAME1, vejo que você entrou em conflito com nosso amiguinho
-$TÍTULO2 $NOME3. Só entre você e eu, recentemente obtive um
+$TITLE2 $NAME3. Just between you and me, I've recently obtained a
 mapa completo de cada instalação principal de $<M1:$FACTIONADJ4>, e eu
 ficaria mais do que feliz em lhe fornecer uma cópia em troca
 por $NUM0 créditos de energia."
@@ -3852,7 +3852,7 @@ por $NUM0 créditos de energia."
 #xs 440
 #caption $CAPTION7
 "Então, $TITLE0 $NAME1, vejo que você entrou em conflito com nosso amiguinho
-$TÍTULO2 $NOME3. Só entre você e eu, recentemente obtive um
+$TITLE2 $NAME3. Just between you and me, I've recently obtained a
 mapa completo de cada instalação principal de $<M1:$FACTIONADJ4>, e eu
 ficaria mais do que feliz em lhe fornecer uma cópia em troca
 para seus arquivos em {$TECH5.}"
@@ -4256,7 +4256,7 @@ Consulte Datalinks.
 #xs 440
 #caption $CAPTION7
 "Talvez você agora tenha aprendido sua lição,
-$TÍTULO1 $NOME2. Você pode me trocar seus dados em {$TECH0}
+$TITLE1 $NAME2. Will you trade me your data on {$TECH0}
 para pôr fim a esta vingança, ou você arriscará
 destruição total em minhas mãos?"
 
@@ -4715,7 +4715,7 @@ em meu $PETPROJECTS3, $TITLE1 $NAME2. Você é um líder muito prudente."
 #xs 440
 #caption $CAPTION7
 "Diz-se que você traiu brutalmente $TITLE0 $NAME1 da $FACTION2.
-Embora eu não deva chorar por $ HIMHER3, sugiro que você se abstenha
+Though I shan't shed any tears for $HIMHER3, I suggest you refrain
 de tentar o mesmo comigo."
 
 #WRONGEDMIGHTY
@@ -4934,7 +4934,7 @@ antes que um sistema tão injusto possa criar raízes neste mundo jovem!"
 #xs 440
 #caption $CAPTION7
 "Sua violação sistemática dos recursos limitados do planeta é imperdoável,
-$TÍTULO0 $NOME1. Já que você não atendeu aos meus avisos sobre isso
+$TITLE0 $NAME1. Since you have failed to heed my warnings on this
 questão, não vejo outra escolha senão usar a força militar para pôr fim
 aos crimes ambientais que cometes em nome da economia de mercado.
 Vingança contra você, $TITLE0 $NAME1, em nome do Planeta!"
@@ -5727,7 +5727,7 @@ As forças $FACTION0 $<0:reports its:report their> estão atacando $FACTION1.
 â€œVamos coordenar nossos planos de batalha!â€?
 "Por favor, cancele sua vingança contra meu amigo..."
 "Preciso do seu voto em uma próxima reunião do Conselho."
-"Declaro nosso $ PACTOFBROS1 nulo e sem efeito!"
+"I declare our $PACTOFBROS1 null and void!"
 "Você violou meu território. Saia imediatamente!"
 
 #PROPOSAL
@@ -5797,7 +5797,7 @@ O que você tem em mente?"
 "Ora, minha boa vontade e amizade, $TITLE0 $NAME1."
 "Você só precisa indicar seu preço, $TITLE0."
 "Para evitar esmagá-lo como um inseto."
-"Caso contrário, cancelarei nosso $ PACTOFBORS2."
+"I shall otherwise cancel our $PACTOFBORS2."
 "Alguns dos meus valiosos dados de pesquisa, talvez?"
 "Eu concederei a você TODOS os meus dados de pesquisa."
 "Você acharia útil uma modesta soma de créditos de energia?"
@@ -5849,7 +5849,7 @@ cúpulas até mesmo da menor das minhas belas bases."
 #xs 440
 #caption $CAPTION7
 "Bem, $BASENAME0 é uma colônia prisional sem importância. Suponho que poderia ser
-persuadido a se desfazer dele por, digamos, créditos de energia de US$ NUM0."
+persuaded to part with it for, say, $NUM0 energy credits."
 
 "Você deve estar brincando. $NUM0 por aquela maldita colmeia?"
 Pague $NUM0 em créditos de energia.
@@ -5912,13 +5912,13 @@ bases para coletar energia.
 
 #THESECRET0
 #xs 440
-#caption $ TECNOLOGIA0
+#caption $TECH0
 Seus pesquisadores descobriram o $TECH0! A emoção
 desta descoberta estimula uma explosão de novas pesquisas!
 
 #THESECRET1
 #xs 440
-#caption $ TECNOLOGIA0
+#caption $TECH0
 Pesquisadores de $<M1:$FACTIONADJ1> descobriram o $TECH0! A descoberta
 estimulou uma explosão de pesquisas $<M1:$FACTIONADJ1>.
 
@@ -5986,7 +5986,7 @@ uma ação de equipe de investigação contra $TITLE5 $NAME6 da $FACTION7.
 Isso é desculpa suficiente para
 renuncie ao nosso $PACTOFBORS2 com o $FACTION3.
 
-Envie uma repreensão severa. Vou tolerar a ação de $ HISHER4 por enquanto.
+Send a stern rebuke. I shall tolerate $HISHER4 act for now.
 Renuncie ao $PACTOFBORS2!
 
 #PACTEXCUSE
@@ -5995,7 +5995,7 @@ Renuncie ao $PACTOFBORS2!
 A ação de $TITLE0 $NAME1 é desculpa suficiente para
 renuncie ao nosso $PACTOFBORS2 com o $FACTION3.
 
-Envie uma repreensão severa. Vou tolerar a ação de $ HISHER4 por enquanto.
+Send a stern rebuke. I shall tolerate $HISHER4 act for now.
 Renuncie ao $PACTOFBORS2!
 
 #FRAMEEXCUSE
@@ -6151,7 +6151,7 @@ A operação Mind Control é um sucesso, $TITLE0! $BASENAME3 é nosso!
 #xs 440
 #wave 19
 #caption Diretor de Operações
-$TÍTULO4 $NOME5! A $FACTION2 $<2:has:have> usou algum tipo de controle mental
+$TITLE4 $NAME5! The $FACTION2 $<2:has:have> used some kind of mind control
 sonda para assumir o controle de $BASENAME3!
 
 #MINDCONTROL2
@@ -6518,7 +6518,7 @@ sendo interrogado e avisado.
 #xs 440
 #caption Diretor de Operações
 A equipe de investigação $<M1:$FACTIONADJ0> foi interrogada e repatriada,
-$TÍTULO1.
+$TITLE1.
 
 #ROADTODONE
 #xs 440
@@ -6966,13 +6966,13 @@ o $FACTION1!
 #xs 440
 #wave 9
 #caption Capelão Psíquico
-Uma mudança tão drástica em nossa sociedade nos custaria US$ NUM0 em créditos de energia
+Such a drastic change in our society would cost us $NUM0 energy credits
 para efeito, mas temos apenas $NUM1 créditos em reserva.
 
 #UPHEAVAL
 #xs 440
 #caption Capelão Psíquico
-Uma mudança tão drástica em nossa sociedade nos custará US$ NUM0 em créditos de energia
+Such a drastic change in our society will cost us $NUM0 energy credits
 para efeito. Temos créditos de $NUM1 disponíveis.
 
 Deixa para lá.
@@ -7000,10 +7000,10 @@ Avanços a cada [$NUM0 anos].
 Próxima descoberta prevista para [$NUM0 anos (M.Y. $NUM1)].
 
 #LOANPAYMENT
-$SUSPENDED3Pagamento do empréstimo: $NUM0/ano para $TITLE0 $NAME1 de $FACTION2 (Saldo: $NUM1)
+$SUSPENDED3Loan Payment: $NUM0/year to $TITLE0 $NAME1 of the $FACTION2 (Balance: $NUM1)
 
 #LOANINCOME
-$SUSPENDED3Renda do empréstimo: $NUM0/ano de $TITLE0 $NAME1 de $FACTION2 (Saldo: $NUM1)
+$SUSPENDED3Loan Income: $NUM0/year from $TITLE0 $NAME1 of the $FACTION2 (Balance: $NUM1)
 
 #FACTENERGYBON
 Bônus de energia da facção: +$NUM0% de reservas por ano
@@ -7640,7 +7640,7 @@ armas, ficarei feliz em fazer o mesmo."
 #xs 440
 #caption $CAPTION7
 "Assim seja. Como um favor pessoal para você, prometerei Trégua com
-$TÍTULO0 $NOME1."
+$TITLE0 $NAME1."
 
 #COUNCILNEEDALL
 #xs 440
@@ -7684,7 +7684,7 @@ $TITLE0 $NAME1 se recusa a falar com você.
 #xs 440
 #caption $CAPTION7
 "Receio já ter prometido meu voto nesse assunto para
-$TÍTULO0 $NOME1."
+$TITLE0 $NAME1."
 
 #BUYNO
 #xs 440
@@ -7712,7 +7712,7 @@ custará US$NUM0 em créditos de energia."
 #xs 440
 #caption $CAPTION7
 "Estou disposto a mudar meu voto para SIM, mas isso
-custará US$ NUM0 em créditos de energia ou seu
+will cost you either $NUM0 energy credits or your
 arquivos em $TECH0."
 
 #BUYVOTEYEA2
@@ -7749,7 +7749,7 @@ custará US$NUM0 em créditos de energia."
 #xs 440
 #caption $CAPTION7
 "Estou disposto a mudar meu voto para NÃO, mas isso
-custará US$ NUM0 em créditos de energia ou seu
+will cost you either $NUM0 energy credits or your
 arquivos em $TECH0."
 
 #BUYVOTENAY2
@@ -7817,13 +7817,13 @@ seus arquivos em $TECH0, $TECH1, $TECH4 e $TECH5."
 #xs 440
 #caption $CAPTION7
 "Estou disposto a apoiá-lo para governador, mas
-isso custará US$ NUM0 em créditos de energia."
+it will cost you $NUM0 energy credits."
 
 #BUYVOTEGOV1
 #xs 440
 #caption $CAPTION7
 "Estou disposto a apoiá-lo para governador, mas
-custará US$ NUM0 em créditos de energia
+it will cost you either $NUM0 energy credits
 ou seus arquivos em $TECH0."
 
 #BUYVOTEGOV2
@@ -7851,9 +7851,9 @@ em $TECH0, $TECH1, $TECH4 e $TECH5!"
 "Não importa, não posso permitir isso."
 Pague $NUM0 em créditos de energia.
 Produza arquivos em $TECH0.
-Ofereça $ TECH0 e $ TECH1.
-Ofereça $ TECH0, $ TECH1 e $ TECH4.
-Ofereça $ TECH0, $ TECH1, $ TECH4 e $ TECH5.
+Offer $TECH0 and $TECH1.
+Offer $TECH0, $TECH1, and $TECH4.
+Offer $TECH0, $TECH1, $TECH4, and $TECH5.
 
 #WHICHVOTE
 #xs 320
@@ -7918,7 +7918,7 @@ $NUM1 metros nos próximos $NUM0 anos.
 #xs 440
 #caption Planetologista Chefe
 Os danos ecológicos começaram a desencadear o aquecimento global! De acordo com
-nossos cálculos, o nível do mar aumentará aproximadamente NUM1 metros
+our calculations, sea levels will rise approximately $NUM1 meters
 nos próximos $NUM0 anos!
 
 #SEARISING
@@ -8411,14 +8411,14 @@ Somente unidades de combate e terraformadores podem destruir melhorias de terren
 #caption É a vida, Jim, mas não como a conhecemos.
 #xs 400
 #button Break
-^$ERRO0: $ERRO1
+^$ERROR0 : $ERROR1
 ^$NUM0 $NUM1 $NUM2
 
 #DANGER2
 #caption Erro de programa
 #xs 400
 #button Break
-^$ERRO0: $ERRO1
+^$ERROR0 : $ERROR1
 ^$NUM0 $NUM1 $NUM2
 
 #SCENEDITOR
@@ -8490,9 +8490,9 @@ Não (jogar -todas-fações sequencialmente => para construção de cenário).
 #EDITORENERGY
 #xs 440
 #caption Definir reservas de energia de $STR0
-($OMS1: $NUM1) ($OMS2: $NUM2) ($OMS3: $NUM3)
-($OMS4: $NUM4) ($OMS5: $NUM5) ($OMS6: $NUM6)
-($OMS7: $NUM7)
+($WHO1: $NUM1) ($WHO2: $NUM2) ($WHO3: $NUM3)
+($WHO4: $NUM4) ($WHO5: $NUM5) ($WHO6: $NUM6)
+($WHO7: $NUM7)
 
 Energia:
 
@@ -8617,7 +8617,7 @@ $TITLE1 $NAME2 arrasou os cidadãos de $BASENAME0!
 #VOLCANO
 #xs 440
 #caption Planetologista Chefe
-$TÍTULO0 $NAME1! Nossas leituras sísmicas acabaram de sair do gráfico!
+$TITLE0 $NAME1! Our seismic readouts have just shot off the chart!
 Parece que um novo vulcão entrou em erupção!
 
 #BUMPER
@@ -8935,7 +8935,7 @@ O Scenario Editor não pode ser ativado durante um jogo multijogador.
 ^^
 ^^ANO DE APOSENTADORIA OBRIGATÓRIA!
 ^^
-^^O JOGO TERMINARÁ EM M.Y. $ANO0
+^^GAME WILL END IN M.Y. $YEAR0
 ^^
 
 #TIMELIMIT
@@ -8944,16 +8944,16 @@ O Scenario Editor não pode ser ativado durante um jogo multijogador.
 ^^
 ^^ANO DE APOSENTADORIA OBRIGATÓRIA!
 ^^
-^^ M.Y. $ANO0
+^^M.Y. $YEAR0
 ^^
 ^^FIM DO JOGO
 ^^
 
 #WINSTRING
-$TITLE0 $NAME1 das $FACTION2 vence! Objetivos: $OBJETIVOS3.
+$TITLE0 $NAME1 of the $FACTION2 wins! Objectives: $OBJECTIVES3.
 
 #WINSTRING2
-$TITLE0 $NAME1 da $FACTION2 também ganha! Objetivos: $OBJETIVOS3.
+$TITLE0 $NAME1 of the $FACTION2 also wins! Objectives: $OBJECTIVES3.
 
 #REALLYKILLBASE
 #xs 320
@@ -9418,7 +9418,7 @@ foi frustrado!
 ^^
 ^^(Sincronização de localização do veículo alterada)
 ^^$NUM6 $NUM4 ($NUM0,$NUM1) => ($NUM2,$NUM3)
-^^$DADOS0
+^^$DATA0
 
 #EDITMORALE
 #xs 440
@@ -9620,7 +9620,7 @@ Máximo de pílulas de bônus acumuladas:
 ^^ NÃƒO Ã‰ POSSÃ?VEL CARREGAR O JOGO MULTIJOGADOR COM SENHA
 ^^NO MODO ÚNICO JOGADOR
 ^^
-^^"$ARQUIVO0"
+^^"$FILE0"
 ^^
 
 #VERSIONCONTROL
@@ -9628,7 +9628,7 @@ Máximo de pílulas de bônus acumuladas:
 ^^
 ^^SID MEIER'S ALPHA CENTAURI
 ^^
-^^VERSÃO: $VERSÃO0
+^^VERSION: $VERSION0
 ^^DATA: $VERSIONDATE1
 ^^
 
@@ -9637,11 +9637,11 @@ Máximo de pílulas de bônus acumuladas:
 #caption Planetologista Chefe
 Danos ecológicos, particularmente causados ??por $FACTION0,
 começou a desencadear o aquecimento global! De acordo com
-nossos cálculos, o nível do mar aumentará aproximadamente NUM1 metros
+our calculations, sea levels will rise approximately $NUM1 meters
 nos próximos $NUM0 anos!
 
 #DRAWSTRING
-$TITLE0 $NAME1 dos sorteios de $FACTION2! Objetivos: $OBJETIVOS3.
+$TITLE0 $NAME1 of the $FACTION2 draws! Objectives: $OBJECTIVES3.
 
 #MISSILESPECIAL
 #xs 440
@@ -9678,13 +9678,13 @@ Turnos:
 #xs 440
 #caption $CAPTION7
 "Estou disposto a apoiar $TITLE6 $NAME8, mas
-isso custará US$ NUM0 em créditos de energia."
+it will cost you $NUM0 energy credits."
 
 #BUYVOTEGOV1A
 #xs 440
 #caption $CAPTION7
 "Estou disposto a apoiar $TITLE6 $NAME8, mas
-custará US$ NUM0 em créditos de energia
+it will cost you either $NUM0 energy credits
 ou seus arquivos em $TECH0."
 
 #BUYVOTEGOV2A
@@ -9946,7 +9946,7 @@ Essa ação só é permitida durante o seu turno de jogador.
 ^^$NETNAME3
 ^^
 ^^INÍCIO DO TURNO DO JOGADOR
-^^ M.Y. $ANO4
+^^M.Y. $YEAR4
 ^^
 
 #SIMULNOT
@@ -10161,7 +10161,7 @@ proposta atual.
 ^^
 ^^Resolução do Conselho
 ^^
-^^$PROPOSTA0
+^^$PROPOSAL0
 ^^
 ^^ MEDIR PASSES
 ^^
@@ -10172,7 +10172,7 @@ proposta atual.
 ^^
 ^^Resolução do Conselho
 ^^
-^^$PROPOSTA0
+^^$PROPOSAL0
 ^^
 ^^ FALHA NA MEDIDA
 ^^
@@ -10183,7 +10183,7 @@ proposta atual.
 ^^
 ^^Resolução do Conselho
 ^^
-^^$PROPOSTA0
+^^$PROPOSAL0
 ^^
 ^^ MEDIDA VETADA
 ^^
@@ -10469,7 +10469,7 @@ teve sucesso em adquiri-lo também!
 "Talvez você já tenha ouvido falar do desembarque de extraterrestres que
 autodenominam-se Progenitores. Acontece que estive em contato com
 aquele que se autodenomina $NAME3, cuja designação é $TITLE2 do
-$ FACÇÃO4. Acredito que os seus objectivos finais não coincidem com
+$FACTION4. I believe that their ultimate goals do not match with
 seu e meu, mas tive várias comunicações interessantes com
 $<3:ele:ela:x:x>. Se você quiser, posso lhe fornecer $<3:his:her:x:x>
 frequência do Commlink."
@@ -10483,7 +10483,7 @@ frequência do Commlink."
 "Talvez você já tenha ouvido falar do desembarque de extraterrestres que
 autodenominam-se Progenitores. Acontece que estive em contato com
 aquele que se autodenomina $NAME3, cuja designação é $TITLE2 do
-$ FACÇÃO4. Acredito que os seus objectivos finais não coincidem com
+$FACTION4. I believe that their ultimate goals do not match with
 seu e meu, mas tive várias conversas frutíferas com
 $<3:him:her:x:x> e acredito que $<3:he:she:x:x> poderia fornecer a você
 com informações sobre {$TECH8.} Se desejar, posso fornecer-lhe
@@ -10498,7 +10498,7 @@ $<3:his:her:x:x> frequência do Commlink."
 "Talvez você já tenha ouvido falar do desembarque de extraterrestres que
 autodenominam-se Progenitores. Acontece que estive em contato com
 aquele que se autodenomina $NAME3, cuja designação é $TITLE2 do
-$ FACÇÃO4. Acredito que os seus objectivos finais não coincidem com
+$FACTION4. I believe that their ultimate goals do not match with
 seu e meu, mas tive várias conversas frutíferas com
 $<3:him:her:x:x> e acredito que $<3:he:she:x:x> poderia fornecer a você
 com informações sobre {$TECH8.} . Se você quiser, posso lhe fornecer
@@ -10513,7 +10513,7 @@ $<3:his:her:x:x> frequência de commlink em troca de seus arquivos em {$TECH6.}"
 "Talvez você já tenha ouvido falar do desembarque de extraterrestres que
 autodenominam-se Progenitores. Acontece que estive em contato com
 aquele que se autodenomina $NAME3, cuja designação é $TITLE2 do
-$ FACÇÃO4. Acredito que os seus objectivos finais não coincidem com
+$FACTION4. I believe that their ultimate goals do not match with
 seu e meu, mas tive várias conversas frutíferas com
 $<3:him:her:x:x> e acredito que $<3:he:she:x:x> poderia fornecer a você
 com informações sobre {$TECH8.} Se desejar, posso fornecer-lhe
@@ -10528,7 +10528,7 @@ $<3:his:her:x:x> frequência de commlink em troca de seus arquivos em {$TECH6.}"
 "Talvez você já tenha ouvido falar do desembarque de extraterrestres que
 autodenominam-se Progenitores. Acontece que estive em contato com
 aquele que se autodenomina $NAME3, cuja designação é $TITLE2 do
-$ FACÇÃO4. Acredito que os seus objectivos finais não coincidem com
+$FACTION4. I believe that their ultimate goals do not match with
 seu e meu, mas tive várias conversas frutíferas com
 $<3:ele:ela:x:x>. Se você quiser, posso lhe fornecer
 $<3:his:her:x:x> frequência de comunicação em troca de meros $NUM0 créditos de energia."
@@ -10542,7 +10542,7 @@ $<3:his:her:x:x> frequência de comunicação em troca de meros $NUM0 créditos de e
 "Talvez você já tenha ouvido falar do desembarque de extraterrestres que
 autodenominam-se Progenitores. Acontece que estive em contato com
 aquele que se autodenomina $NAME3, cuja designação é $TITLE2 do
-$ FACÇÃO4. Acredito que os seus objectivos finais não coincidem com
+$FACTION4. I believe that their ultimate goals do not match with
 seu e meu, mas tive várias conversas frutíferas com
 $<3:him:her:x:x> e acredito que $<3:he:she:x:x> poderia fornecer a você
 com informações sobre {$TECH8.} Se desejar, posso fornecer-lhe
@@ -10663,7 +10663,7 @@ Nossa equipe de investigação escapou por pouco: missão concluída.
 ^^
 ^^SID MEIER'S ALIEN CROSSFIRE
 ^^
-^^VERSÃO: $VERSÃO0
+^^VERSION: $VERSION0
 ^^DATA: $VERSIONDATE1
 ^^
 
@@ -10679,7 +10679,7 @@ Nossa equipe de investigação escapou por pouco: missão concluída.
 #xs 400
 #x -5
 #y -5
-#caption $TÍTULO2 $NOME3
+#caption $TITLE2 $NAME3
 $TITLE2 $NAME3, sua hora é agora. O planeta falou com você, despertando você para
 sua tarefa. Você não tem memória de uma vida anterior, mas isso não
 matéria. Seus desafios serão muitos, e outros tentarão a princípio
@@ -10804,7 +10804,7 @@ Míssil tectônico perto de $BASENAME3!
 "Minhas forças tropeçaram em uma estranha civilização alienígena liderada por
 um $NAME1, que assumiu o título '$TITLE0' de
 o $FACTION2 e, pelo que sei, gasta a maior parte de $<1:his:her:x:x>
-vez $DANÇANAKED3. Não por culpa minha, envolvi-me em
+time $DANCINGNAKED3. Through no fault of my own, I have become embroiled in
 um desacordo bastante acalorado com $<1:him:her:x:x>. Em nome
 da nossa humanidade comum, você poderia falar um $PACTOFBORS4 e vir em meu auxílio?"
 

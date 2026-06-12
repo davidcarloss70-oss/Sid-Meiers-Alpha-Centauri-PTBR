@@ -1,0 +1,139 @@
+;
+; Sid Meier's ALPHA CENTAURI Expansion Disk
+;
+; FACTION FILE: The Cult of Planet
+;
+; Copyright (c) 1999 by Firaxis Games, Inc.
+;
+; ALPHA CENTAURI reads the rules of the game from this file at
+; startup. Feel free, at your own risk, to experiment with editing
+; this file. We recommend you make a backup copy of the original.
+;
+
+#FUNGBOY
+The Cult of Planet, The Voice, Planet Cult, M, 1, Cha Dawn, M, 1, 1, 0, 0, 1, 
+  TECH, Ecology, TECH, Psych, WORMPOLICE, 0, SOCIAL, ++PLANET, SOCIAL, -INDUSTRY, SOCIAL, -ECONOMY, FREEFAC, 35, UNIT, 8
+  Economics, Green, PLANET
+  Values, Wealth, nil
+  Cultist, Cultist
+  Fatima, Samuels, Fatima Garden
+  Prophet, charismatic, worm-loving, unyielding, self-righteous, 
+  Manipulative Demagogue
+  carry out the Will of Planet
+  to implement the Will of Planet
+  exterminating anything that walks on two legs
+  exterminating anything that walks on two legs
+  plot the eradication of all sapient life forms on Planet
+  feeding his opponents to hatchling Mind Worms
+  feeding your opponents to hatchling Mind Worms
+  torturing opponents in my loathsome Brood Pits
+  orange-eyed fanatics, M2
+  rapport with Planet, M1
+  'member indoctrination', M1
+  offering, M1
+  shielding you from the wrath of Planet
+  my Dervish Cadre
+  The Commandments of Planet
+
+#BASES
+Dawn of Planet
+Worm's Lair
+The Edicts
+Terror's Delight
+Seers of Chiron
+Sword of Planet
+Wormfang Shrine
+Consecration Pit
+Planetvision Gate
+Trance of Purity
+Virgin Planet
+Chiron Stigmata
+Locust Haven
+Well of Souls
+Remain in Light
+Sporerunner Sanctum
+Childhood's End
+Trial By Fire
+Dawn's Chancel
+Concordat of Worms
+Misericordia
+The Hermitage
+Invictus
+#END
+
+#WATERBASES
+Deep Isle Shoals
+WaveTrance Dome 
+Point Flensing
+Ninevah Rising
+Ark of the Edicts
+Dawn's Reverie
+Sealurk City
+Sanctuary Dome
+#END
+
+#BLURB
+A humanidade tem sido cega há milhares de anos – durante toda a sua história. Nós
+chegamos a um lugar cujas maravilhas são cem vezes mais surpreendentes do que
+qualquer coisa na Terra. Ao nosso redor há uma evidência clara da vontade de um poder superior.
+Trago a Visão aos olhos cegos dos homens. Eu trago a Palavra aos ouvidos surdos
+dos homens. Eu farei com que eles vejam isso. Eu farei com que eles ouçam isso.
+^
+^- Profeta Cha Dawn
+^"Planeta Ascendente"
+
+
+#DATALINKS1
+^LÍDER: {Cha Dawn}
+^ANTECEDENTES: {Born of uncertain parentage, found abandoned in the fungus by Ecological Malcontents}
+^AGENDA: {Return Planet to its pristine state}
+^TÉCNICA: {Centauri Ecology, Social Psych}
+^
+
+#DATALINKS2
+^+2 PLANETA: {Devoted to promoting native growth}
+^-1 INDÚSTRIA: {Reluctant to pollute environment}
+^-1 ECON: {Disinterested in wealth and its trappings}
+^BROOD PIT grátis com descoberta da genética Centauri
+^Mind Worms cumprem dupla função policial: {Fear and reverence for native life}
+^{Pode não fazer escolha de riqueza em engenharia social}
+
+#FACTIONTRUCE
+#xs 440
+#caption $CAPTION7
+"Planet finds this conflict most displeasing. Let us live in accordance with her 
+will and pledge Blood Truce."
+
+"Um...sure...whatever Planet says..."
+"Have you been sniffing spores again, $NAME3? Let's see if Planet can save you now!"
+
+#FACTIONTREATY
+#xs 440
+#caption $CAPTION7
+"Planet senses a kinship between our people. Let us forge a bond by signing a Treaty of 
+Friendship!"
+
+"Planet is wise, $NAME3. So it has been spoken, so let it be done."
+"Planet must have magma in its mantle, $NAME3. We'll never join your spore-sniffing fanatics!"
+
+#ALIENFACTIONTRUCE
+#xs 440
+#caption $CAPTION7
+"Planet finds this conflict most displeasing. Let us live in accordance with her 
+will and pledge Blood Truce."
+
+"Manifold Six: must be heeded! Agreement!"
+"Presumption: to speak to Manifold Six: human concept: heresy! Truce: no!"
+
+#ALIENFACTIONTREATY
+#xs 440
+#caption $CAPTION7
+"Planet senses a kinship between our people, despite the differences of skin
+and gross shape. Let us forge a Planetary bond by signing a Treaty of 
+Friendship!"
+
+"Kinship: deep respect: Manifold Six. Agreement."
+"Will of Manifold Six: not so easily discerned. Treaty: none at this time."
+
+
+# ; This line must remain at end of file

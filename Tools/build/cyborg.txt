@@ -73,7 +73,7 @@ Iota Point
 #END
 
 #BLURB
-Aqueles que se juntam a nós precisam renunciar apenas a metade da sua humanidade - a ilógica,
+Aqueles que se juntam a nós precisam renunciar apenas a metade de sua humanidade - a ilógica,
 metade mal-humorada e desordenada, comumente considerada como 'cérebro direito'
 funcionando. Em troca, as capacidades do "cérebro esquerdo" são aumentadas para níveis nunca antes sonhados.
 potencial. A tendência dos Biológicos de se apegarem, em vez disso, às suas
@@ -93,9 +93,9 @@ personalidades só podem ser atribuídas a tendências evolutivas arcaicas.
 ^+2 PESQUISA: {Human research abilities enhanced by algorithmic control}
 ^+2 EFICIÊNCIA: {Cybernetic biologicals extremely efficient}
 ^-1 CRESCIMENTO: {Humans 'possessed by an algorithm' find reproduction awkward}
-^Impunidade à penalidade CIBERNÉTICA: {Cybernetic social choice is 'rational' and not dissented by citizens}
+^Impunidade à CIBERNÉTICA: {Cybernetic social choice is 'rational' and not dissented by citizens}
 ^Pode roubar tecnologia ao capturar uma base
-^{Pode não fazer escolha fundamentalista em engenharia social}
+^{Não posso fazer escolha fundamentalista em engenharia social}
 
 #FACTIONTRUCE
 #xs 440

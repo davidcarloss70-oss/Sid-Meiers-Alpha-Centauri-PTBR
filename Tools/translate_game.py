@@ -115,6 +115,7 @@ def backup_files(files):
 RE_LINK = re.compile(r"\$LINK<([^=>]+)=([0-9]+)>")
 RE_BRACE = re.compile(r"\{([^\}]+)\}")
 RE_VAR = re.compile(r"\$[A-Za-z0-9_]+")
+RE_GENDER = re.compile(r"\$<[^>]+>")
 
 def translate_string(text):
     if not text or text.strip() == "":
@@ -166,6 +167,15 @@ def translate_string(text):
         vars_found.append(var_str)
         return placeholder
     text_protected = RE_VAR.sub(sub_var, text_protected)
+
+    # 5.1 Proteger sequencias de pluralidade/genero $<...>
+    genders_found = []
+    def sub_gender(match):
+        gen_str = match.group(0)
+        placeholder = f"__GEN_{len(genders_found)}__"
+        genders_found.append(gen_str)
+        return placeholder
+    text_protected = RE_GENDER.sub(sub_gender, text_protected)
     
     # 6. Realizar a tradução da parte textual
     # Traduzir apenas se houver letras
@@ -195,6 +205,10 @@ def translate_string(text):
         placeholder = f"__VAR_{i}__"
         # O tradutor pode alterar maiúsculas/minúsculas do placeholder, então usamos regex case-insensitive
         translated_part = re.sub(re.escape(placeholder), lambda m, v=var_str: v, translated_part, flags=re.IGNORECASE)
+
+    for i, gen_str in enumerate(genders_found):
+        placeholder = f"__GEN_{i}__"
+        translated_part = re.sub(re.escape(placeholder), lambda m, v=gen_str: v, translated_part, flags=re.IGNORECASE)
         
     # 8. Restaurar chaves {word} (traduzindo o conteúdo da chave se necessário)
     for i, content in enumerate(braces):
@@ -544,7 +558,18 @@ TEXT_FILES = [
     "alpha.txt",
     "alphax.txt",
     "TECHLONGS.TXT",
-    "TECHSHORTS.txt"
+    "TECHSHORTS.txt",
+    "angels.txt",
+    "drone.txt",
+    "faction.txt",
+    "gaians.txt",
+    "hive.txt",
+    "morgan.txt",
+    "peace.txt",
+    "pirates.txt",
+    "script.txt",
+    "spartans.txt",
+    "univ.txt"
 ]
 
 def main():

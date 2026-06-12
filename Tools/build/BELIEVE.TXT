@@ -86,17 +86,17 @@ Consecrated Waters
 #END
 
 #BLURB
-Os justos não precisam se encolher diante do rufar do progresso humano.
-Embora a canção de ontem se desvaneça no desafio de amanhã,
-Deus ainda nos observa e nos julga. O mal espreita nos Datalinks, pois
+Os justos não precisam se encolher diante do progresso humano.
+Embora a canção de ontem tenha desvaneça no desafio de amanhã,
+Deus ainda nos observe e nos julgue. O mal esperado nos Datalinks, pois
 espreitava nas ruas do passado. Mas nunca foram as ruas
 que eram maus.
 ^
-^-- Irmã Miriam Godwinson,
+^--Irmã Miriam Godwinson,
 ^"A Abençoada Luta"
 
 #DATALINKS1
-^LÍDER: {Sister Miriam Godwinson}
+^LÍDER: {Irmã Miriam Godwinson}
 ^ANTECEDENTES: {Christian States of America, Unity Psych Chaplain}
 ^AGENDA: {Life of Religious Worship}
 ^TÉCNICA: {Social Psych}
