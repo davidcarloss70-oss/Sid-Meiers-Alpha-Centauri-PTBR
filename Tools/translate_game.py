@@ -194,19 +194,19 @@ def translate_string(text):
     for i, var_str in enumerate(vars_found):
         placeholder = f"__VAR_{i}__"
         # O tradutor pode alterar maiúsculas/minúsculas do placeholder, então usamos regex case-insensitive
-        translated_part = re.sub(re.escape(placeholder), var_str, translated_part, flags=re.IGNORECASE)
+        translated_part = re.sub(re.escape(placeholder), lambda m, v=var_str: v, translated_part, flags=re.IGNORECASE)
         
     # 8. Restaurar chaves {word} (traduzindo o conteúdo da chave se necessário)
     for i, content in enumerate(braces):
         placeholder = f"__BRACE_{i}__"
         translated_content = translate_string(content)
-        translated_part = re.sub(re.escape(placeholder), f"{{{translated_content}}}", translated_part, flags=re.IGNORECASE)
+        translated_part = re.sub(re.escape(placeholder), lambda m, v=f"{{{translated_content}}}": v, translated_part, flags=re.IGNORECASE)
         
     # 9. Restaurar links $LINK<text=id> (traduzindo o label do link)
     for i, (label, link_id) in enumerate(links):
         placeholder = f"__LINK_{i}__"
         translated_label = translate_string(label)
-        translated_part = re.sub(re.escape(placeholder), f"$LINK<{translated_label}={link_id}>", translated_part, flags=re.IGNORECASE)
+        translated_part = re.sub(re.escape(placeholder), lambda m, v=f"$LINK<{translated_label}={link_id}>": v, translated_part, flags=re.IGNORECASE)
 
     # 10. Correções estéticas comuns pós-tradução
     # Ex: o tradutor pode inserir espaços antes/depois de símbolos como ^ ou |
@@ -542,7 +542,9 @@ TEXT_FILES = [
     "tutor.txt",
     "system.txt",
     "alpha.txt",
-    "alphax.txt"
+    "alphax.txt",
+    "TECHLONGS.TXT",
+    "TECHSHORTS.txt"
 ]
 
 def main():
@@ -562,9 +564,11 @@ def main():
     # 2. Processar labels.txt (Interface)
     translate_labels_txt()
     
-    # 3. Processar blurbs (Citações)
-    # translate_blurbs_txt("blurbs.txt")
-    # translate_blurbs_txt("blurbsx.txt")
+    # 3. Processar blurbs (Citações) e TECH files
+    translate_blurbs_txt("blurbs.txt")
+    translate_blurbs_txt("blurbsx.txt")
+    translate_blurbs_txt("TECHLONGS.TXT")
+    translate_blurbs_txt("TECHSHORTS.txt")
     
     # 4. Processar conceitos
     translate_concepts_txt("concepts.txt")
