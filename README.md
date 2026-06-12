@@ -4,8 +4,8 @@ Tradução para o português brasileiro (PT-BR) do clássico jogo **Sid Meier's 
 
 Este projeto contém o patch de tradução completo, além de uma aplicação exclusiva (interface gráfica) que permite não só a instalação fácil da tradução, mas também a customização e edição dos textos pelo próprio jogador!
 
-> [!IMPORTANT]
-> **Aviso de Compatibilidade:** Esta tradução foi feita e testada com foco na versão **GOG (Planetary Pack)**, que inclui o jogo base e já vem com mods essenciais da comunidade pré-instalados, como o **SMAC PRACX**. A tradução atual **não abrange** a expansão Alien Crossfire. Se você for jogar a expansão Alien Crossfire, saiba que os textos dela permanecerão em inglês, e aplicar o patch pode causar inconsistências na expansão. Recomendamos usar esta tradução apenas no jogo base (Vanilla).
+> [!WARNING]
+> **Aviso sobre Alien Crossfire:** Esta tradução **abrange 100% da expansão Alien Crossfire** (textos, facções extras, etc). Porém, o executável do Alien Crossfire original da GOG possui bugs conhecidos no Windows 10/11 que fazem o jogo fechar sozinho em alguns computadores. Isso é um erro da própria *engine* do jogo e **não** da tradução. Se o seu Alien Crossfire em inglês funciona normalmente no seu PC, a tradução funcionará perfeitamente nele!
 
 ---
 
