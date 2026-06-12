@@ -188,6 +188,7 @@ def process_faction(filename):
         f.writelines(lines)
 
 def main():
+    translate_game.load_cache()
     print("Patching Alpha Centauri.ini...")
     
     for f in MENU_FILES:

@@ -1,4 +1,4 @@
-import os
+﻿import os
 import subprocess
 import shutil
 
@@ -11,7 +11,7 @@ cmd = [
     "uv", "run", "pyinstaller",
     "--noconfirm",
     "--windowed",
-    "--onefile",
+    "--onefile", "--noupx",
     "--name", exe_name,
     "--hidden-import", "deep_translator",
     "--hidden-import", "translate_phase2",
@@ -33,3 +33,4 @@ if os.path.exists(exe_path):
     print(f"Build complete! Executable is at: {exe_name}.exe")
 else:
     print("Build failed.")
+

@@ -64,20 +64,20 @@
 #caption Interlúdio: A vitória é doce
 ^ Você se pergunta se, em sua mente subconsciente, você realmente pensou que
 veja este dia. Então você deixa esse pensamento de lado, pois o último disco é girado.
-O último rebite não está em lugar. O último folheado de aço foi polido. Isso é
+O último rebite está no lugar. O último folheado de aço foi polido. Isso é
 tempo.
 ^ "Líder." A cabeça do seu assistente está inclinada, esperando obedientemente. Suas emanações
 são formais e ricos em significado. "Você poderia
-adicionar o poder e nos livre do exílio?"
-^ Você balança o pescoço em consentimento e fecha a conexão. O Subespaço
+adicione o poder e nos livre do exílio?"
+^ Você balança o pescoço em assentimento e fecha a conexão. O Subespaço
 Os geradores agarram os campos de ressonância das cordas e os níveis quânticos de
 o poder começa a percorrer as partes individuais. Em breve seus raios formarão um arco
 bem acima de sua nação, e um buraco será aberto no subespaço. Através
-nesse buraco, através de distâncias imensuráveis ????para qualquer cérebro, uma mensagem voará. Ó
+nesse buraco, através de distâncias imensuráveis ??para qualquer cérebro, uma mensagem voará. O
 O Comunicador de Ressonância enviará seu sinal de socorro para o mundo natal, e eles
 conhecerá sua voz.
 ^ A luz verde começa a brilhar. Breve. Breve,
-você verá seu amado Kenal K'esh novamente. Em breve você conhecerá seus irmãos. E
+você verá seu amado Kenal K'esh novamente. Em breve você encontrará seus irmãos. E
 quando você os encontrar, eles virão em seu auxílio com navios e soldados, e
 todos os outros seres vivos no Manifold Six conhecerão seu poder. Foi
 tanto tempo para chegar.
@@ -87,29 +87,29 @@ tanto tempo para chegar.
 #INTERLUDE1
 #xs500
 #caption Ninguém pode nos parar agora
-^ Você monta o uivante jato agulha e pousa de volta na capital em tempo record.
-O piloto estava obviamente tentando impressionar você e conseguiu. Você está com pressa
+^ Você monta o uivante jato agulha e pousa de volta na capital em tempo recorde.
+O piloto estava obviamente tentando impressionar você e conseguiu. Você se apressa
 entre na sala de comando e saboreie as ondas de ressonância enquanto elas mostram o
 superfície do Manifold Six: para onde quer que você olhe, você vê suas próprias forças. Lá
-são alguns restos destruídos da resistência inimiga, mas são meros bolsões
+são alguns restos destroçados da resistência inimiga, mas são meros bolsões
 de cor em uma lavagem limpa da maré do Progenitor.
-^ Quando tudo mais falha, você reflete, simplesmente remove toda a oposição. Então aí
+^ Quando tudo mais falhar, você reflete, simplesmente remova toda a oposição. Então aí
 é tempo suficiente para qualquer plano. Você não tem certeza se deseja entrar em contato com o
 mundo natal imediatamente, ou aumentar um pouco seu próprio poder primeiro - mas isso não acontece
-importante, não é? Não há nada que o impeça, não importa o que você decida fazer.
+importa, não é? Não há nada que o impeça, não importa o que você decida fazer.
 ^ É uma sensação muito, muito boa.
 
 
 #INTERLUDE2
 #xs 500
 #caption Interlúdio: Cabeças Encolhidas
-^ Os tanques de campo ressoam com imagens espectrais dos intrusos encontrados, capturadas
-naquele primeiro encontro. Se você
-semicerrados, você pode confundi-los com filhotes Progenitores - mas com pacientes,
+^ Os tanques de campo ressoam com imagens espectrais dos intrusos alienígenas, capturadas
+durante aquele primeiro encontro. Se você
+semicerrados, você pode confundi-los com filhotes Progenitores - mas com doentes,
 cabeças encolhidas. Eles se parecem com conjurações de histórias de entretenimento do primitivo
 alimentadores tribais nas partes escuras do mundo natal. Eles parecem nojentos.
 ^ Sua natureza primitiva não é tão aparente em nenhum lugar como em sua incapacidade de
-comunicar - eles podem fazer barulho, mas não podem alterá-lo.
+comunicar - eles podem fazer barulho, mas não podem alterá-lo adequadamente.
 Isso é ruim, porque você não tem ideia de como nas Seis Variedades elas
 cheguei aqui e você gostaria desesperadamente de saber.
 ^ "Conte-me suas teorias", você altera. O constante zumbido ressonante da sala paira
@@ -117,16 +117,16 @@ vazio por vários pulsos circulatórios. Então, o estocástico júnior ressoa.
 ^ "Eles são uma criação do Múltiplo", ela vibra hesitantemente. Há geral
 zombando. Você tenta ser mais gentil.
 ^ "Não, Canla, isso não pode ser", você altera. "A biologia deles é incompatível com o DNA. Eles
-deve ser de outro mundo." Há uma alteração geral de consentimento.
+deve ser de outro mundo." Há uma alteração geral de assentimento.
 ^ "Mas como pode uma raça sofisticada o suficiente para atravessar as estrelas estar em tal
 estado primitivo?" ressoa o geral.
 ^ Há mais zumbidos vazios. Então Canla, destemido, fala novamente.
-^ "Talvez eles sofreram um destino semelhante ao nosso", ela altera. "Afinal, olhe
-não estamos em que estamos."
-^ A dor disso é incontestável. E em algum lugar por aí está odiado $OTHERALIENS6.
-Você se pergunta se pode fazer esses extraterrestres seus aliados, antes que o inimigo o faça. Seu
+^ "Talvez eles tenham sofrido um destino semelhante ao nosso", ela altera. "Afinal, olhe
+no estado em que estamos."
+^ A dor disso é incontestável. E em algum lugar por aí está o odiado $OTHERALIENS6.
+Você se pergunta se pode fazer desses extraterrestres seus aliados, antes que o inimigo o faça. Seu
 A primeira tarefa, então, é aprender como suas mentes funcionam para que você possa se comunicar com eles. Você
-imagino quão difícil pode ser pensar como um interessado.
+imagino quão difícil pode ser pensar como um alienígena.
 
 
 #INTERLUDE3
@@ -137,19 +137,19 @@ as ressonâncias do medo são igualmente intensas. Você tenta manter a calma, most
 liderança que você não sente. De alguma forma, de algum lugar, pessoas de fora do mundo estão ocupando
 o precioso múltiplo!
 ^ "A chave é a comunicação contínua", você altera. "Sua capacidade de fazer
-formas de onda na atmosfera são úteis, mas a sua compreensão da alteração
+formas de onda na atmosfera é útil, mas a sua compreensão da alteração
 processo é fundamental. Se for possível argumentar com eles, eles podem se tornar aliados. Se eles puderem
-se nos tornarmos aliados, eles podem nos ajudar contra nosso inimigo."
-^ O general acena com a cabeça e ressoa uma aura de confiança pela primeira vez. "Verdadeiro"
+se tornarmos aliados, eles podem nos ajudar contra nosso inimigo."
+^ O general acena com a cabeça e ressoa uma aura de confiança pela primeira vez. "Verdadeiro,"
 ele altera. "Mas temo; embora pareçam membros antigos e fracos de nossa raça, eles são
-totalmente estranho. E se a causa deles e a nossa causa não coincidem?"
+totalmente estranho. E se a causa deles e a nossa causa não coincidirem?"
 ^ "Então devemos descobrir a causa deles", você altera, "e apelar para ela. Torne-se o que eles
-queremos que nos tornemos. Ao mesmo tempo, devemos continuar a promover nossos próprios objetivos."
+queremos que nos tornemos. Ao mesmo tempo, devemos continuar a promover os nossos próprios objetivos."
 ^ O xenobiólogo - a coisa mais próxima que você tem de um xenopsicólogo - vibra
 suas mandíbulas. "Mas eles afirmam que estão aqui como colonos! Nossos objetivos não são e não podem
-coincidir com isso! Mais cedo ou mais tarde, vamos destruí-los para podermos $EXPLOITORPRISTINE7!"
+coincidir com isso! Mais cedo ou mais tarde, teremos que destruí-los para podermos $EXPLOITORPRISTINE7!"
 ^ Você altera as palavras do biólogo com uma calma suave. "Espero que isso possa acontecer mais tarde – muito mais tarde.
-Devemos usá-los primeiro, se pudermos... e se não pudermos, então convidamos nós a destruí-los rapidamente,
+Devemos usá-los primeiro, se pudermos... e se não pudermos, então devemos destruí-los rapidamente,
 e sem piedade."
 ^ As alterações [isso] são [muito] positivas.
 
@@ -158,25 +158,25 @@ e sem piedade."
 #xs500
 #caption Interlúdio: Macaco vê, Macaco faz...O quê?
 ^ "Olhe com atenção", altera o biólogo tão suavemente que você mal consegue distinguir o
-Mudar. "Observe o que isso faz."
+mudar. "Observe o que isso faz."
 ^ Você acha isso difícil - o humano capturado é tão feio quanto um filhote novo, mas
-sem uma particularidade agradável. Você se força a observar, no entanto, por
+sem a viscosidade agradável. Você se força a observar, no entanto, por
 observação – e compreensão – são uma das chaves para a sobrevivência no Manifold Six.
 ^ O humano está morrendo de fome há vários dias. Agora, a comida é colocada no topo
-da sala, pendurada em um gancho. Várias caixas foram espalhadas pelo
+da sala, pendurado em um gancho. Várias caixas foram espalhadas pelo
 quarto também. Presumivelmente, construirá algum tipo de torre para ter acesso ao
 comida.
 ^ "O que isso provará?" você altera, entediado.
-^ "Assistir! Assistir!" o biólogo altera com paixão.
+^ "Assistir! Assistir!" o biólogo altera com entusiasmo.
 ^ O humano olha ao redor da sala por um momento e depois fica imóvel. Isso faz
-ondas sonoras com seu aparelho de defesa aérea. Ele se senta e olha pela sala.
+ondas sonoras com seu aparelho respiratório. Ele se senta e olha pela sala.
 ^ "É estúpido?" você altera.
 ^ "Não!" altera o biólogo triunfantemente. "É desafiador! As ondas sonoras são o seu
 linguagem - está dizendo algo como "Coloque uma flor de esporo no seu cloro!
 Não estou comendo para seu entretenimento!" Ele sabe que estamos assistindo."
 ^ Então o humano prefere morrer de fome a ser tratado como um animal de laboratório, hein?
 Interessante... muito interessante. Você não tem certeza se isso é muito bom...
-ou muito, muito perigoso. "Aprenda seu idioma imediatamente!" você está. "Devemos
+ou muito, muito perigoso. "Aprenda seu idioma imediatamente!" você estala. "Devemos
 comunique-se o mais rápido possível!"
 
 
@@ -184,15 +184,15 @@ comunique-se o mais rápido possível!"
 #xs 500
 #caption Interlúdio: Vôo das Asas Navalhas
 ^ Matar não lhe dá nenhum prazer especial. Você quase gostaria de poder
-comunicar-se diretamente com os humanos, explicar-lhes a necessidade do uso solicitado
+comunicar-se diretamente com os humanos, explicar-lhes a necessidade do uso forçado
 realocação – explique-lhes a necessidade de suas mortes.
-^ "Relatório, $TITLE0 $NAME1", ressoa o Comandante da Força de Ocupação
+^ "Relatório, $TITLE0 $NAME1", ressoa o Comandante da Força de ocupação
 exército. "Os colonos humanos estão fugindo agora da base que chamam de '$BASENAME5'.
 Aqueles que escolheram ficar para trás
 foram assimilados e reconstituídos."
 ^ Matar não lhe dá nenhum prazer especial. Mas é o caminho
 a mente Humana e Progenitora. Não podem coexistir sob um único governo;
-eles não comem a comida uns dos outros, nem usam as instalações uns dos outros.
+eles não podem comer a comida uns dos outros, nem usar as instalações uns dos outros.
 ^ Matar não lhe dá nenhum prazer especial. Mas eles são o inimigo,
 e é o único caminho.
 
@@ -202,7 +202,7 @@ e é o único caminho.
 #caption Interlúdio: tão perto e tão longe
 ^ Com sua própria mão, você gira o último disco no primeiro dos
 Comunicadores de ressonância. Foi uma jornada longa e difícil chegar a este ponto--
-para recuperar o que estava perdido. Mas lentamente, como os primitivos (mas acelerados
+para recuperar o que foi perdido. Mas lentamente, como os primitivos (mas acelerados
 por dezenas de milhares de anos), você conseguiu recriar as descobertas
 de seus ancestrais, e elaborar os materiais neste estranhamente hostil
 mundo, e agora chegou a hora.
@@ -211,7 +211,7 @@ mundo, e agora chegou a hora.
 ^ "Suponho que sim", você altera, sentindo naquele momento uma estranha falta de euforia.
 Depois de pensar por um momento, você percebe o porquê: durante todos esses anos você esteve
 líder supremo do seu próprio mundo... do seu próprio povo. Agora vai acabar, com o
-convocação da frota mundial de origem. Líderes maiores fazem que você virão e destruirão
+convocação da frota mundial de origem. Líderes maiores do que você virão e destruirão
 o que sobrou da oposição; eles virão e reivindicarão seu triunfo para eles
 ter. Você quase deseja que isso continue, mas sabe que seu dever é
 $EXPLOITORPRISTINE7, e você deve ser fiel a essa missão. "Suponho que sim", você
@@ -226,29 +226,29 @@ Com um suspiro, você pega o botão giratório e se vira.
 ^ Todos reunidos na sala esperavam esta notícia. No entanto, envia uma onda de
 alteração pela sala como se você tivesse anunciado a morte do
 todo o Conselho dos Senhores Supremos. Secretamente, você e todos os outros aqui estavam
-esperando que os odiados Usurpadores morram após a entrada no Planeta. Agora você sabe disso
+esperando que os odiados Usurpadores morressem após a entrada no Planeta. Agora você sabe disso
 não é o caso.
 ^ "Isso não muda nada!" Suavemente você altera todo o zumbido da conversa,
 para dar ênfase ao seu significado. "O plano segue conforme combinamos. O
-Os usurpadores devem morrer e devemos continuar a nossa busca para contatar o planeta natal.
+Os usurpadores devem morrer e devemos continuar a nossa busca para contactar o planeta natal.
 que o Manifold Six possa permanecer imaculado. Estamos comprometidos com a morte de um ou
 o outro de nós?"
-^ no Muitos conselhos parecem desconfortáveis, com os olhos piscando rapidamente. Você pode
+^ Muitos no conselho parecem desconfortáveis, com os olhos piscando rapidamente. Você pode
 entender seus sentimentos - a causa do Zelador é dedicada à paz e ao
 status quo. Essa postura destrutiva não está de acordo com os objetivos declarados.
-Finalmente, Kaala L'mota articula o que os outros obviamente estão pensando.
+Finalmente, Kaala L'mota articula o que os outros estão obviamente pensando.
 ^ "Não podemos tentar mais uma vez chegar a um acordo com o líder Usurpador, Marr?
 Em uma circunstância tão terrível, até ele poderia ver a sabedoria da cooperação."
 ^ "Sinto muito, meus amigos", você altera bruscamente, expressando seu arrependimento e
-descontentamento ao mesmo tempo. "Pense na causa do Usurpador: eles querem ganhar
+descontentamento ao mesmo tempo. "Pense na causa do Usurpador: eles desejam ganhar
 Transcendência com Manifold Six. Sabemos o que aconteceu em Tau Ceti quando o
-A autorização foi permitida. Destruição. Morte."
+A floração foi permitida. Destruição. Morte."
 ^ Você vê o medo em todos os rostos, suas mandíbulas apertadas contra a boca.
 "Todos nós sabemos disso – incluindo o Usurpador, Marr", você continua. "E ainda assim eles
-continue em sua busca pela Transcendência. Não podemos entender isso. Eles se movem
+continuar em sua busca pela Transcendência. Não podemos entender isso. Eles se movem
 inexoravelmente em direção à morte! Pedimos, imploramos, lutamos e morremos para evitar
 isso, e ainda assim eles vêm. Certamente, uma coisa pequena como este naufrágio irá
-não altere seu plano. Não, meus amigos, recomendamos ser firmes em nossa decisão. morte,
+não altere seu plano. Não, meus amigos, devemos ser firmes na nossa decisão. Morte,
 ou liberdade para o Manifold Six. Você concorda?"
 ^ Suas palavras são alteradas, uma por uma, por cada membro do conselho. Eles
 todo consentimento.
@@ -260,21 +260,21 @@ todo consentimento.
 ^ "Sim, eles estão aqui."
 ^ Todos reunidos na sala esperavam esta notícia. No entanto, envia uma onda de
 alteração pela sala como se você tivesse anunciado um ataque furtivo
-nenhum mundo natal. Você sabe que muitos deles estavam dispostos de que os Zeladores
-foi destruído durante uma batalha espacial. Agora está claro isso
+no mundo natal. Você sabe que muitos deles estavam convencidos de que os Zeladores
+foi destruído durante a batalha espacial. Agora está claro isso
 não é o caso.
 ^ "Isso não muda nada!" Suavemente você altera todo o zumbido da conversa,
 para dar ênfase ao seu significado. "O plano segue conforme combinamos. O
-Os cuidadores devem morrer e devemos continuar a nossa busca para contatar o planeta natal.
+Os cuidadores devem morrer e devemos continuar a nossa busca para contactar o planeta natal.
 ou alcançar o Florescimento com nós mesmos no poder sobre o Múltiplo Seis. Estamos de acordo?"
 ^ Um membro do conselho parece desconfortável, com os olhos piscando rapidamente. Ele fica
 e altera formalmente suas palavras, solicitando permissão para falar. Você agita seu
 pescoço para ele, e ele prossegue.
 ^ "Você me conhece", ele altera. "Não sou covarde, mas aconselho uma última tentativa
 para argumentar com os zeladores e seu líder H'minee. Somos todos Progenitores
-juntos aqui, presos no Manifold Six até que podemos reimplementar
+juntos aqui, presos no Manifold Six até que possamos reimplementar
 nossas tecnologias perdidas. Até então, não deveríamos tentar viver
-juntos soluçam a mesma pele?"
+juntos sob a mesma pele?"
 ^ Outros alteram suas palavras de maneira sutil, expressando dúvida ou tolerância por
 essa ideia. Você intervém rapidamente.
 ^ "Não, meus amigos!" você altera aproximadamente. "Lembre-se com quem estamos lidando.
@@ -283,8 +283,8 @@ ainda assim, eles os rejeitam. Eles leram os livros antigos e os planos que noss
 ancestrais feitos para os Experimentos Múltiplos. No entanto, eles também os rejeitam.
 Eles vivem com medo - e um Progenitor que vive com medo é aquele que também pode
 estar morto. Nossa raça declinou desde a época dos ancestrais, e é
-por causa da timidez e do medo da facção Zelador. devemos seguir em frente
-ferozmente, e cumprir o destino que nos foi traçado tantas milhares de órbitas
+por causa da timidez e do medo da facção Zelador. Devemos seguir em frente
+corajosamente, e cumprir o destino que nos foi traçado tantos milhares de órbitas
 atrás. Você concorda?"
 ^ Suas palavras são alteradas, uma por uma, por cada membro do conselho. Eles
 todo consentimento.
@@ -294,7 +294,7 @@ todo consentimento.
 #xs 500
 #caption Interlúdio: O Nexus
 ^ Imagine seis Progenitores em uma sala. Eles alterariam a ressonância da sala,
-e alterar as alterações, em uma conversa tranquila e fluida. Ó puro
+e alterar as alterações, em uma conversa tranquila e fluida. O puro
 sua complexidade proporciona uma sensação agradável no cérebro.
 ^ Ao contemplar as paredes desgastadas do Manifold Nexus, você percebe isso
 mesmo sentimento, ampliado um milhão de vezes. Você imagina não seis Progenitores, mas seis
@@ -319,16 +319,16 @@ pequena medida de poder sobre seis deuses. Você deve ter cuidado.
 ^ Você mal consegue acreditar. Você insistiu em se juntar aos grupos de busca para peneirar
 os destroços da última base $OTHERALIENS6, não porque você sentiu seus lacaios
 eram incompetentes, mas porque você tinha que ver por si mesmo que o resultado final
-a vitória foi próxima.
+a vitória estava próxima.
 ^ E que destroços gloriosos! Os cadáveres dos seguidores de $OTHERALIENS6 estão espalhados
 o chão. Armamento destruído e escombros de edifícios em apuros cobrem o
 ruas. Mesmo em meio à morte e destruição de seus parentes distantes, você se sente
-uma sensação estranha de euforia. Ó odiado inimigo foi destruído!
-^ "Líder", o comandante da força altera os filhos de explosões distantes chegando
+uma estranha sensação de euforia. O odiado inimigo foi destruído!
+^ "Líder", o comandante da força altera os sons de explosões distantes chegando
 para você, para dar ênfase extra às palavras dele. "Este é um ótimo dia. O que fazemos agora?"
 ^ Você sabe que ele quer dizer 'que passos devemos tomar neste momento', mas suas palavras
 levanta uma questão mais profunda: qual é o destino do seu próprio povo, agora que o seu
-objetivo principal foi realizado?
+objetivo principal foi alcançado?
 ^ "Nós construímos", você altera, surpreendendo-o. "Nós construímos em direção ao dia da convocação
 de nossos aliados, ou em direção à conquista final. O destino do Manifold Six está acenando
 em nossas mãos. Não devemos vacilar."
@@ -345,10 +345,10 @@ início do experimento!"
 os lançadores de esporos estão definitivamente prontos para nos matar. No passado..." O zumbido do
 o pensamento fica suspenso por um tempo e você solicita gentilmente. "No passado?"
 ^ "Sim, líder." O biólogo parece muito infeliz. "No passado, éramos
-os proprietários. Estávamos aqui apenas para cuidar e depois para partir. Agora estamos aqui
+os jardineiros. Estávamos aqui apenas para cuidar e depois para partir. Agora estamos aqui
 viver. O Manifold Six – o planeta inteiro – não gosta disso. Não se importa com a nossa política. É apenas
-não gosta que nos sintamos aqui."
-^ "Você percebe as implicações?" você altera, sentindo, mas não mostra um toque
+não gosta que estejamos aqui."
+^ "Você percebe as implicações?" você altera, sentindo, mas não mostrando um toque
 de medo. "Estamos à mercê de um mundo inteiro. Não é inteligente o suficiente para
 negociar com... ele simplesmente tentará nos matar."
 ^ "Sim, líder", altera o biólogo.
@@ -361,26 +361,26 @@ Você tira o problema do seu cérebro e sai da sala.
 #caption Interlúdio: Torre de Força
 ^ Você fica a uma boa distância, examinando a estranha formação através
 um dispositivo de coleta de ressonância montado por um dos técnicos. É bastante
-útil e você será capaz de ver o objeto distante como se fosse
+utilizável e você será capaz de ver o objeto distante como se fosse
 a poucos metros de distância.
-^ "Parece uma lenda na pele do Manifold Six", você diz, e aqueles
-reunidos ao seu redor alteraram sua ressonância para mostrar humor. "O que é?"
+^ "Parece uma erupção cutânea na pele do Manifold Six", você diz, e aqueles
+reunidos ao seu redor alteram sua ressonância para mostrar humor. "O que é?"
 ^ O xenobiólogo puxa as pontas do pescoço para trás e altera rigidamente:
 "Não sabemos, Líder. Não há relatos desses objetos no Manifold
-arquivos que foram transmitidos pelos criadores originais. Isso parece ser algo
+arquivos que nos foram transmitidos pelos criadores originais. Isso parece ser algo
 novo."
-^ Você bate nas mandíbulas como um bebê ao baixar o dispositivo de coleta.
+^ Você bate as mandíbulas como um bebê ao abaixar o dispositivo de coleta.
 "Isso é ruim. Muito ruim. A presença dos extraterrestres causou isso, não
 isto."
-^ O biólogo balança o pescoço novamente em consentimento. "De alguma forma, o intelecto latente
+^ O biólogo balança o pescoço novamente em assentimento. "De alguma forma, o intelecto latente
 do Manifold Six criou estas... torres... em resposta às irritações
-causado pela devastação ecológica dos extraterrestres; e, hesito em alterar,
+causada pela devastação ecológica dos extraterrestres; e, hesito em alterar,
 nossa própria presença também. Eles geram o fungo em uma taxa maior e podem
 ser um canal para atividades de mindworm e sporerunner. Essas gavinhas que você vê -" aqui
 ele balança um braço "- tem um alcance de várias centenas de metros. É perigoso pegar
 muito perto da coisa."
 ^ Você arregala os olhos de tanto rir enquanto altera as palavras dele para mostrar humor. "Ah! Então
-Eu estava certo da primeira vez. É como uma profecia gigante!"
+Eu estava certo da primeira vez. É como uma erupção cutânea gigante!"
 ^ Você só gostaria que fosse tão engraçado quanto ressoasse. O fato é que, sem verificação, esses
 as coisas assumiriam o controle do múltiplo. Isso traria o florescimento? Ou seria
 em vez disso, traz outra destruição, como a de Tau Ceti?

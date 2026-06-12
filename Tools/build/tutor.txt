@@ -9,7 +9,7 @@
 #LANDFALL
 #xs 300
 #button TOUR
-Sua cápsula de colônia pousou em Alpha Centauri; suas lojas possuem
+Sua cápsula de colônia pousou em Alpha Centauri; suas posses
 foi usado para encontrar sua primeira base, $BASENAME0. Você pode usar o $UNITNAME1
 unidade que agora está ativa para explorar a área circundante. Pode
 também ser usado para defesa, se necessário.

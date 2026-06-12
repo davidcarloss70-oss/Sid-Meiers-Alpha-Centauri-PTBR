@@ -95,6 +95,18 @@ if os.path.exists(CACHE_FILE):
 else:
     translation_cache = {}
 
+def load_cache():
+    global translation_cache
+    if os.path.exists(CACHE_FILE):
+        try:
+            with open(CACHE_FILE, "r", encoding="utf-8") as f:
+                new_cache = json.load(f)
+                translation_cache.clear()
+                translation_cache.update(new_cache)
+        except Exception:
+            pass
+
+
 def save_cache():
     with open(CACHE_FILE, "w", encoding="utf-8") as f:
         json.dump(translation_cache, f, ensure_ascii=False, indent=2)
@@ -573,13 +585,7 @@ TEXT_FILES = [
 ]
 
 def main():
-    global translation_cache
-    if os.path.exists(CACHE_FILE):
-        try:
-            with open(CACHE_FILE, "r", encoding="utf-8") as f:
-                translation_cache = json.load(f)
-        except Exception:
-            translation_cache = {}
+    load_cache()
 
     print("Iniciando tradutor automatizado de Alpha Centauri para PT-BR...\n")
     

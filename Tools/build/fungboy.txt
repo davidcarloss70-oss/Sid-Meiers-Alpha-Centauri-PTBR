@@ -76,7 +76,7 @@ Sanctuary Dome
 A humanidade tem sido cega há milhares de anos – durante toda a sua história. Nós
 chegamos a um lugar cujas maravilhas são cem vezes mais surpreendentes do que
 qualquer coisa na Terra. Ao nosso redor há uma evidência clara da vontade de um poder superior.
-Trago a Visão aos olhos cegos dos homens. Eu trago a palavra aos ouvidos surdos
+Trago a Visão aos olhos cegos dos homens. Eu trago a Palavra aos ouvidos surdos
 dos homens. Eu farei com que eles vejam isso. Eu farei com que eles ouçam isso.
 ^
 ^- Profeta Cha Dawn
@@ -95,8 +95,8 @@ dos homens. Eu farei com que eles vejam isso. Eu farei com que eles ouçam isso.
 ^-1 INDÚSTRIA: {Reluctant to pollute environment}
 ^-1 ECON: {Disinterested in wealth and its trappings}
 ^BROOD PIT grátis com descoberta da genética Centauri
-^Mind Worms cumpre dupla função policial: {Fear and reverence for native life}
-^{Não é possível fazer escolha de riqueza em engenharia social}
+^Mind Worms cumprem dupla função policial: {Fear and reverence for native life}
+^{Pode não fazer escolha de riqueza em engenharia social}
 
 #FACTIONTRUCE
 #xs 440

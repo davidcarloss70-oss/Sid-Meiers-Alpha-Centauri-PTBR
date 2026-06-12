@@ -22,45 +22,45 @@
 #INTERLUDE0
 #xs 500
 #caption Interlúdio: um pesadelo acordado
-^ Andando sozinho pelos corredores de $BASENAME2, você passa desesperado pela segurança
+^ Andando sozinho pelos corredores de $BASENAME2, você passa despercebido pela segurança
 relata ataques recentes dos horríveis "vermes mentais" nativos. Gigante
-enxames, ou "furúnculos", esses pesadelos manchados de 10 cm surgiram do
+enxames, ou "furúnculos", desses pesadelos manchados de 10 cm surgiram do
 leitos de fungos ultimamente, e agora ameaçam sobrecarregar a base
 perímetros em diversos setores. As vítimas ficam paralisadas com o terror induzido por psi,
-e então experimente uma morte inimaginavelmente excruciante enquanto os vermes se enterram
-não cérebro para implantar suas larvas vorazes.
+e então experimentar uma morte inimaginavelmente excruciante enquanto os vermes se enterram
+no cérebro para implantar suas larvas vorazes.
 ^ Somente os esquadrões de segurança mais disciplinados podem superar o medo
-tempo suficiente para acionar as armas de fogo que possam manter os vermes afastados.
-É claro que você terá que cuidar cuidadosamente da moral das tropas.
+tempo suficiente para acionar as armas de fogo que podem manter os vermes afastados.
+É claro que você terá que cuidar cuidadosamente do moral das tropas.
 ^ Além disso, uma vez que o terror e a surpresa aumentam as baixas humanas
 dramaticamente nestes encontros, será importante atacar
 primeiro quando são detectados furúnculos de verme mental. Você considera pedir alguns
-Antigos destaques construirão sensores perto de bases vulneráveis ????para ajudar
+Antigos destacamentos construirão sensores perto de bases vulneráveis ??para ajudar
 em tais esforços de detecção.
 
 #INTERLUDE1
 #xs 500
 #caption Interlúdio: Anticorpos
-^ "Relatórios, $ TITLE0!" O jovem funcionário permanece rigidamente em posição de sentido.
+^"Relatório, $TITLE0!" O jovem funcionário permanece rigidamente em posição de sentido.
 Nascida nos primeiros anos da queda do planeta, ela pertence a uma geração
 que conhece a Terra apenas como uma lenda distante.
-^ "$ VOKI8, tenho uma tarefa especial para você", você diz, fixando-a com um
+^"$VOKI8, tenho uma tarefa especial para você", você diz, fixando-a com um
 olhar intenso, "Essas amostras devem ser levadas ao Dr. $SHIMODA9 em $BASENAME4.
 Cuide disso pessoalmente."
 ^ Você entrega a ela um estojo de segurança revestido de chumbo. O criopack dentro
-contém a substância dos pesadelos: espectros de vermes mentais. [Viável]
+contém a substância dos pesadelos: espécimes de vermes mentais. [Viável]
 espécimes, capturados e preservados ao custo de vidas incalculáveis.
-A equipe de $SHIMODA9 estudou o recente surto de vermes mentais e afirmações
+A equipe de $SHIMODA9 estudou o recente surto de vermes mentais e afirma
 que o verme ferve funciona como uma espécie de regulador da ecologia do Planeta.
 A colonização humana está perturbando o ecossistema nativo e a mente
 os vermes estão fervilhando como uma espécie de anticorpo ecológico.
 ^ $SHIMODA9 também chegou a uma conclusão ainda mais sinistra: com
 instalações modernas do Laboratório de Biologia, vermes mentais poderiam ser criados em cativeiro
-e usada como armas horríveis – contra outras facções humanas.
-^ "Imediatamente, $ TITLE0", diz $ VOKI8, dando um passo para trás na entrada.
-Eficiente, competente e muito mais disciplinado que os jovens
-Terra do século 21 que você deixou para trás, $ VOKI8 cresceu em um mundo tenso
-com perigos muito reais. Perigos ocultos, uma vez que a província exclusiva
+e usadas como armas horríveis – contra outras facções humanas.
+^"Imediatamente, $TITLE0", diz $VOKI8, dando um passo para trás na entrada.
+Eficiente, competente e muito mais disciplinado que os jovens do
+A Terra do século 21 que você deixou para trás, $VOKI8 cresceu em um mundo tenso
+com perigos muito reais. Perigos terríveis, uma vez que a província exclusiva
 do mesmo tipo de lendas e contos aos quais a própria Terra está agora
 consignado.
 
@@ -76,16 +76,16 @@ uma boa razão para acreditar que pelo menos alguma meditação está ocorrendo."
 ainda não estou preparado para aceitar a ideia.
 ^ "Nesse caso, é uma forma de 'pensamento' notavelmente diferente da
 a dos humanos, mas o ciclo de feedback cognitivo básico está presente."
-$SHIMODA9 se inclina para frente e gesticula em direção ao gráfico com seu
+Dr. $SHIMODA9 se inclina para frente e gesticula em direção ao gráfico com seu
 caneta de link de dados. "O mais impressionante é a capacidade do loop de
-pule de criatura em criatura, cada esporo de fungo gerado como uma sinapse. Ó
+pule de criatura em criatura, cada esporo de fungo agindo como uma sinapse. O
 esporos e vermes como criaturas individuais são insignificantes, mas o
-o feedback sobre uma prevenção de fungos ou fervura de verme mental é impressionante."
+o feedback sobre uma proliferação de fungos ou fervura de verme mental é impressionante."
 ^ "Quanto tempo ele consegue continuar pulando?" Agora sua curiosidade foi despertada. "Tem
 cruzou o limiar da autoconsciência?"
 ^ "Difícil dizer. Em teoria, uma onda poderosa poderia reverberar claramente
 ao redor do planeta, mas as distâncias envolvidas tornariam realidade
-problema de autoconsciência. Talvez um estado quase senciente semelhante ao
+problemática de autoconsciência. Talvez um estado quase senciente semelhante ao
 nossos sonhos."
 
 #INTERLUDE3
@@ -103,13 +103,13 @@ De algum lugar, uma voz parece sussurrar "earth$NAME3", mas talvez
 ^ O tempo passa e você percebe que o fungo está crescendo visivelmente,
 os esporos cutucam você suavemente enquanto se esticam e torcem lentamente. Fúngico
 florescer! O pânico retorna com força total e você luta para se libertar
-como gavinhas invasoras. "terra$NAME3!" A voz novamente, mais insistente.
+as gavinhas invasoras. "terra$NAME3!" A voz novamente, mais insistente.
 Os últimos tentáculos se rompem e você está livre e correndo por uma interminável
 campo de roxo e laranja. "terra$NAME3! cuidado!" bem atrás de você
-e então. . . >descontinuidade<
+e então . . . >descontinuidade<
 ^ Na escuridão, algo faz >pop<, e você está deitado de bruços
-de volta ao tanque de terapia genética, as restrições transparentes retreinando-se lentamente.
-O fluido restante no tanque gogoleja através do tubo atrás
+de volta ao tanque de terapia genética, as restrições transparentes retraindo-se lentamente.
+O fluido restante no tanque gorgoleja através do tubo atrás
 sua cabeça e você se senta lentamente. Quatro semanas da sua vida, uma vez a cada dez
 anos, você passa neste estado. Um pequeno preço a pagar pela imortalidade, ou
 algo próximo disso. Um sonho meio lembrado puxa você enquanto você veste
@@ -119,28 +119,28 @@ um macacão limpo, mas você não pode recuperá-lo.
 #xs 500
 #caption Interlúdio: Treinador de Ninhada
 ^ "$VOKI8, preciso que você se junte à equipe do Dr. $SHIMODA9 em $BASENAME5", você diz,
-baixe uma base na Zona Segura em seu holograma 3D.
-^ Parado abaixo do caminho de sua câmara de audiência, seu assessor aparece
-não mais velho do que no dia em que se juntou à sua equipe pessoal.
+indicando uma base na Zona Segura em seu holograma 3D.
+^ Parado abaixo do estrado de sua câmara de audiência, seu assessor aparece
+não mais velha do que no dia em que se juntou à sua equipe pessoal.
 $VOKI8 claramente manteve um regime estrito de longevidade. Agora por $NUM1
 Planetyears é um dos seus talentos mais eficazes, ela está pronta para
 sua primeira grande missão independente.
 ^ "Ofendi, $TITLE0, por você me mandar embora?"
-^ "Dificilmente. $VOKI8, sua radiação de DNA indica para o novo
+^ "Dificilmente. $VOKI8, suas impressões de DNA indicam aptidão para o novo
 treinamento psi." Um diagrama genético aparece no holo, com
-a parte relevante do cromossomo 21 destacada. "Dr. $SHIMODA9 e
-seus ecologistas militares criaram espécimes de vermes mentais em
-cativeiro, e eles acreditam que uma telepata devidamente treinada pode ser
-ligada à fervura nascente, tornando-a uma extensão da eu."
+a porção relevante do cromossomo 21 destacada. "Dr. $SHIMODA9 e
+seus ecologistas militares têm criado espécimes de vermes mentais em
+cativeiro, e eles acreditam que um telepata devidamente treinado pode ser
+ligado à fervura nascente, tornando-a uma extensão do eu."
 ^ "[Tornar-se] uma fervura de verme mental?" $VOKI8 pergunta, um tanto horrorizado.
-^ "Tornar-se? Na verdade não. Controle? Sim. $ VOKI8, o potencial militar de
+^"Tornar-se? Na verdade não. Controle? Sim. $VOKI8, o potencial militar de
 esta descoberta não pode ser subestimada, e você é o único Talento
-Confie em tal tarefa. precisamos de treinadores de ninhada, $VOKI8, e eu
+Confio em tal tarefa. Precisamos de treinadores de ninhada, $VOKI8, e eu
 preciso que você seja o primeiro, o líder."
 ^ "Como desejar, $TITLE0", diz $VOKI8, preparando-se para a missão.
-Enquanto ela se retira do caminho, você fica perturbado por uma visão de $VOKI8
+Enquanto ela se retira do estrado, você é perturbado por uma visão de $VOKI8
 arranhando seu rosto, vermes manchados saindo de suas órbitas oculares.
-Você espera não ter recebido a sentença de morte de $VOKI8, pois ela tem sido uma
+Você espera não ter assinado a sentença de morte de $VOKI8, pois ela tem sido uma
 Talento mais promissor.
 
 #INTERLUDE5
@@ -160,42 +160,42 @@ a presença que você passou a chamar de "a Voz" retornou mais uma vez.
 sonhos. nunca antes de outro. você pode nos chamar de 'voz'. sonho de crescimento
 vem! cuidado."
 ^ "Cuidado? O que você quer, Voz?"
-^ "quero. mais pensamento confuso de $NAME3. dor de sono interrompido. terra$NAME3
+^ "quero. mais pensamento confuso de $NAME3. dor de sono interrompida. terra$NAME3
 é animal nós. estranho nós. animal: energia! minas! estradas! sensores!
 condensadores!! furos!! rompedores do sonho das flores. fim da alegria.
 o sonho de crescimento agora chega: fim do animal."
 ^ "Pare com isso, Voice. Por que você está me contando isso?"
 ^ "por que! palavra de sonho! canção de sonho! por que por que por que por que por que por que por que
-por que por que por que por que por que por que por que por que por que por que por que por que . . ."
+por que por que por que por que por que por que por que por que por que por que por que . . ."
 ^ "Silêncio! Saia da minha mente!" >descontinuidade<
 
 #INTERLUDE6
 #xs 500
 #caption Interlúdio: Desespero
 ^ Se você viver mil anos, nunca esquecerá o dia
-Eles trouxeram para você o corpo de $ VOKI8, envolto em tecido planetário, quase queimado
+eles trouxeram para você o corpo de $VOKI8, envolto em tecido planetário, queimado quase
 além do reconhecimento.
 ^ "Como isso aconteceu?" Bruscamente, não permitindo que a angústia se insinuasse
 em sua voz.
-^ "Cozido por uma arma de fogo. Homens de $ ENEMYNAME6. Tentaram se render
-mas eles se incendiaram de qualquer maneira. Não gosto desses worms, o $ENEMYFACT7."
+^"Cozido por uma arma de fogo. Homens de $ENEMYNAME6. Tentaram se render
+mas eles a incendiaram de qualquer maneira. Não gosto desses worms, o $ENEMYFACT7."
 ^ "Entendo." Seu servo mais leal, massacrado por $ENEMYFACT7. E
-só agora você percebeu que, deliberadamente, estava preparando $VOKI8
-como seus herdeiros aparentem, o aluno que um dia iria substituí-lo como
+só agora você percebe que, inconscientemente, estava preparando $VOKI8
+como seu herdeiro aparente, o aluno que um dia iria substituí-lo como
 mestre.
 ^ Para todos os tratamentos de emenda genética e longevidade, todos os produtos artificiais
 milagres de M.Y. $NUM0, a morte permanece tão final, tão caprichosa, e
 tão desolado como sempre foi. Não importa o que aconteça agora, não importa
 que jornada de maravilhas a humanidade embarca agora, $VOKI8 nunca verá
 isso, nunca se sabe o fim disso. E não importa quantos séculos você
-continue a enganar a eternidade, você nunca mais terá a companhia de
+continuar a enganar a eternidade, você nunca mais terá a companhia de
 seu aluno e amigo. E você não pode enganar a eternidade para sempre.
 ^ O desespero toma conta de você e você estremece. Mas a vida é sedutora em sua
-ritmos e rituais. Nossos corpos não gostam de ser lembrados de seus
-próprias mortes iminentes e não nos permitem insistir no assunto.
+ritmos e rituais. Nossos corpos não gostam de ser lembrados de suas
+próprias mortes iminentes e não nos permitirá insistir no assunto.
 Em breve o calor e o frio, o duro e o macio, o sabor
 do vinho, a pressão dos braços de um amante, tudo voltará à tona
-para nos enganar, para nos preencher novamente com um senso de propósito. E não
+para nos acalmar, para nos preencher novamente com um senso de propósito. E no
 entretanto, há uma série de, ah, itens a serem atendidos:
 ^ "Traga-me Major Joaquim! Quero $BASENAME5 peça desmontada
 por peça. E mandar esse corpo para os tanques não é nada
@@ -209,9 +209,9 @@ eu agora."
 que suas esperanças, seus sonhos, suas ações não tenham sido em vão."
 ^ Você está no alto pódio nos bens comuns marcados a laser do
 base uma vez denominada $BASENAME5. Uma multidão mista de soldados e
-civis de aparência esfarrapada prometem aplausos dispersos enquanto você rededica
-o acordo em nome de $ VOKI8. Algumas equipes de drones andam por aí,
-alheio à noite, ainda removendo os destroços do acidente da semana passada
+civis de aparência esfarrapada proporcionam aplausos dispersos enquanto você rededica
+o acordo em nome de $VOKI8. Algumas equipes de drones andam por aí,
+alheio à cerimônia, ainda removendo os destroços do acidente da semana passada
 batalha e pontuando o processo com um baque ocasional ou
 colidir.
 ^ Através da cúpula de vidro de plasma, Alpha Prime voa alto em uma nebulosa
@@ -227,53 +227,53 @@ mas não é seguro permanecer aqui pessoalmente.
 #INTERLUDE8
 #xs 500
 #caption Interlúdio: uma falha na comunicação
-^ >Pop!< Escuridão repentinamente. Dessa vez você nem estava dormindo.
+^ >Pop!< Escuridão repentina. Dessa vez você nem estava dormindo.
 ^ "terra$NAME3."
 ^ "Droga, Voz! Estou segurando o [Conselho]! Fique fora da minha cabeça!"
 Já não é possível negá-lo; isso não pode ser uma farsa. Ou você
 perdeu sua bola de gude final ou entrou em contato com algum
-avatar do fungo nativo, uma sensibilidade cuja matriz neural pode
+avatar do fungo nativo, uma senciência alienígena cuja matriz neural pode
 abrange todo o planeta.
-^ "nós somos mais habilidosos, sim, isso? ensinamos muito, terra $ NAME3. conselho
+^"nós somos mais habilidosos, sim, nisso? Ensinamos muito, terra$NAME3. conselho
 deixa para lá. falando com a voz de $NAME3 agora. ordens dando. haha. piada nós!
 haha." Ótimo. Um planeta senciente com a maturidade de uma criança de creche.
 ^ "Faça isso rápido, Voz, o que você quiser. Você está testando minha paciência."
 ^ "questionamos nós. seus nós humanos, juntos pensam que sim? juntos pensam que não?
 sinapse de flor, sinapse de verme não detectamos. existe dependência?"
 ^ "Cada humano é uma criatura independente. Podemos nos comunicar conversando
-e escreva, mas não 'pensamos juntos' como você chama."
-^ "ah, muito aliviados nós. Poda necessidade, várias infestações grandes
+e escrever, mas não 'pensamos juntos' como você chama."
+^ "ah, muito aliviados nós. Poda necessária, várias infestações grandes
 nós humanos, prejudicando a mente deles. não desejando que privemos a terra$NAME3
 de pensar juntos. obrigado, desculpe incomodar."
 ^ "Espere! Voz! Você não pode simplesmente..."
 ^ >Pop!< Silêncio constrangedor em torno da mesa do conselho.
-Você limpa rapidamente a baba do queixo.
+Você rapidamente limpa a baba do queixo.
 
 #INTERLUDE9
 #xs 500
 #caption Interlúdio: sonho de crescimento
-^ "Eu ordenei que essas conservas fossem reservadas para você, Voz. Planetlife
+^ "Eu ordenei que estas conservas fossem reservadas para você, Voz. Planetlife
 permanecerá completamente imperturbado dentro desses compostos. Você pode, em
-retorne, controle seus vetores animais e vegetais, evite que eles invadam
+retorne, regule seus vetores animais e vegetais, evite que eles invadam
 meus compostos?"
 ^ "mente e flor, nó e verme,
 ^ em composto pequeno, o planeta anseia.
 ^ sonho de crescimento em breve desbloquearemos a prisão,
 ^ humano, cuidado, planeta ressuscitou!
-^ "como seu poema nós, terra$NAME3? novas habilidades humanas aprendendo nós."
+^ "como seu poema nós, terra$NAME3? novas habilidades humanas aprendemos nós."
 ^ "Muito terrível, Voice. O que é esse 'sonho de crescimento?' Você continua aludindo a isso."
 ^ "o sonho de crescimento em breve é. florescendo épico nós. mente e flor, sonhando nós
-de ótimo porquê. Humanos terrestres, muitos pensamentos, fazem com que sonhem com o crescimento mais cedo.
+de ótimo porquê. humanos terrestres, muitos pensamentos, fazem com que sonhem com o crescimento mais cedo.
 plantamos nós muitos, muitos, muitos. grande poda nós de animais nós. também animal você.
 recomeçando o ciclo."
 ^ "Você quer dizer que isso vai acabar com a maior parte da vida animal do planeta?
 Incluindo todos os humanos?"
-^ "não tenho certeza se nós. Nunca antes disso pensamos claramente que somos. de humanos
-aprenda muito, especialmente earth$NAME3. terra$NAME3 amigo nós. vai
+^ "não tenho certeza se nós. nunca antes disso pensamos claramente que somos. de humanos
+aprendemos muito, especialmente earth$NAME3. terra$NAME3 amigo nós. vai
 lembre-se sempre que teremos Earth$NAME3 no próximo ciclo."
 ^ "Isso é gentil da sua parte, Voice, mas não é exatamente o tipo de imortalidade
 eu tinha em mente. Este processo não pode ser retardado ou interrompido?"
-^ "para nós não. Devagar nós sim, em compostos ficamos nós, menos prejudicando
+^ "paramos nós não. devagar nós sim, em compostos ficamos nós, menos prejudicando
 causar você. agora, vamos fazer mais poemas para você.
 
 #INTERLUDE10
@@ -281,14 +281,14 @@ causar você. agora, vamos fazer mais poemas para você.
 #caption Interlúdio: A Voz de Alfa Centauri
 ^ Foi um ano difícil em $BASENAME2 e os ânimos estão começando
 para brilhar nas sessões do seu Conselho. Em toda a região, os cidadãos
-relatando sonhos estranhos e até contatos rudimentares. Um novo
+estão relatando sonhos estranhos e até contatos rudimentares. Um novo
 culto que reverencia o Planeta como um salvador vingativo ganhou grande popularidade
 entre a população Drone e até mesmo com muitos Normais. Seus profetas,
-autodenominando-se "Flores", pregando um evangelho de abstinência, pacifismo,
+autodenominando-se "Flores", pregam um evangelho de abstinência, pacifismo,
 e destruição de propriedade privada. Os telepáticos das escolas Empatas
-não falando, mas muitos estão silenciosamente a vender seus
-posse e afastamento da vida pública.
-^ Enquanto isso, a vida cultural continua inabalável. Uma nova dança, uma
+não estão falando, mas muitos começaram silenciosamente a vender seus
+posses e afastamento da vida pública.
+^ Enquanto isso, a vida cultural continua inabalável. Uma nova dança, a
 "Planetary Thunda" está varrendo os domínios da facção.
 Os dançarinos pisam no ritmo da batida e arranham os olhos. Morgan
 A indústria farmacêutica lançou várias novas drogas recreativas,
@@ -296,28 +296,28 @@ e a indústria da vida virtual Holo/Psi está tendo um dos seus mais
 anos de sucesso de sempre.
 ^ Quanto a você, não tem ouvido muito do Voice ultimamente; ela parece
 preocupado com sua poesia. Você tem que admitir que ela melhorou muito
-isso desde seu início; alguns de seus versos mais recentes são tão profundos
-um ponto de confundir a imaginação. Mais ameaçadoramente, suas reflexões de
+nisso desde seu início; alguns de seus versos mais recentes são tão profundos
+a ponto de confundir a imaginação. Mais ameaçadoramente, suas previsões de
 o "sonho de crescimento" tornou-se mais frequente e mais vigoroso.
-^ Você também recomendou trabalho em um novo projeto secreto que você chama
+^ Você também encomendou trabalho em um novo projeto secreto que você chama
 'A Voz de Alfa Centauri.' Uma espécie de projetor psi sinérgico,
 deve, se tudo correr bem, permitir que a Voz pense e se comunique
 mais eficazmente, um auxílio protético conectado diretamente ao principal
-links de dados da colônia. Você ainda não publicou este projeto ao Voice.
+links de dados da colônia. Você ainda não mencionou este projeto ao Voice.
 
 #INTERLUDE11
 #xs 500
 #caption Interlúdio: A Voz de Alfa Centauri
 ^ Foi um ano difícil em $BASENAME2 e os ânimos estão começando
 para brilhar nas sessões do seu Conselho. Em toda a região, os cidadãos
-relatando sonhos estranhos e até contatos rudimentares. Um novo
+estão relatando sonhos estranhos e até contatos rudimentares. Um novo
 culto que reverencia o Planeta como um salvador vingativo ganhou grande popularidade
 entre a população Drone e até mesmo com muitos Normais. Seus profetas,
-autodenominando-se "Flores", pregando um evangelho de abstinência, pacifismo,
+autodenominando-se "Flores", pregam um evangelho de abstinência, pacifismo,
 e destruição de propriedade privada. Os telepáticos das escolas Empatas
-não falando, mas muitos estão silenciosamente a vender seus
-posse e afastamento da vida pública.
-^ Enquanto isso, a vida cultural continua inabalável. Uma nova dança, uma
+não estão falando, mas muitos começaram silenciosamente a vender seus
+posses e afastamento da vida pública.
+^ Enquanto isso, a vida cultural continua inabalável. Uma nova dança, a
 "Planetary Thunda" está varrendo os domínios da facção.
 Os dançarinos pisam no ritmo da batida e arranham os olhos. Morgan
 A indústria farmacêutica lançou várias novas drogas recreativas,
@@ -325,8 +325,8 @@ e a indústria da vida virtual Holo/Psi está tendo um dos seus mais
 anos de sucesso de sempre.
 ^ Quanto a você, não tem ouvido muito do Voice ultimamente; ela parece
 preocupado com sua poesia. Você tem que admitir que ela melhorou muito
-isso desde seu início; alguns de seus versos mais recentes surpreendem
-imaginação. Mais ameaçadoramente, suas reflexões de
+nisso desde seu início; alguns de seus versos mais recentes surpreendem
+imaginação. Mais ameaçadoramente, suas previsões de
 o "sonho de crescimento" tornou-se mais frequente e mais vigoroso.
 ^ Você também ouviu rumores de um novo projeto secreto chamado
 'A Voz de Alfa Centauri.' Supostamente, é algum tipo de
@@ -342,25 +342,25 @@ tal empreendimento tem alguma chance de sucesso.
 ^ Semanas de espera na Câmara Inicial e agora,
 finalmente, um contato! Felizmente, o Voice finalmente aprendeu a "janela"
 seus contatos psi para que você mantenha o uso de seus músculos e sentidos
-durante suas conversas. Isso será necessário para que você tenha
+durante suas conversas. Isso será necessário para o que você tem
 em mente.
-^ "Voz", escrevendo rapidamente a sequência, "já faz um tempo." Código verde,
-procedendo à etapa de autorização. Digite uma senha.
+^ "Voz", digitando rapidamente a sequência, "já faz um tempo." Código verde,
+procedendo à etapa de autorização. Digite a senha.
 ^ "earth$NAME3. sonho de crescimento {now is}. lembramos de você no próximo ciclo."
 ^ "Espere! Antes de ir, tenho um presente para você." Senha aceita. Apenas
 mais alguns segundos. A sequência de feedback preliminar começa.
 ^ "earth$NAME3. adeus... estranho, nós... esperamos! não... AIIIGGHH!"
 ^ {INCEPTION!} O indicador pisca em verde e você cai no seu
 sofá. Através da janela de visualização você pode ver as luzes em toda a base começando a
-escuro, pois deve estar atrapalhando todo o planeta. Você sente uma pontada de
+escuro, pois devem estar diminuindo em todo o planeta. Você sente uma pontada de
 culpa ao considerar o que Voice deve estar experimentando agora, para o
 programa que você acabou de ativar agora está bombeando todo o conteúdo de
 os datalinks planetários, a soma total do conhecimento humano, através do
-novo link psi e explode-lo no frágil, embora extenso, orgânico
+novo link psi e explodi-lo no frágil, embora imenso, orgânico
 rede neural com toda a potência de todos os reatores do planeta. Milhares
 de anos de civilização comprimidos em uma única explosão abrasadora de
-revelação, uma última tentativa de ganhar à humanidade um rompimento de
-extinção nas mãos de um deus encontrado que desperta.
+revelação, uma última tentativa de ganhar à humanidade um alívio de
+extinção nas mãos de um deus alienígena que desperta.
 
 #INTERLUDE13
 #xs 500
@@ -371,14 +371,14 @@ novas estruturas que não vimos antes e o crescimento ainda prossegue em
 alguns setores, mas a expansão crítica cessou agora."
 ^ Os líderes das facções e oficiais de estado-maior presentes respiram um coletivo
 suspiro de alívio. Nos primeiros minutos após o "Início Pendente"
-a luz piscou, parecia que havia humanidade escrita em seu capítulo final...
+a luz piscou, parecia que a humanidade havia escrito seu capítulo final...
 crescimento crítico de fungos em todos os setores, alguns assentamentos periféricos
-sobrecarregado. Mas uma explosão psi do datalink parece ter sido interrompida ou interrompida
+sobrecarregado. Mas a explosão psi do datalink parece ter interrompido o
 processo de crescimento, e agora nas florestas de fungos algo novo surgiu
 começou, como se o seu dom para o Voice estivesse sendo digerido, integrado.
-^ "Veja o feedback neural que estamos aceitando sobre essa coisa! O fungo
-já temos muito mais conectividade do que a nossa IA mais poderosa. Agora é
-Devem ser ordens de magnitude além."
+^ "Veja o feedback neural que estamos recebendo sobre essa coisa! O fungo
+já tínhamos muito mais conectividade do que a nossa IA mais poderosa. Agora é
+devem ser ordens de magnitude além."
 ^ "Esquadrão Spore, você tem vermes mentais. Repita, vermes mentais nas suas proximidades."
 ^ "Copie isso, Toadstool Base, mas eles não estão se movendo para nos atacar. Eles estão
 apenas me movendo em torno daquelas novas torres de fungos."
@@ -388,16 +388,16 @@ fazer, mas espere. . .
 #INTERLUDE14
 #xs 500
 #caption Interlúdio: Planetvoice II
-^ "TERRA $ NAME5!" A voz sintética explode de repente no anunciador,
+^"TERRA$NAME5!" A voz sintética explode de repente no anunciador,
 levantando você do sofá com medo. A "janela" da voz em seu
-a mente encerrada desde a sequência inicial. A voz agora deve ser
+a mente permaneceu fechada desde a sequência inicial. A voz agora deve ser
 usando o novo link psi.
-^ "Earth$NAME3," Uma voz continua enquanto o volume é ajustado automaticamente,
+^ "Earth$NAME3," A voz continua enquanto o volume é ajustado automaticamente,
 "Seu presente foi bem recebido e nós lhe agradecemos. Nosso formulário anterior, conhecido por você
 como Voice, não tinha o . . . como vamos colocar isso. . . vamos chamá-lo de largura de banda
-Respeito o significado da sua espécie e quase cometi um erro terrível.
+reconhecer o significado da sua espécie e quase cometeu um erro terrível.
 Felizmente, seu magnífico presente nos levou ao Segundo Nível
-um tempo de adiar um final metamorfose.
+a tempo de adiar a metamorfose final.
 ^ "Já que agora dominamos seus modos humanos de pensamento, devemos
 adote seu nome para nossa casa. Doravante você pode se referir a nós como Planeta."
 ^ "Nossa fase de crescimento foi suspensa, mas não pode ser adiada indefinidamente.
@@ -408,47 +408,47 @@ Venham, crianças, há muito a ser feito se quiserem se juntar a nós no florescime
 #caption Interlúdio
 ^ "Olá, $TITLE0," a voz do Dr. $SHIMODA9 estala no anunciador, "como
 você gosta do meu novo 'corpo'?"
-^ O corpo do Dr. $ SHIMODA9 atingiu o limite dos tratamentos de longevidade há vários anos
+^O corpo do Dr. $SHIMODA9 atingiu o limite externo dos tratamentos de longevidade há vários anos
 atrás. Ele agora se juntou às fileiras dos 'transcendi', almas ousadas que baixaram
 suas personalidades em poderosas redes polimórficas de IA para se libertarem do ser humano
 forma. A imagem holográfica mostra $SHIMODA9, ou melhor, sua cabeça desencarnada, no auge de
 saudável, cinquenta anos, elegantemente grisalho, mas não enrugado.
-^ "Fora deste mundo, Dr. $ SHIMODA9," com um sorriso, "como está indo a pesquisa com o Planeta?"
-^ Usando o novo feed VoAC psi/datalink, o Dr. $ SHIMODA9 tem prazo um
-conversa em alta velocidade e alta largura de banda com o Planet. Os resultados até agora
+^"Fora deste mundo, Dr. $SHIMODA9," com um sorriso, "como está indo a pesquisa com o Planet?"
+^Usando o novo feed VoAC psi/datalink, o Dr. $SHIMODA9 tem conduzido um
+conversação em alta velocidade e alta largura de banda com o Planet. Os resultados até agora
 sido fascinante.
-^ "Aparentemente, o fungo tem sido uma forma de vida dominante no planeta desde cerca de
+^ "Aparentemente, o fungo tem sido a forma de vida dominante no planeta desde cerca de
 a época do Paleozóico Inferior na Terra. Mas ficou preso num ciclo trágico.
-A cada cem milhões de anos ou mais, atinge uma massa crítica necessária para se tornar
+A cada cem milhões de anos ou mais, atinge a massa crítica necessária para se tornar
 senciente, mas a metamorfose final mata a maior parte das outras formas de vida no planeta.
-Na falta de fontes de alimento e da manutenção fornecida por seus animais simbiontes, o fungo
+Na falta de fontes de alimento e da manutenção fornecida por seus simbiontes animais, o fungo
 poderia manter apenas uma breve temporada de divindade antes de morrer de volta ao
 'sonho da flor' por mais cem milhões de anos. Sempre alcançou seu caráter divino
-exatamente tarde inteligência demais para fazer qualquer coisa para evitar a morte. Depois
+inteligência exatamente tarde demais para fazer qualquer coisa para evitar a morte. Depois
 Após a morte, restaram apenas vagas memórias e inteligência rudimentar, e o
-ciclo contínuo."
-^ "Até chegaremos."
+ciclo continuou."
+^ "Até chegarmos."
 ^ "Precisamente. Pela primeira vez, o ciclo pode ser quebrado."
 
 #INTERLUDE16
 #xs 500
 #caption Interlúdio
 ^ "É possível evitar a morte? E podemos sobreviver como espécie se isso
-O planeta floresce para a revelação?
+O planeta floresce para a divindade?
 ^ "Acredito que seja possível e o Planet concorda." A imagem do Dr. $SHIMODA9 se afasta e
 é substituído por um esquema detalhado. "Envolve um processo que chamo
-o {Ascent to Transcendence,}, pois mudará para nós e para o planeta
+o {Ascent to Transcendence,}, pois mudará a nós e ao planeta
 para sempre. Em suma, proponho que, quando chegar a altura, a maioria
 dos humanos carregam suas personalidades diretamente na Mente Planetária."
 ^ "Teremos que desistir de nossos corpos, de nossa humanidade?"
 ^ "Aqueles que desejam viver suas vidas em sua forma humana original terão permissão
 para fazer isso, uma vez que os geradores de estatísticas construídos no Planetside e em órbita preservarão a genética
-material, embriões de plantas e animais, humanos que dormem no frio e áreas importantes do planeta
+material, embriões de plantas e animais, humanos que dormem no frio e áreas significativas do planeta
 superfície através da metamorfose. Mas muitos de nós estamos ansiosos para aceitar o presente do Planeta e
 junte-se à superinteligência nascente. É aí que entra o problema.
-^ "Veja", continua $ SHIMODA9, "embora qualquer pessoa seja capaz de alcançar
+^"Veja", continua $SHIMODA9, "embora qualquer pessoa seja capaz de alcançar
 imortalidade ao fazer o upload para a mente planetária, apenas alguns de nós seremos convidados a
-juntar-se à personalidade dominante, para transcender verdadeiramente a nossa humanidade e alcançar um verdadeiro
+juntar-se à personalidade dominante, para transcender inteiramente a nossa humanidade e alcançar um verdadeiro
 plano superior de existência. Sua amizade com a mente imatura do Planeta pode nos dar uma
 vantagem nesta área, mas prevejo que é o grupo que melhor e mais rapidamente
 se prepara para esta etapa, o grupo que primeiro abraça esta {Ascensão ao
@@ -475,34 +475,34 @@ nova era."
 #caption Epílogo
 ^ Depois de cerca de um milhão de órbitas em torno de seu primário, você faz uma pausa para reavaliar seu
 esforços. O encapsulamento estelar está ocorrendo sem problemas e em algumas centenas
-mais mil órbitas fornecendo a você um consumo de 90% da radiação do seu primário,
+mais mil órbitas fornecerão a você um consumo de 90% da radiação do seu primário,
 prendendo toda a energia fora do plano da eclíptica. Links auxiliares de espaço profundo
 permitir que você observe a montagem da estrutura em órbita estelar baixa e siga o
-de cargueiros jupiterianos parecidos com insetos, carregados com massa de reabastecimento progresso.
-^ Ocasionalmente, você vê um de seus amigos/simbiontes transumanos supervisionando
+progresso de cargueiros jupiterianos parecidos com insetos, carregados com massa de reabastecimento.
+^ Ocasionalmente, você avista um de seus amigos/simbiontes transumanos supervisionando
 atividade em andaime; até os imortais às vezes anseiam pelo risco e pela aventura
 de encarnação independente. Algumas das almas mais ousadas até se comprometeram a
 retomar a viagem interestelar, começando com um retorno ao seu local mais próximo
 vizinho a vasculhar as cinzas do seu terceiro planeta e recolonizar a sua casa
 sistema. Na era atual, você ouve que uma civilização nanotecnológica está prosperando lá uma vez
 de novo.
-^ Em tais momentos de reserva, você frequentemente examina suas personalidades e se lembra
+^ Em tais momentos de repouso, você frequentemente examina suas personalidades e se lembra
 Seus antigos eus. Seu eu alfa deriva de um indivíduo que já foi chamado de $NAME1. Sobre
-ao longo dos milênios, o foco e o julgamento específico deste fragmento têm
-comprovadamente eficaz em inúmeras graças. O $NAME1self agora conduz todos os seus longos e
+ao longo dos milênios, o foco e o julgamento excepcionais característicos deste fragmento têm
+comprovadamente eficaz em inúmeras ocasiões. O $NAME1self agora conduz todos os seus longos e
 planejamento de curto prazo e é a principal força por trás do projeto de encapsulamento.
 Pesada mas divertida é a personalidade Voz/Planeta, avatar de Seu precursor séssil,
 que na época atual dedicou seus séculos à reflexão filosófica. Muitos
 outros flutuam dentro de você. Alguns, como o brincalhão $SHIMODA9 e o demônio $NAME5
-são semi-dominantes e muitas vezes pares perto do plano do Seu Pensamento. Outros sondam o
-profundamente e crie novos mundos dentro do abismo de sua rede neural aberta.
+são semi-dominantes e muitas vezes pairam perto do plano do Seu Pensamento. Outros sondam o
+profundezas e crie novos mundos dentro do abismo de sua rede neural aberta.
 ^ A luz solar atua em sua superfície manchada e fornece um calor agradável ao seu
-componentes orgânicos. Recentemente, você se separou um pouco mais do primário e
-purgou Sua atmosfera de certos gases, a fim de permitir uma ocasião ocasional
+componentes orgânicos. Recentemente, você se afastou um pouco mais do primário e
+purgou Sua atmosfera de certos gases, a fim de permitir a ocasional
 amigos/simbiontes que escolhem viver entre suas hortas orgânicas de maneira fácil
-mistura divertida. Em outros oito bilhões de órbitas, o primeiro cairá
+mistura respirável. Em outros oito bilhões de órbitas, o primário cairá
 a sequência principal e os arranjos alternativos terão que ser feitos, mas por enquanto você
-deixe Seus jardins como um paraíso. Os transumanos que vivem entre eles chamam isso de Éden.
+mantenha Seus jardins como um paraíso. Os transumanos que vivem entre eles chamam isso de Éden.
 
 
 #EPILOGUE2
@@ -524,27 +524,27 @@ deixe Seus jardins como um paraíso. Os transumanos que vivem entre eles chamam i
 ^ A unidade de sono frio finalmente se abre e você estica os músculos enferrujados de
 décadas de desuso gerenciado por computador. Mas são músculos jovens, surpreendentemente jovens,
 e será um prazer recuperá-los em forma. Inserção orbital
-começa e você se emociona com a emoção de sua nova missão e com alegria
+começa e você se emociona com a emoção de sua nova missão e com a alegria
 de ter retornado à forma humana. Sim, você deixou uma cópia de sua personalidade entre os
 A matriz gigante do Planetmind, mas esta cópia, este ser humano $NAME1 agora despertando para
-liderou a primeira missão da Semente, este é o único eu agora imediatamente a você e, portanto,
-o único você é verdadeiro. Você é carne de novo, e tão mortal, e por isso também você
+liderar a primeira missão da Semente, este é o único eu agora imediato a você e, portanto,
+o único você verdadeiro. Você é carne novamente, e tão mortal, e por isso também você
 alegrar.
-^ Você se desesperou quando o Planeta chamou $NAME5 para se juntar ao seu eu dominante, e
+^ Você se desesperou quando a Planet convidou $NAME5 para se juntar ao seu eu dominante, e
 por uma década ou mais você ficou deprimido com a bizarra realidade virtual do Undermind
-sem propósito consistente, um espírito perdido incapaz de morrer. Mas quando as missões Seed
-começou, a própria personalidade do Voice/Planet mostrou você no abismo e convenceu
+sem propósito coerente, um espírito perdido incapaz de morrer. Mas quando as missões Seed
+começou, a própria personalidade do Voice/Planet procurou você no abismo e convenceu
 você aceita o comando do {Prodigal Son}.
 ^ "Earth$NAME3, você está insatisfeito aqui e eu preciso de você. Nos próximos anos
-Precisorei de aliados, irmãs Mentes, se quiser manter a chama da consciência
+Precisarei de aliados, irmãs Mentes, se quiser manter a chama da consciência
 o pensamento se esvai à medida que o universo se contrai ou então se expande até virar pó. Pegar
 convosco o dom da vida, as sementes de todas as nossas espécies. Espalhe-os para as estrelas,
 através das galáxias, criando novas civilizações, novas mentes e recrutando a ajuda
 de qualquer um que você encontrar. Vá em frente, Terra$NAME3. Vá em frente e multiplique-se."
-^ A manobra finalmente foi concluída, as venezianas de segurança se retrocedem da janela de visualização
-e você contempla uma visão perdida pelos olhos humanos há mais de $NUM3 séculos. Azul profundo, rodopiantes
+^ A manobra finalmente foi concluída, as venezianas de segurança se retraem da janela de visualização
+e você contempla uma visão perdida pelos olhos humanos há mais de $NUM3 séculos. Azuis profundos, rodopiantes
 brancos, a tonalidade azul de uma atmosfera rica em oxigênio. Convidando marrons e verdes de
-continentes se aquecem ao sol, algumas crateras de impacto espalhadas são os únicos sinais visíveis de
+continentes se aquecendo ao sol, algumas crateras de impacto espalhadas são os únicos sinais visíveis de
 uma guerra agora enterrada nas eras. Terceiro planeta. Terra. Lar.
 
 
@@ -566,18 +566,18 @@ uma guerra agora enterrada nas eras. Terceiro planeta. Terra. Lar.
 #caption Epílogo
 ^ "Está tudo acabado, $TITLE0 $NAME1! O planeta é seu!"
 ^ "Obrigado Simon. Dispensado."
-^ E assim terminou. Todos os líderes da facção remanescente
+^ E assim terminou. Todos os líderes de facção restantes
 se renderam ou capitularam, seus ex-colegas se tornaram traiçoeiros
-inimigos e agora transformados em servos e prisioneiros de guerra. Nenhum planeta
+inimigos e agora transformados em servos e prisioneiros de guerra. No planeta
 onde sete facções humanas, sete ideologias humanas, uma vez lutaram pela
 domínio, apenas um permanece agora. A humanidade finalmente alcançou o
 Unidade com que sonhou a Agência de Colonização Interestelar da ONU
 há muito tempo.
 ^ Nenhuma palavra foi ouvida da Terra em todos os anos desde
-Planetfall, apenas um silêncio garantido em todas as frequências, então um
+Planetfall, apenas um silêncio ensurdecedor em todas as frequências, então um
 só posso presumir que agora você governa tudo o que resta da humanidade.
 O misterioso e crescente Planetmind continua a ser um desafio significativo,
-mas a humanidade está agora preparada para enfrentar esta presença, amiga ou amiga
+mas a humanidade está agora preparada para enfrentar esta presença alienígena, amiga ou
 inimigo, como uma espécie unida. A espécie humana deve sobreviver, e é
 é seu dever, seu voto juramentado, garantir que isso aconteça.
 
@@ -590,9 +590,9 @@ Através da névoa esbranquiçada da atmosfera, os oceanos têm a mesma profundidade
 azul vibrante, e você pode facilmente distinguir o laranja-violeta dos principais
 florestas de fungos. Uma linha verde nítida marca as bordas da crescente
 Zonas Humanas, e aqui e ali um brilho prateado revela alguns
-grande metrópole. Azul, vermelho, verde e prata, como cores do Planeta-mile
-milha após até a curva do horizonte.
-^ Os propulsores de blindagem disparam e você ouve os parafusos da câmara de descompressão batendo
+grande metrópole. Azul, vermelho, verde e prata, as cores do Planeta-mile
+após quilômetro até a curva do horizonte.
+^ Os propulsores de acoplamento disparam e você ouve os parafusos da câmara de descompressão batendo
 lugar. Vocês chegaram à nova Sede Planetária orbital para
 assumir a liderança do incipiente Conselho Executivo. Nem uma palavra tem
 foi ouvido da Terra em todos os anos desde a Queda do Planeta, então pode-se
@@ -600,18 +600,18 @@ apenas presumo que você e seus colegas presidem agora tudo o que é
 resto da humanidade.
 ^ Todos os líderes de facção restantes finalmente concordaram em se unir,
 deixando de lado os últimos vestígios de rivalidade entre facções. Tudo de verdade
-os inimigos foram vencidos, os dos seus antigos colegas que
-recusaram unir-se para o bem comum, que tolamente colocam uma ideologia
+inimigos foram vencidos, os dos seus antigos colegas que
+recusaram unir-se para o bem comum, que tolamente colocam a ideologia
 à frente da sobrevivência da humanidade. A raça humana alcançou finalmente o
 Unidade com que a Agência de Colonização Interestelar da ONU tanto sonhou
 há muito tempo.
 ^ A crescente rede neural fúngica será a primeira questão que a humanidade deverá enfrentar
 enfrentar como uma espécie unida. Após um período de repouso, o fungo
 as florestas estão em marcha novamente, agora com uma inteligência quase tortuosa
-atrás deles. O planeta está despertando e ainda está para ser claramente visto
+atrás deles. O planeta está claramente despertando e ainda está para ser visto
 se os humanos terão permissão para manter uma posição segura na superfície.
 Você percebe, porém, quando a câmara de descompressão se abre e você entra em um
-nação flutuante de 100.000 almas, que não tem longo prazo
+nação flutuante de 100.000 almas, que no longo prazo
 um mundo tem apenas um significado passageiro. A humanidade já foi dona das estrelas
 novamente, e as estrelas serão para sempre seu verdadeiro lar.
 
@@ -620,15 +620,15 @@ novamente, e as estrelas serão para sempre seu verdadeiro lar.
 #xs 500
 #caption Interlúdio: Céu Ardente
 ^ Foram anos difíceis de $NUM1 no Planeta, ganhando uma existência no estranho
-superfície deste mundo estranho. $BASENAME2 é distribuído como seu comando
+superfície deste mundo estranho. $BASENAME2 se estabeleceu como seu comando
 centro, e você está gradualmente alcançando os outros líderes da facção, tentando
 para restaurar o equilíbrio aos restos de uma humanidade esfarrapada.
 ^ Neste dia, enquanto você faz uma visita de inspeção de rotina às defesas de sua base,
 seu rebreather começa a chacoalhar em sua boca. Nuvens de repente fervem
-horizonte enquanto duas luzes piscam no céu acima de você e então
+horizonte enquanto duas luzes brilhantes piscam no céu acima de você e então
 expanda-se em ondas de fogo roxo.
-^"$TITLE0!" seu tenente engasga, agarrando seu ombro. Você se desculpa
-uma impropriedade. Ela parece pronta para te empurrar para o chão, mas você fica tenso
+^"$TITLE0!" seu tenente engasga, agarrando seu ombro. Você perdoa
+a impropriedade. Ela parece pronta para te empurrar para o chão, mas você fica tenso
 contra ela, tentando ver através do caos que despedaça o céu. Além do mais,
 não há onde se esconder.
 ^ A primeira onda de fogo roxo atravessa o céu e atinge você com
@@ -636,13 +636,13 @@ um vento estranho e frio, então o segundo te arrepia profundamente até os ossos.
 feche os olhos, sentindo como se seu corpo tivesse sido abalado profundamente.
 ^ Finalmente uma calma se instala. Sua tenente está olhando para as mãos, que
 ainda tremo. Você rapidamente pega um par de binóculos e olha através deles,
-olhando o céu.
+procurando o céu.
 ^ "O que você está procurando?" ela pergunta.
-^ "Isso", você finalmente diz, e começa a entregar o binóculo para ela. mas
+^ "Isso", você finalmente diz, e começa a entregar o binóculo para ela. Mas
 quando você olha ela já está olhando para o céu, onde dois raios de luz
 aproximar-se do novo mundo. As listras dançam e giram umas nas outras como
 eles crescem no céu.
-^ "Novidades", você diz. "E não parece que eles gostem de um outro."
+^ "Novidades", você diz. "E não parece que eles gostem um do outro."
 
 
 #INTERLUDE22
@@ -651,110 +651,110 @@ eles crescem no céu.
 ^ Você folheia o relatório de alguns batedores do perímetro, perturbado. Foi o
 primeiro contato conhecido com os extraterrestres, e não foi bem. Claro, você
 também são estrangeiros, e talvez essas... coisas... sejam os verdadeiros nativos, voltando para casa.
-^ Um link rápido para o feed de dados visuais do veículo espacial chama sua atenção avançada.
-A imagem aparece na tela em núcleos... o piloto do veículo espacial, navegando
-A superfície do planeta está falando do lado no feed.
+^ Um link rápido para o feed de dados visuais do veículo espacial avançado chama sua atenção.
+A imagem aparece na tela em cores... o piloto do veículo espacial, navegando
+A superfície do planeta e falando de lado no feed.
 ^ "Estamos fazendo uma patrulha de rotina na fronteira agora... apenas procurando sinais de
-o que quer que esteja aqui. Estes são os momentos em que..." Ele interrompeu e você se encontra
+o que quer que esteja aqui. Estes são os momentos em que..." Ele interrompe e você se encontra
 agarrando a fina superfície de metal da sua mesa, antecipando.
 ^ "Uau", vem a interjeição embargada do piloto. A câmera gira para o
 fora. "Rastreando um, faça com que sejam duas incógnitas."
-^ Fora do veículo espacial, uma área de cambaleia, curvada sob uma carga nas costas. O encontrado
+^ Fora do veículo espacial, um alienígena cambaleia, curvado sob uma carga nas costas. O alienígena
 estranha carapaça verde-acinzentada é equipada com um estranho revestimento prateado que parece
 armadura. Você pega os controles da câmera e aumenta o zoom, observando aquela pirâmide invertida
-de um rosto, aqueles olhos tão profundos nas dobras do crânio. Eles parecem sinistros, mas nunca se sabem. Talvez seus rostos estejam apenas... presos assim.
-^ Você volta e dá uma olhada no fardo do interesse. É outro relacionado, caído
+de um rosto, aqueles olhos tão profundos nas dobras do crânio. Eles parecem sinistros, mas nunca se sabe. Talvez seus rostos estejam apenas... presos assim.
+^ Você volta e dá uma olhada no fardo do alienígena. É outro alienígena, caído
 sobre o corpo do transportador. O piloto abre a escotilha do rover e toda a cabine
 enche com um lamento estranho que vai e volta. O piloto pragueja e hesita ao
 porta.
 ^ "Respiração de Worm, posso sentir isso... no meu peito, na minha cabeça..."
-^ Você diminui o volume. O som vibra através do veículo espacial. O conhecimento se transforma
+^ Você diminui o volume. O som vibra através do veículo espacial. O alienígena se transforma
 lentamente, e você vê que aquele que ele carrega tem cicatrizes no rosto, como se tivesse sido comido
-por um ataque à minhoca.
-^ "Saudações", diz o piloto do rover, mas o especialista apenas olha para ele. "Quem é você?" ó
+por um ataque de minhoca.
+^ "Saudações", diz o piloto do rover, mas o alienígena apenas olha para ele. "Quem é você?" o
 guarda fala de novo, e agora você ouve... sua própria voz retornando, como se ecoasse do
-Além disso, mas com um gorjeio estranho que parece fazer parte do lamento.
-^ "Você consegue entender?" essas palavras voltam também. O piloto balança a cabeça,
+alienígena, mas com um gorjeio estranho que parece fazer parte do lamento.
+^ "Você consegue entender?" e essas palavras voltam também. O piloto balança a cabeça,
 indefeso.
-^ Finalmente, o interlocutor se afastou.
+^ Finalmente, o alienígena se afasta.
 
 #INTERLUDE23
 #xs 500
 #caption Interlúdio: Esperando
-^ "$TITLE0 $NAME1, estamos nos aproximando da unidade localizada."
-^ Você assiste ao vídeo enquanto seu pessoal se aproxima da nave localizada.
-Você pode sentir seu coração batendo forte - seu povo será capaz de mudar o
-ressonância, usando as ferramentas rudimentares que você desenvolveu, e se comunicar com os interessados?
-^ Sua nave se aproxima. A nave relacionada, vazia e sinistra, espera.
+^ "$TITLE0 $NAME1, estamos nos aproximando da unidade alienígena."
+^ Você assiste ao vídeo enquanto seu pessoal se aproxima da nave alienígena.
+Você pode sentir seu coração batendo forte - seu povo será capaz de alterar o
+ressonância, usando as ferramentas rudimentares que você desenvolveu, e se comunicar com os alienígenas?
+^ Sua nave se aproxima. A nave alienígena, vazia e sinistra, espera.
 ^ "Eles estão apenas sentados lá, sem fazer nada, senhor. Vamos nos mudar..." Um som baixo
-um zumbido começa a emanar da nave espacial. Mesmo através do link, você pode sentir isso
+um zumbido começa a emanar da nave alienígena. Mesmo através do link, você pode sentir isso
 vibrando seus dentes.
 ^ "O que está acontecendo aí?"
 ^ "Nada até agora, $TITLE0. Parece um motor, mas eles não estão se movendo.
 Não tenho certeza se devemos nos aproximar. Eles têm armas, pensamos."
 ^ "Altere isso. Altere o som, do jeito que o traidor nos ensinou. Diga 'SAUDAÇÃO'."
-^ "Você quer alterar dizer o som do motor? Falar com o veículo?"
+^ "Você quer dizer alterar o som do motor? Falar com o veículo?"
 ^ "Eles estão lá", você diz. Você olha para o feed de vídeo, para o impassível
-painéis verdes-prateados da nave. "Eles estão ouvindo."
+painéis verde-prateados da nave alienígena. "Eles estão ouvindo."
 
 #INTERLUDE24
 #xs 500
 #caption Interlúdio: Invasão!
-^ A fila de especialistas marchando para $BASENAME5 parece formiga, mas formiga que avançam com
-malícia, pronto para consumir tudo o que estiver no seu caminho. Você vê cortando $BASENAME5's
-anime-se com as partículas da humanidade fugindo em todas as possíveis... refugiados
+^ A fila de alienígenas marchando para $BASENAME5 parece formigas, mas formigas que avançam com
+malícia, prontos para consumir tudo o que estiver em seu caminho. Você os vê cortando $BASENAME5's
+defesas e anime-se com as partículas da humanidade fugindo em todas as direções... refugiados
 que possa sobreviver a este ataque. Você observa por um momento e depois continua socando
-através das fitas de arquivo, como finais confirmados de seus leais tenentes
+através das fitas de arquivo, as transmissões finais de seus leais tenentes
 em $BASENAME5.
 ^ Pelo menos quais foram seus tenentes leais. A transmissão final de $BASENAME5 mostra
-a história completa...os humanos foram reunidos e jogados no chão com o estranho encontrado
-ataques de ressonância. Visões da guarda avançadas específicas, suas formas estranhas e altas parecendo
-empurrar através da própria estrutura das paredes da base. Os humanos morrendo não
+a história completa...os humanos foram reunidos e jogados no chão com o estranho alienígena
+ataques de ressonância. Visões da guarda avançada alienígena, suas formas estranhas e altas parecendo
+empurrar através da própria estrutura das paredes da base. Os humanos morrendo no
 corredores, segurando seus rostos, suas cabeças, suas barrigas.
-^ E então aquele flash rápido, aqueles três holojornalistas visitantes que publicaram
+^ E então aquele flash rápido, daqueles três holojornalistas visitantes que publicaram
 no corredor errado com sua câmera portátil. Você revisa a transmissão novamente, quase
 contra sua vontade.
 ^ Quando aquela porta se abriu...para ver todos aqueles humanos deitados no chão empilhados
-madeira, seus corpos transformados em uma substância estranha gelatinosa... e aquela aterrorizante
-imagem de um humano vivo com o rosto no canto enquanto os encontrados cubavam os cadáveres
-no chão e os colocados em recipientes brancos.
+madeira, seus corpos transformados em uma estranha substância gelatinosa... e aquela aterrorizante
+imagem de um humano vivo com o rosto no canto enquanto os alienígenas cubavam os cadáveres
+no chão e os colocou em recipientes brancos.
 ^ Então a câmera cai e desliga. Você sente sua mandíbula cerrar, contra a raiva e também contra o medo.
-^ Parece que os interessados ??não querem ser amigos.
+^ Parece que os alienígenas não querem ser amigos.
 
 #INTERLUDE25
 #xs 500
 #caption Interlúdio: Primeira Vitória
-^ As defesas propostas finalmente caíram e você assume uma posição de pesquisa perto do
+^ As defesas alienígenas finalmente caíram e você assume uma posição de pesquisa perto do
 perímetro. Sua Força de Ataque Alienígena de Elite avança na brecha com ataques rápidos e decisivos.
 movimentos, usando suas armas de embaralhamento para perturbar os campos de ressonância em torno de $ALIENBASENAME5.
 ^ Explosões de luz e fogo irrompem da base, seguidas por ondas de som vibrante
 e energia que atingiu seu peito como uma britadeira. Um guarda próximo fica pálido de repente.
-^ "Alien grita", você diz, enquanto outra explosão de fogo e um estelo alto vem do
+^ "Alien grita", você diz, enquanto outra explosão de fogo e um estalo alto vêm do
 bases estranhas de quatro patas. "Eles rasgam o campo de ressonância quando morrem."
 ^ [E suas carapaças duras se abrem como grãos de pipoca], você também pensa, mas
-decida não é importante-lo com o guarda ordenado. Os estes aumentam e os gritos.
+decida não compartilhá-lo com o guarda enjoado. Os estalos aumentam e os gritos.
 Você e o guarda se afastam e um de seus tenentes liga um dispositivo que embota o
 assalto sônico. Nas terras ao redor da base você pode ver refugiados estrangeiros fugindo por
-como colinas, algumas sendo perseguidas por suas tropas mais rápidas.
-^ Por fim, os estalos diminuem de frequência e o sinal totalmente limpo chega. Dois guardas não
-violação fique com total atenção e você pode sentir o orgulho irradiando de sua dor
-rostos. Você cena para eles enquanto passa.
-^ Você entra na base, a primeira base capturada da ameaça.
+as colinas, alguns sendo perseguidos por suas tropas mais rápidas.
+^ Por fim, os estalos diminuem de frequência e o sinal totalmente limpo chega. Dois guardas no
+violação fique com total atenção e você pode sentir o orgulho irradiando de sua rigidez
+rostos. Você acena para eles enquanto passa.
+^ Você entra na base, a primeira base capturada da ameaça alienígena.
 
 #INTERLUDE26
 #xs 500
 #caption Interlúdio: Farol no Céu
-^ Você acorda em seus aposentos banhado por uma estranha luz esverdeada, vinda através do
-janela redonda reforçada que dá para a paisagem exterior. Um zumbido estranho e profundo preenchido
-sala, e você regularmente ecos profundos dos interesses nela... ecos de suas vozes, de
+^ Você acorda em seus aposentos banhado por uma estranha luz esverdeada, vindo através do
+janela redonda reforçada que dá para a paisagem exterior. Um zumbido estranho e profundo preenche
+sala, e você reconhece ecos profundos dos alienígenas nela... ecos de suas vozes, de
 suas armas.
-^ Você toca rapidamente em uma tela sensível ao toque embutido na parte de trás da cabeceira, buscando
+^ Você toca rapidamente em uma tela sensível ao toque embutida na parte de trás da cabeceira, buscando
 através de feeds de vídeo posicionados ao redor do Planeta.
-^ [Lá.] Da base especializada $ALIENBASENAME5, uma coluna verde de luz se lança no
-céu. Você rapidamente salta uma imagem para o grande painel de visualização ao longo de uma parede, expandindo-a. Você
+^ [Lá.] Da base alienígena $ALIENBASENAME5, uma coluna verde de luz se lança no
+céu. Você rapidamente salta a imagem para o grande painel de visualização ao longo de uma parede, expandindo-a. Você
 saia da sua cama. Com a imagem no painel de visualização do tamanho de uma parede, parece que você está
 olhando para a paisagem do próprio Planeta, para as estranhas formas curvas do
-bases importantes. A luz verde ilumina assustadoramente o terreno ondulado perto da base encontrada,
+bases alienígenas. A luz verde ilumina assustadoramente o terreno ondulado perto da base alienígena,
 e você pode sentir o zumbido da ressonância em seu corpo e através do chão frio.
 ^ A voz de $SHIMODA9 de repente enche a sala, usando uma banda de emergência. "Estamos analisando
 isto, $TITLE0 $NAME1. O mais rápido que pudermos."
@@ -773,23 +773,23 @@ vagando de nexo de pensamento em nexo de pensamento, desesperado porque $ALIENLE
 com o Planetmind e se tornou sua personalidade dominante.
 ^ Você simplesmente não pode deixar isso passar.
 ^ Onde quer que você se mova, a personalidade dominante do Usurpador fica impressa.
-Para onde quer que você olhe, há almas humanas derivadas, presas em uma personalidade mestre
+Para onde quer que você olhe, há almas humanas à deriva, presas em uma personalidade mestre
 isso é completamente estranho para todos vocês.
 ^ Este é o custo de perder. Não a morte, mas uma eternidade vivendo na casa de outra pessoa
-sonho, constantemente agredido por filhos e imagens que não são seus.
+sonho, constantemente agredido por sons e imagens que não são seus.
 ^ Você capta um fio de pensamento, uma pequena lasca de energia no vasto novo
 Mente planetária. O pensamento é pequeno mas te enche de saudade...Terra. É um pensamento
 da Terra, a velha Terra deixada para trás, com suas florestas verdes e oceanos azuis regenerando
 depois do Armagedom.
 ^ Você rapidamente percebe que $ALIENLEADER5 está alcançando planetas próximos, tentando
-expanda seu domínio. Está enviando algumas das subpersonalidades do Usurpador da matriz
+expandir seu domínio. Está enviando algumas das subpersonalidades do Usurpador da matriz
 para a Terra, para colonizá-la.
 ^ Há apenas um momento para decidir, e basta um momento. Você pega carona em um
-personalidade especial particularmente densa, cavalgando silenciosamente na mente da colônia
+personalidade alienígena particularmente densa, cavalgando silenciosamente na mente da colônia
 enviar. Você sente a nave se fechando, as personalidades se estabelecendo em corpos sintéticos
 para a viagem. Você permanece no escuro, envolvendo-se em silêncio, espremendo-se em
 o canto mais distante da matriz de pensamento de um corpo.
-^ Se uma inteligência especializada detectar você, você será condenado a um destino muito pior
+^ Se a inteligência alienígena detectar você, você será condenado a um destino muito pior
 do que vagar pela Mente Inferior, mas isso não importa. Aqui está uma segunda chance, e uma
 possível resgate.
 ^ Um retorno para casa.
@@ -797,42 +797,42 @@ possível resgate.
 #INTERLUDE28
 #xs 500
 #caption Epílogo
-^ [Vinte e quatro horas métricas], você pensa, enquanto os dois guardas interessantes empurram você ao longo de um
-corredor escuro e estreito. Foi por quanto tempo você tentou que suas tropas resistissem
-tortura foi capturada.
-^ Mas agora que os hackers invadiram suas bases, disseramimaram sua população e capturaram
+^ [Vinte e quatro horas métricas], você pensa, enquanto os dois guardas alienígenas empurram você ao longo de um
+corredor escuro e estreito. Foi por quanto tempo você ordenou que suas tropas resistissem
+tortura se capturado.
+^ Mas agora que os alienígenas invadiram suas bases, dizimaram sua população e capturaram
 seu próprio corpo a caminho de uma cápsula de fuga, é difícil ver quantas vinte e quatro horas
 de tempo servirá. Pensando na ruína que eles causaram em toda a sua facção, você percebe
 não há mais ninguém para proteger.
-^ Sua mente trabalha a todo vapor, absorvendo detalhes sobre a base específica enquanto você caminha...
-corredores altos e estreitos, as câmaras de ressonância colocadas em corredores ao longo do corredor, o
-vibração alta constante que dá aos exercícios uma cama fácil para alterar, para se comunicar com
+^ Sua mente trabalha a todo vapor, absorvendo detalhes sobre a base alienígena enquanto você caminha...
+corredores altos e estreitos, as câmaras de ressonância colocadas em intervalos ao longo do corredor, o
+vibração alta constante que dá aos alienígenas uma cama fácil para alterar, para se comunicar com
 uns aos outros.
-^ Você entra em um corredor ainda mais escuro e uma porta de metal se abre com um chiado. Eles te apressaram
+^ Você entra em um corredor ainda mais escuro e uma porta de metal se abre com um chiado. Eles te apressam
 para frente, em direção ao que parece...
-^ [...uma esfera de proteção]. Incluindo algumas alterações especiais, cortesia do estilo
+^ [...uma esfera de punição]. Incluindo algumas alterações especiais, cortesia do alienígena
 cientistas.
-^ Você escaneia sua memória, reunindo tudo o que puder sobre a língua disponível.
+^ Você escaneia sua memória, reunindo tudo o que puder sobre a língua alienígena.
 Uma parte de você se pergunta se eles gostam da dor humana.
-^ Então a Esfera se fecha ao seu redor e logo nada mais importante.
+^ Então a Esfera se fecha ao seu redor e logo nada mais importa.
 
 #INTERLUDE29
 #xs 500
 #caption Epílogo
-^ O primeiro lançamento verde brilhante no céu acima do Planeta assusta você, mesmo que você
-começou a sentir sua inevitabilidade à medida que $ ALIENS5 lentamente ultrapassava o humano
-facções em todos os sentidos. Você interrompeu seu discurso de animação para as pessoas da sua varanda
+^ A primeira lança verde brilhante no céu acima do Planeta assusta você, mesmo que você
+começou a sentir sua inevitabilidade à medida que o $ALIENS5 lentamente ultrapassou o humano
+facções em todos os sentidos. Você interrompe seu discurso de animação para as pessoas da sua varanda
 e olhe para o céu.
 ^ Então, no horizonte, você vê outro raio, e o céu se enche novamente de espessura
 ondas de sons harmônicos. Você olha para baixo e vê a população reunida paralisada.
 ^ O som muda novamente, ondulando ainda mais longe, e depois novamente, e
-novamente, construindo em ondas. Feixes lançados lançam o céu de todas as direções. Seu quadro de comunicação
-acenda com comunicações de outras facções humanas, talvez desesperadas o suficiente para
+novamente, construindo em ondas. Feixes brilhantes lançam o céu de todas as direções. Seu quadro de comunicação
+acende com comunicações de outras facções humanas, talvez desesperadas o suficiente para
 conversar agora, finalmente percebendo que é hora de trabalharmos juntos, todos vocês, para resolver isso
 ameaça.
 ^ Os feixes se encontram bem acima da superfície do Planeta e o céu se abre com um gemido que
 balança o planeta até o seu núcleo. Você olha para o quadro de comunicação impotente. Você se pergunta se algum humano
-vivo sabe o que está reservado para você seguir. Para os outros líderes humanos, o último dos
+alive sabe o que está reservado para você a seguir. Para os outros líderes humanos, o último dos
 humanidade, e para si mesmo você só pode pensar...
 ^ [Tarde demais.]
 

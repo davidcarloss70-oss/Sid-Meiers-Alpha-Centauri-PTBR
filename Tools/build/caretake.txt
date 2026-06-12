@@ -79,11 +79,11 @@ Island Shallows
 Florescimento de Tau Ceti: Os horrores que atingem sistemas vizinhos nunca devem ser repetidos.
 Portanto: se isso significa o fim da nossa evolução como espécie, que assim seja.
 ^
-^-Zelador Lular H'minee
+^-- Zelador Lular H'minee
 ^"Sacrifício: Vida"
 
 #DATALINKS1
-^LÍDER: {zelador Lular H'minee}
+^LÍDER: {Caretaker Lular H'minee}
 ^ANTECEDENTES: {<Unknown>}
 ^AGENDA: {Prevent Transcendence}
 ^TÉCNICA: {Progenitor Psych, Centauri Ecology, Field Modulation, Information Networks, Biogenetics}
@@ -95,8 +95,8 @@ Portanto: se isso significa o fim da nossa evolução como espécie, que assim seja
 ^TANQUES DE RECICLAGEM gratuitos em todas as bases
 ^"Rede Energética" em cada base: {Increased infrastructure generates additional energy}
 ^Faça Planetfall com um Ogro de Batalha Mk I e um Pod de Colônia extra
-^Todas as unidades de combate prototipadas possuem raio de visão de 2 quadrados (sensibilidade de "ressonância")
-^Podemos direcionar esforços de pesquisa (redescobrindo tecnologia e infraestrutura)
+^Todas as unidades de combate prototipadas têm raio de visão de 2 quadrados (sensibilidade de "ressonância")
+^Pode direcionar esforços de pesquisa (redescobrindo tecnologia e infraestrutura)
 ^Possuir uma varredura física da superfície do planeta
 
 #FACTIONTRUCE

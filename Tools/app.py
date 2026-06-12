@@ -61,7 +61,7 @@ class App(ctk.CTk):
         self.tabview.grid(row=1, column=0, sticky="nsew", padx=20, pady=(10, 20))
         
         self.tab_install = self.tabview.add("Instalação & Jogo")
-        self.tab_ini = self.tabview.add("Correção Tela Preta (.ini)")
+        self.tab_ini = self.tabview.add("Edição de .ini")
         self.tab_cache = self.tabview.add("Editor de Textos (Avançado)")
         self.tab_logs = self.tabview.add("Logs")
         
@@ -171,26 +171,125 @@ class App(ctk.CTk):
         info_frame = ctk.CTkFrame(self.tab_ini)
         info_frame.grid(row=0, column=0, sticky="ew", padx=10, pady=10)
         
-        info_text = ("Configurações úteis para o Alpha Centauri.ini:\n\n"
-                    "[Correção de Tela Preta/Problemas de Inicialização]\n"
-                    "DirectDraw=0           -> (Recomendado) Desativa aceleração antiga, resolve tela preta no Windows 10/11\n"
-                    "DisableOpeningMovie=1  -> (Recomendado) Desativa a intro que costuma travar o jogo\n\n"
-                    "[Melhorias Gráficas e de UI]\n"
-                    "eax=1                  -> Habilita efeitos de áudio 3D avançados (EAX) se sua placa suportar\n"
-                    "FastFind=0             -> Corrige possíveis glitches ao localizar unidades na tela\n"
-                    "ForceOldVoxelAlgorithm=1 -> Conserta artefatos visuais nos voxels de terreno em placas modernas\n"
-                    "MainFontSize=16        -> Aumenta a fonte principal do jogo para telas de alta resolução\n\n"
-                    "Para editar: carregue o arquivo, altere ou adicione as linhas acima na seção [Alpha Centauri] e clique em Salvar.")
+        info_text = ("Editor de Alpha Centauri.ini:\n\n"
+                     "Use os botões abaixo para gerenciar o arquivo de configuração do jogo.\n"
+                     "Recomendamos aplicar a Configuração Otimizada para evitar o travamento (tela preta) que ocorre na expansão Alien Crossfire em PCs modernos.\n")
         ctk.CTkLabel(info_frame, text=info_text, justify="left", font=ctk.CTkFont(size=12)).pack(padx=10, pady=10)
         
+        btn_top_frame = ctk.CTkFrame(self.tab_ini, fg_color="transparent")
+        btn_top_frame.grid(row=1, column=0, sticky="ew", padx=10, pady=5)
+        
+        ctk.CTkButton(btn_top_frame, text="Carregar .ini do Jogo", command=self.load_ini).pack(side="left", padx=5)
+        ctk.CTkButton(btn_top_frame, text="Aplicar Configuração Otimizada", command=self.load_ini_optimized).pack(side="left", padx=5)
+        ctk.CTkButton(btn_top_frame, text="Voltar .ini Original", command=self.load_ini_original).pack(side="right", padx=5)
+
         self.ini_text = ctk.CTkTextbox(self.tab_ini, font=("Consolas", 12))
-        self.ini_text.grid(row=1, column=0, sticky="nsew", padx=10, pady=5)
+        self.ini_text.grid(row=2, column=0, sticky="nsew", padx=10, pady=5)
+        self.tab_ini.grid_rowconfigure(2, weight=1)
         
         btn_frame = ctk.CTkFrame(self.tab_ini, fg_color="transparent")
-        btn_frame.grid(row=2, column=0, sticky="ew", padx=10, pady=10)
+        btn_frame.grid(row=3, column=0, sticky="ew", padx=10, pady=10)
         
-        ctk.CTkButton(btn_frame, text="Carregar Alpha Centauri.ini", command=self.load_ini).pack(side="left", padx=5)
-        ctk.CTkButton(btn_frame, text="Salvar Alterações", command=self.save_ini).pack(side="right", padx=5)
+        ctk.CTkButton(btn_frame, text="Salvar Alterações no Jogo", command=self.save_ini).pack(side="right", padx=5)
+
+    def load_ini_optimized(self):
+        ini_optimized_text = """[PREFERENCES]
+
+[Alpha Centauri]
+ForceOldVoxelAlgorithm=1
+DisableOpeningMovie=1
+ds3d=1
+eax=1
+DirectDraw=0
+
+FastUnitAnim=0
+SmoothUnitAnim=0
+MainFontSize=16
+InterludeFontSize=16
+Prefs Format=12
+Difficulty=0
+Map Type=0
+Top Menu=1
+Faction=1
+Preferences=10111011111000011101110110110110
+More Preferences=1110100111000101101000
+Semaphore=00000000
+Announce=111100001110101001
+Rules=1101000001110
+Customize=0
+Custom World=2, 1, 1, 1, 1, 1, 1,                                
+Time Controls=1
+Latest Save=
+Latest Scenario=
+DontResetBeginnerPrefs=0
+
+[PRACX]
+Disabled=<DEFAULT>
+ScreenWidth=<DEFAULT>
+ScreenHeight=<DEFAULT>
+WindowWidth=<DEFAULT>
+WindowHeight=<DEFAULT>
+ZoomLevels=<DEFAULT>
+ScrollMin=<DEFAULT>
+ScrollMax=<DEFAULT>
+ScrollArea=<DEFAULT>
+MouseOverTileInfo=<DEFAULT>
+ShowUnworkedCityResources=<DEFAULT>
+ListScrollLines=<DEFAULT>
+ZoomedOutShowDetails=<DEFAULT>
+MoviePlayerCommand=<DEFAULT>"""
+        self.ini_text.delete("1.0", tk.END)
+        self.ini_text.insert(tk.END, ini_optimized_text)
+
+    def load_ini_original(self):
+        ini_original_text = """[PREFERENCES]
+ForceOldVoxelAlgorithm=0
+
+[Alpha Centauri]
+
+ds3d=1
+eax=1
+DirectDraw=0
+
+FastUnitAnim=0
+SmoothUnitAnim=0
+MainFontSize=16
+InterludeFontSize=16
+DisableOpeningMovie=0
+Prefs Format=12
+Difficulty=0
+Map Type=0
+Top Menu=1
+Faction=1
+Preferences=10111011111000011101110110110110
+More Preferences=1110100111000101101000
+Semaphore=00000000
+Announce=111100001110101001
+Rules=1101000001110
+Customize=0
+Custom World=2, 1, 1, 1, 1, 1, 1,                                
+Time Controls=1
+Latest Save=
+Latest Scenario=
+DontResetBeginnerPrefs=0
+
+[PRACX]
+Disabled=<DEFAULT>
+ScreenWidth=<DEFAULT>
+ScreenHeight=<DEFAULT>
+WindowWidth=<DEFAULT>
+WindowHeight=<DEFAULT>
+ZoomLevels=<DEFAULT>
+ScrollMin=<DEFAULT>
+ScrollMax=<DEFAULT>
+ScrollArea=<DEFAULT>
+MouseOverTileInfo=<DEFAULT>
+ShowUnworkedCityResources=<DEFAULT>
+ListScrollLines=<DEFAULT>
+ZoomedOutShowDetails=<DEFAULT>
+MoviePlayerCommand=<DEFAULT>"""
+        self.ini_text.delete("1.0", tk.END)
+        self.ini_text.insert(tk.END, ini_original_text)
 
     def load_ini(self):
         ini_path = os.path.join(self.game_dir.get(), "Alpha Centauri.ini")
@@ -408,16 +507,20 @@ class App(ctk.CTk):
                 importlib.reload(translate_game)
                 
                 build_dir = os.path.join(BASE_DIR, "build")
+                os.makedirs(build_dir, exist_ok=True)
+                
+                backup_dir = os.path.join(game_d, "backup_en")
+                os.makedirs(backup_dir, exist_ok=True)
                 
                 # Update paths dynamically before running
                 translate_phase2.GAME_DIR = game_d
                 translate_phase2.BUILD_DIR = build_dir
-                translate_phase2.BACKUP_DIR = os.path.join(game_d, "backup_en")
+                translate_phase2.BACKUP_DIR = backup_dir
                 translate_phase2.CACHE_FILE = os.path.join(BASE_DIR, "translation_cache.json")
                 
                 translate_game.GAME_DIR = game_d
                 translate_game.BUILD_DIR = build_dir
-                translate_game.BACKUP_DIR = os.path.join(game_d, "backup_en")
+                translate_game.BACKUP_DIR = backup_dir
                 translate_game.CACHE_FILE = os.path.join(BASE_DIR, "translation_cache.json")
                 
                 self.log("Iniciando Fase 2 de Tradução...")
@@ -427,7 +530,6 @@ class App(ctk.CTk):
                 translate_game.main()
                 
                 self.log("Copiando arquivos atualizados para a pasta do jogo...")
-                build_dir = os.path.join(BASE_DIR, "build")
                 for filename in os.listdir(build_dir):
                     src_file = os.path.join(build_dir, filename)
                     dst_file = os.path.join(game_d, filename)

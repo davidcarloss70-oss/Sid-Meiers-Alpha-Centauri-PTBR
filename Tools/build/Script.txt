@@ -280,7 +280,7 @@ Fêmea
 
 #NAME
 #xs 440
-#caption DIGITE SEU NAME
+#caption DIGITE SEU NOME
 #x -5
 #y -5
 #itemlist
