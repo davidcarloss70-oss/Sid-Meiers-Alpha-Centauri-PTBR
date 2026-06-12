@@ -9,6 +9,10 @@ Este projeto contém o patch de tradução completo, além de uma aplicação ex
 
 > [!WARNING]
 > **Aviso sobre Alien Crossfire:** Esta tradução **abrange 100% da expansão Alien Crossfire** (textos, facções extras, etc). Porém, o executável do Alien Crossfire original da GOG possui bugs conhecidos no Windows 10/11 que fazem o jogo fechar sozinho em alguns computadores. Isso é um erro da própria *engine* do jogo e **não** da tradução. Se o seu Alien Crossfire em inglês funciona normalmente no seu PC, a tradução funcionará perfeitamente nele!
+> 
+> **Solução Recomendada para o Crash do Alien Crossfire:**
+> Indicamos o projeto [Adamite](https://github.com/nathan-baggs/Adamite) criado por **nathan-baggs** para corrigir os travamentos em sistemas modernos.
+> **Como usar:** Baixe e abra o programa Adamite. Vá na pasta do seu jogo e arraste os executáveis `terranx.exe` e `terranx_PRACX.exe` (um por vez) para dentro da janela do Adamite. *(Nota: ao aplicar no PRACX pode aparecer uma mensagem de erro, basta ignorar e avançar)*. O programa criará novos executáveis chamados `terranx_nb.exe` e `terranx_PRACX_nb.exe`. Inicie a expansão usando esses novos executáveis e o jogo deverá rodar sem fechar sozinho!
 
 ---
 
